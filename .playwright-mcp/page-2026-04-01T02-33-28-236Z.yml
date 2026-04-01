@@ -1,0 +1,1046 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e3378]:
+        - generic: "Thai diner : r/FoodNYC"
+      - banner [ref=e3381]:
+        - navigation [ref=e3382]:
+          - link "Home" [ref=e3386] [cursor=pointer]:
+            - /url: /
+            - img [ref=e3388]
+          - search [ref=e3405]:
+            - generic [ref=e3407]:
+              - img [ref=e3410]
+              - generic "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e3413] [cursor=pointer]:
+                - button [pressed] [ref=e3414]:
+                  - generic [ref=e3418]: r/FoodNYC
+                - img [ref=e3420]
+              - textbox "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e3423]:
+                - /placeholder: Search in r/FoodNYC
+          - generic [ref=e3424]:
+            - button "Get App" [ref=e3429] [cursor=pointer]:
+              - generic [ref=e3430]:
+                - img [ref=e3432]
+                - generic [ref=e3434]: Get App
+            - link "Log In" [ref=e3438] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e3440]: Log In
+            - button "Expand user menu" [ref=e3445] [cursor=pointer]:
+              - img [ref=e3448]
+              - generic [ref=e3450]:
+                - generic: Expand user menu
+      - generic [ref=e3451]:
+        - generic [ref=e3452]:
+          - generic [ref=e3453]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e3454] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e3455] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e3456]:
+            - main [ref=e3457]:
+              - 'generic "Thai diner : r/FoodNYC"'
+              - generic [ref=e3458]:
+                - generic [ref=e3459]:
+                  - generic [ref=e3460]:
+                    - button "Back" [ref=e3462] [cursor=pointer]:
+                      - img [ref=e3465]
+                      - generic [ref=e3467]:
+                        - generic: Back
+                    - link "Go to FoodNYC" [ref=e3470] [cursor=pointer]:
+                      - /url: /r/FoodNYC/
+                      - generic [ref=e3474]:
+                        - generic: Go to FoodNYC
+                    - group [ref=e3475]:
+                      - generic [ref=e3476]:
+                        - link "r/FoodNYC" [ref=e3480] [cursor=pointer]:
+                          - /url: /r/FoodNYC/
+                        - generic [ref=e3481]: •
+                        - time [ref=e3482]: 3h ago
+                      - 'link "Author: Low_Refrigerator_666" [ref=e3488] [cursor=pointer]':
+                        - /url: /user/Low_Refrigerator_666/
+                        - text: Low_Refrigerator_666
+                  - button "Open user actions" [ref=e3492] [cursor=pointer]:
+                    - img [ref=e3495]
+                - generic [ref=e3498]:
+                  - 'heading "Post Title: Thai diner" [level=1] [ref=e3499]': Thai diner
+                  - 'link "Flair: Review" [ref=e3502] [cursor=pointer]':
+                    - /url: /r/FoodNYC/?f=flair_name%3A%22Review%22
+                    - 'generic "Flair: Review" [ref=e3504]': Review
+                - paragraph [ref=e3509]: We got the cheese steak, disco fries and the drunken noodles with chicken. Incredible bites and flavor. I also love their bar - the cheesesteak is absolute packed with flavor but might be too much to have by yourself.
+                - generic "Actions available for this post" [ref=e3510]:
+                  - generic [ref=e3513]:
+                    - button "Upvote" [ref=e3514] [cursor=pointer]:
+                      - img [ref=e3516]
+                      - generic [ref=e3518]:
+                        - generic: Upvote
+                    - generic [ref=e3520]: "1"
+                    - button "Downvote" [ref=e3521] [cursor=pointer]:
+                      - img [ref=e3523]
+                      - generic [ref=e3525]:
+                        - generic: Downvote
+                  - button "2 Go to comments" [ref=e3526] [cursor=pointer]:
+                    - generic [ref=e3527]:
+                      - img [ref=e3529]
+                      - generic [ref=e3532]: "2"
+                    - generic [ref=e3533]:
+                      - generic: Go to comments
+                  - button "Give award" [ref=e3535] [cursor=pointer]:
+                    - img [ref=e3538]
+                  - button "Share" [ref=e3543] [cursor=pointer]:
+                    - generic [ref=e3544]:
+                      - img [ref=e3546]
+                      - generic [ref=e3548]: Share
+              - generic "Your cravings made this happen. Now meet the Peppercorn BLT Whopper loaded with crispy bacon and Peppercorn Aioli. Get it now." [ref=e3549]:
+                - generic [ref=e3550]:
+                  - 'generic "Advertisement: Your cravings made this happen. Now meet the Peppercorn BLT Whopper loaded with crispy bacon and Peppercorn Aioli. Get it now." [ref=e3551]':
+                    - 'link "Advertisement: Your cravings made this happen. Now meet the Peppercorn BLT Whopper loaded with crispy bacon and Peppercorn Aioli. Get it now." [ref=e3552] [cursor=pointer]':
+                      - /url: https://alb.reddit.com/cr?za=gCrJGKq1vb6FcFeZaF2-TS9JEJnxONIxW0tRk4ZOIlKuABQZJvMnDLtDigw3rtNQaXq9tnAAsI3bqbMcvTpB7R7IbDWSGT9iEBdX6kvMeIQ_RALCIPZ9AEbvqMVzsi7tgdm4N6-oPeq4P-wdFUR_ANDCgLI-xaJMRrpbSp06Gz6o9ZLGtpHz-dmnmSDYCF9U8etMJzewkadejo0v3Up4gfnj8lFhKf-RelG_1hBKh9VNFXMt0Wadi_wx5gbOD5j2yCW0F7qRXL9Wgox6OmO19eJkjwUu9F4Yke80fxgNJyrhXQGiUPbk9-iwTLwEzO27LdPoe3hj3byixCM2OOi7vGo1uuz3f97YYbSkqGjxrPW7WFyhzYb4Pn7rto_AZxnxUrLB1RkpDtecZ7dRFUj9M3ji2ijDwJNtjDIlh43bfLPc1ksOM-iICI-HVuZsiWP4xbXjraV40TiFhkYhyuJRtsihUqXEnznCnXiXHB5tnRNDqvWkzfrPN4DE2sbTlL5OGDA-FxizLAWWfk3QK5Tp8PCHRp9tdfomQQzpgEtlsgVfvSiWcO8A-uP4kOhe-bxLzx2FLHlrzBCXneVFouB8UyB48wcJRZ9vV48XNdqy9cUcSzd6su8Lyw_LXwyj5UvkUCpcJAd4gYi9LoqPvH_oBzYj&zp=nteFQj62ASf0_197YM5Hb1rG3E36SzVPgSQ5kNTGooK8ljYNMKLQwHl3ZRufvv8D6JVDtAbK0x00IVFvdVsKCZfJdTENpBDWR5qqcmmJ2Ux0uFbQp-dVUpwtzHVE41sSI9U0lenMpaf-XM-R-dojjD8_1VJ2jkZYKlKVYWFuE1oFAGT22Uhln7BPg5sc4qlkIJmr-2boQJmj9BO6zP-AWmbeoxqG0VfzbLBCRbpNURUo8mctdTmHuhIybKembPG6VQgqsd3G5G1Nx_r--_A2fb6_HuzwXCXn2dwbc0qdNwdnpenmj9aJzeG1BoOjaBRjSz6IoEaLlNRrUttiK0m2wg53ZUgDwKiHp5rN71nqyerFV-NcMv-HPGhKgijZFmycZBeV3-_GgmKHcPCdbpSz_fQdc3ZL4Rl-qUdwh8EUn1hiITApj_RXLKq5Li33PmZMxBimkKBK5fhMOF2JQr-3qL3JCYR_xZe2bIg
+                  - generic [ref=e3553]:
+                    - generic [ref=e3554]:
+                      - link "u/burgerking avatar burgerking" [ref=e3557] [cursor=pointer]:
+                        - /url: /user/burgerking/
+                        - img "u/burgerking avatar" [ref=e3562]
+                        - generic [ref=e3563]: burgerking
+                      - generic [ref=e3564]: •
+                      - link "Promoted" [ref=e3566] [cursor=pointer]:
+                        - /url: /user/burgerking/
+                        - generic [ref=e3567]: Promoted
+                      - link [ref=e3569] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=gCrJGKq1vb6FcFeZaF2-TS9JEJnxONIxW0tRk4ZOIlKuABQZJvMnDLtDigw3rtNQaXq9tnAAsI3bqbMcvTpB7R7IbDWSGT9iEBdX6kvMeIQ_RALCIPZ9AEbvqMVzsi7tgdm4N6-oPeq4P-wdFUR_ANDCgLI-xaJMRrpbSp06Gz6o9ZLGtpHz-dmnmSDYCF9U8etMJzewkadejo0v3Up4gfnj8lFhKf-RelG_1hBKh9VNFXMt0Wadi_wx5gbOD5j2yCW0F7qRXL9Wgox6OmO19eJkjwUu9F4Yke80fxgNJyrhXQGiUPbk9-iwTLwEzO27LdPoe3hj3byixCM2OOi7vGo1uuz3f97YYbSkqGjxrPW7WFyhzYb4Pn7rto_AZxnxUrLB1RkpDtecZ7dRFUj9M3ji2ijDwJNtjDIlh43bfLPc1ksOM-iICI-HVuZsiWP4xbXjraV40TiFhkYhyuJRtsihUqXEnznCnXiXHB5tnRNDqvWkzfrPN4DE2sbTlL5OGDA-FxizLAWWfk3QK5Tp8PCHRp9tdfomQQzpgEtlsgVfvSiWcO8A-uP4kOhe-bxLzx2FLHlrzBCXneVFouB8UyB48wcJRZ9vV48XNdqy9cUcSzd6su8Lyw_LXwyj5UvkUCpcJAd4gYi9LoqPvH_oBzYj&zp=nteFQj62ASf0_197YM5Hb1rG3E36SzVPgSQ5kNTGooK8ljYNMKLQwHl3ZRufvv8D6JVDtAbK0x00IVFvdVsKCZfJdTENpBDWR5qqcmmJ2Ux0uFbQp-dVUpwtzHVE41sSI9U0lenMpaf-XM-R-dojjD8_1VJ2jkZYKlKVYWFuE1oFAGT22Uhln7BPg5sc4qlkIJmr-2boQJmj9BO6zP-AWmbeoxqG0VfzbLBCRbpNURUo8mctdTmHuhIybKembPG6VQgqsd3G5G1Nx_r--_A2fb6_HuzwXCXn2dwbc0qdNwdnpenmj9aJzeG1BoOjaBRjSz6IoEaLlNRrUttiK0m2wg53ZUgDwKiHp5rN71nqyerFV-NcMv-HPGhKgijZFmycZBeV3-_GgmKHcPCdbpSz_fQdc3ZL4Rl-qUdwh8EUn1hiITApj_RXLKq5Li33PmZMxBimkKBK5fhMOF2JQr-3qL3JCYR_xZe2bIg
+                    - button "Open user actions" [ref=e3574] [cursor=pointer]:
+                      - img [ref=e3577]
+                  - generic [ref=e3580]:
+                    - generic [ref=e3581]:
+                      - link "Your cravings made this happen. Now meet the Peppercorn BLT Whopper loaded with crispy bacon and Peppercorn Aioli. Get it now." [ref=e3583] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=gCrJGKq1vb6FcFeZaF2-TS9JEJnxONIxW0tRk4ZOIlKuABQZJvMnDLtDigw3rtNQaXq9tnAAsI3bqbMcvTpB7R7IbDWSGT9iEBdX6kvMeIQ_RALCIPZ9AEbvqMVzsi7tgdm4N6-oPeq4P-wdFUR_ANDCgLI-xaJMRrpbSp06Gz6o9ZLGtpHz-dmnmSDYCF9U8etMJzewkadejo0v3Up4gfnj8lFhKf-RelG_1hBKh9VNFXMt0Wadi_wx5gbOD5j2yCW0F7qRXL9Wgox6OmO19eJkjwUu9F4Yke80fxgNJyrhXQGiUPbk9-iwTLwEzO27LdPoe3hj3byixCM2OOi7vGo1uuz3f97YYbSkqGjxrPW7WFyhzYb4Pn7rto_AZxnxUrLB1RkpDtecZ7dRFUj9M3ji2ijDwJNtjDIlh43bfLPc1ksOM-iICI-HVuZsiWP4xbXjraV40TiFhkYhyuJRtsihUqXEnznCnXiXHB5tnRNDqvWkzfrPN4DE2sbTlL5OGDA-FxizLAWWfk3QK5Tp8PCHRp9tdfomQQzpgEtlsgVfvSiWcO8A-uP4kOhe-bxLzx2FLHlrzBCXneVFouB8UyB48wcJRZ9vV48XNdqy9cUcSzd6su8Lyw_LXwyj5UvkUCpcJAd4gYi9LoqPvH_oBzYj&zp=nteFQj62ASf0_197YM5Hb1rG3E36SzVPgSQ5kNTGooK8ljYNMKLQwHl3ZRufvv8D6JVDtAbK0x00IVFvdVsKCZfJdTENpBDWR5qqcmmJ2Ux0uFbQp-dVUpwtzHVE41sSI9U0lenMpaf-XM-R-dojjD8_1VJ2jkZYKlKVYWFuE1oFAGT22Uhln7BPg5sc4qlkIJmr-2boQJmj9BO6zP-AWmbeoxqG0VfzbLBCRbpNURUo8mctdTmHuhIybKembPG6VQgqsd3G5G1Nx_r--_A2fb6_HuzwXCXn2dwbc0qdNwdnpenmj9aJzeG1BoOjaBRjSz6IoEaLlNRrUttiK0m2wg53ZUgDwKiHp5rN71nqyerFV-NcMv-HPGhKgijZFmycZBeV3-_GgmKHcPCdbpSz_fQdc3ZL4Rl-qUdwh8EUn1hiITApj_RXLKq5Li33PmZMxBimkKBK5fhMOF2JQr-3qL3JCYR_xZe2bIg&a=0&b=0&be=0&c=0&d=0&e=0&ea=0&eb=0&f=0&r=0&g=0&i=0&t=1775010807978&o=0&q=0&h=188&w=540&sh=1117&sw=1728
+                        - generic: Your cravings made this happen. Now meet the Peppercorn BLT Whopper loaded with crispy bacon and Peppercorn Aioli. Get it now.
+                      - generic [ref=e3584]:
+                        - link [ref=e3586] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=gCrJGKq1vb6FcFeZaF2-TS9JEJnxONIxW0tRk4ZOIlKuABQZJvMnDLtDigw3rtNQaXq9tnAAsI3bqbMcvTpB7R7IbDWSGT9iEBdX6kvMeIQ_RALCIPZ9AEbvqMVzsi7tgdm4N6-oPeq4P-wdFUR_ANDCgLI-xaJMRrpbSp06Gz6o9ZLGtpHz-dmnmSDYCF9U8etMJzewkadejo0v3Up4gfnj8lFhKf-RelG_1hBKh9VNFXMt0Wadi_wx5gbOD5j2yCW0F7qRXL9Wgox6OmO19eJkjwUu9F4Yke80fxgNJyrhXQGiUPbk9-iwTLwEzO27LdPoe3hj3byixCM2OOi7vGo1uuz3f97YYbSkqGjxrPW7WFyhzYb4Pn7rto_AZxnxUrLB1RkpDtecZ7dRFUj9M3ji2ijDwJNtjDIlh43bfLPc1ksOM-iICI-HVuZsiWP4xbXjraV40TiFhkYhyuJRtsihUqXEnznCnXiXHB5tnRNDqvWkzfrPN4DE2sbTlL5OGDA-FxizLAWWfk3QK5Tp8PCHRp9tdfomQQzpgEtlsgVfvSiWcO8A-uP4kOhe-bxLzx2FLHlrzBCXneVFouB8UyB48wcJRZ9vV48XNdqy9cUcSzd6su8Lyw_LXwyj5UvkUCpcJAd4gYi9LoqPvH_oBzYj&zp=nteFQj62ASf0_197YM5Hb1rG3E36SzVPgSQ5kNTGooK8ljYNMKLQwHl3ZRufvv8D6JVDtAbK0x00IVFvdVsKCZfJdTENpBDWR5qqcmmJ2Ux0uFbQp-dVUpwtzHVE41sSI9U0lenMpaf-XM-R-dojjD8_1VJ2jkZYKlKVYWFuE1oFAGT22Uhln7BPg5sc4qlkIJmr-2boQJmj9BO6zP-AWmbeoxqG0VfzbLBCRbpNURUo8mctdTmHuhIybKembPG6VQgqsd3G5G1Nx_r--_A2fb6_HuzwXCXn2dwbc0qdNwdnpenmj9aJzeG1BoOjaBRjSz6IoEaLlNRrUttiK0m2wg53ZUgDwKiHp5rN71nqyerFV-NcMv-HPGhKgijZFmycZBeV3-_GgmKHcPCdbpSz_fQdc3ZL4Rl-qUdwh8EUn1hiITApj_RXLKq5Li33PmZMxBimkKBK5fhMOF2JQr-3qL3JCYR_xZe2bIg
+                        - generic [ref=e3587]:
+                          - link "Order Now" [ref=e3589] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=gCrJGKq1vb6FcFeZaF2-TS9JEJnxONIxW0tRk4ZOIlKuABQZJvMnDLtDigw3rtNQaXq9tnAAsI3bqbMcvTpB7R7IbDWSGT9iEBdX6kvMeIQ_RALCIPZ9AEbvqMVzsi7tgdm4N6-oPeq4P-wdFUR_ANDCgLI-xaJMRrpbSp06Gz6o9ZLGtpHz-dmnmSDYCF9U8etMJzewkadejo0v3Up4gfnj8lFhKf-RelG_1hBKh9VNFXMt0Wadi_wx5gbOD5j2yCW0F7qRXL9Wgox6OmO19eJkjwUu9F4Yke80fxgNJyrhXQGiUPbk9-iwTLwEzO27LdPoe3hj3byixCM2OOi7vGo1uuz3f97YYbSkqGjxrPW7WFyhzYb4Pn7rto_AZxnxUrLB1RkpDtecZ7dRFUj9M3ji2ijDwJNtjDIlh43bfLPc1ksOM-iICI-HVuZsiWP4xbXjraV40TiFhkYhyuJRtsihUqXEnznCnXiXHB5tnRNDqvWkzfrPN4DE2sbTlL5OGDA-FxizLAWWfk3QK5Tp8PCHRp9tdfomQQzpgEtlsgVfvSiWcO8A-uP4kOhe-bxLzx2FLHlrzBCXneVFouB8UyB48wcJRZ9vV48XNdqy9cUcSzd6su8Lyw_LXwyj5UvkUCpcJAd4gYi9LoqPvH_oBzYj&zp=nteFQj62ASf0_197YM5Hb1rG3E36SzVPgSQ5kNTGooK8ljYNMKLQwHl3ZRufvv8D6JVDtAbK0x00IVFvdVsKCZfJdTENpBDWR5qqcmmJ2Ux0uFbQp-dVUpwtzHVE41sSI9U0lenMpaf-XM-R-dojjD8_1VJ2jkZYKlKVYWFuE1oFAGT22Uhln7BPg5sc4qlkIJmr-2boQJmj9BO6zP-AWmbeoxqG0VfzbLBCRbpNURUo8mctdTmHuhIybKembPG6VQgqsd3G5G1Nx_r--_A2fb6_HuzwXCXn2dwbc0qdNwdnpenmj9aJzeG1BoOjaBRjSz6IoEaLlNRrUttiK0m2wg53ZUgDwKiHp5rN71nqyerFV-NcMv-HPGhKgijZFmycZBeV3-_GgmKHcPCdbpSz_fQdc3ZL4Rl-qUdwh8EUn1hiITApj_RXLKq5Li33PmZMxBimkKBK5fhMOF2JQr-3qL3JCYR_xZe2bIg
+                            - generic [ref=e3591]:
+                              - generic: Order Now
+                          - link "bk.com" [ref=e3594] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=gCrJGKq1vb6FcFeZaF2-TS9JEJnxONIxW0tRk4ZOIlKuABQZJvMnDLtDigw3rtNQaXq9tnAAsI3bqbMcvTpB7R7IbDWSGT9iEBdX6kvMeIQ_RALCIPZ9AEbvqMVzsi7tgdm4N6-oPeq4P-wdFUR_ANDCgLI-xaJMRrpbSp06Gz6o9ZLGtpHz-dmnmSDYCF9U8etMJzewkadejo0v3Up4gfnj8lFhKf-RelG_1hBKh9VNFXMt0Wadi_wx5gbOD5j2yCW0F7qRXL9Wgox6OmO19eJkjwUu9F4Yke80fxgNJyrhXQGiUPbk9-iwTLwEzO27LdPoe3hj3byixCM2OOi7vGo1uuz3f97YYbSkqGjxrPW7WFyhzYb4Pn7rto_AZxnxUrLB1RkpDtecZ7dRFUj9M3ji2ijDwJNtjDIlh43bfLPc1ksOM-iICI-HVuZsiWP4xbXjraV40TiFhkYhyuJRtsihUqXEnznCnXiXHB5tnRNDqvWkzfrPN4DE2sbTlL5OGDA-FxizLAWWfk3QK5Tp8PCHRp9tdfomQQzpgEtlsgVfvSiWcO8A-uP4kOhe-bxLzx2FLHlrzBCXneVFouB8UyB48wcJRZ9vV48XNdqy9cUcSzd6su8Lyw_LXwyj5UvkUCpcJAd4gYi9LoqPvH_oBzYj&zp=nteFQj62ASf0_197YM5Hb1rG3E36SzVPgSQ5kNTGooK8ljYNMKLQwHl3ZRufvv8D6JVDtAbK0x00IVFvdVsKCZfJdTENpBDWR5qqcmmJ2Ux0uFbQp-dVUpwtzHVE41sSI9U0lenMpaf-XM-R-dojjD8_1VJ2jkZYKlKVYWFuE1oFAGT22Uhln7BPg5sc4qlkIJmr-2boQJmj9BO6zP-AWmbeoxqG0VfzbLBCRbpNURUo8mctdTmHuhIybKembPG6VQgqsd3G5G1Nx_r--_A2fb6_HuzwXCXn2dwbc0qdNwdnpenmj9aJzeG1BoOjaBRjSz6IoEaLlNRrUttiK0m2wg53ZUgDwKiHp5rN71nqyerFV-NcMv-HPGhKgijZFmycZBeV3-_GgmKHcPCdbpSz_fQdc3ZL4Rl-qUdwh8EUn1hiITApj_RXLKq5Li33PmZMxBimkKBK5fhMOF2JQr-3qL3JCYR_xZe2bIg
+                            - generic: bk.com
+                    - 'link "Thumbnail image: Your cravings made this happen. Now meet the Peppercorn BLT Whopper loaded with crispy bacon and Peppercorn Aioli. Get it now." [ref=e3597] [cursor=pointer]':
+                      - /url: https://alb.reddit.com/cr?za=gCrJGKq1vb6FcFeZaF2-TS9JEJnxONIxW0tRk4ZOIlKuABQZJvMnDLtDigw3rtNQaXq9tnAAsI3bqbMcvTpB7R7IbDWSGT9iEBdX6kvMeIQ_RALCIPZ9AEbvqMVzsi7tgdm4N6-oPeq4P-wdFUR_ANDCgLI-xaJMRrpbSp06Gz6o9ZLGtpHz-dmnmSDYCF9U8etMJzewkadejo0v3Up4gfnj8lFhKf-RelG_1hBKh9VNFXMt0Wadi_wx5gbOD5j2yCW0F7qRXL9Wgox6OmO19eJkjwUu9F4Yke80fxgNJyrhXQGiUPbk9-iwTLwEzO27LdPoe3hj3byixCM2OOi7vGo1uuz3f97YYbSkqGjxrPW7WFyhzYb4Pn7rto_AZxnxUrLB1RkpDtecZ7dRFUj9M3ji2ijDwJNtjDIlh43bfLPc1ksOM-iICI-HVuZsiWP4xbXjraV40TiFhkYhyuJRtsihUqXEnznCnXiXHB5tnRNDqvWkzfrPN4DE2sbTlL5OGDA-FxizLAWWfk3QK5Tp8PCHRp9tdfomQQzpgEtlsgVfvSiWcO8A-uP4kOhe-bxLzx2FLHlrzBCXneVFouB8UyB48wcJRZ9vV48XNdqy9cUcSzd6su8Lyw_LXwyj5UvkUCpcJAd4gYi9LoqPvH_oBzYj&zp=nteFQj62ASf0_197YM5Hb1rG3E36SzVPgSQ5kNTGooK8ljYNMKLQwHl3ZRufvv8D6JVDtAbK0x00IVFvdVsKCZfJdTENpBDWR5qqcmmJ2Ux0uFbQp-dVUpwtzHVE41sSI9U0lenMpaf-XM-R-dojjD8_1VJ2jkZYKlKVYWFuE1oFAGT22Uhln7BPg5sc4qlkIJmr-2boQJmj9BO6zP-AWmbeoxqG0VfzbLBCRbpNURUo8mctdTmHuhIybKembPG6VQgqsd3G5G1Nx_r--_A2fb6_HuzwXCXn2dwbc0qdNwdnpenmj9aJzeG1BoOjaBRjSz6IoEaLlNRrUttiK0m2wg53ZUgDwKiHp5rN71nqyerFV-NcMv-HPGhKgijZFmycZBeV3-_GgmKHcPCdbpSz_fQdc3ZL4Rl-qUdwh8EUn1hiITApj_RXLKq5Li33PmZMxBimkKBK5fhMOF2JQr-3qL3JCYR_xZe2bIg
+                      - 'img "Thumbnail image: Your cravings made this happen. Now meet the Peppercorn BLT Whopper loaded with crispy bacon and Peppercorn Aioli. Get it now." [ref=e3598]'
+              - generic [ref=e3600]:
+                - generic:
+                  - generic [ref=e3601]:
+                    - button "Button to add a comment" [disabled]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - textbox [disabled]:
+                                  - /placeholder: Join the conversation
+                  - generic [ref=e3606]:
+                    - generic [ref=e3608]:
+                      - generic [ref=e3609]: "Sort by:"
+                      - button "Sort by Best" [ref=e3614] [cursor=pointer]:
+                        - generic [ref=e3616]: Best
+                    - button "Search Comments Expand comment search" [ref=e3623] [cursor=pointer]:
+                      - generic [ref=e3624]:
+                        - img [ref=e3627]
+                        - generic [ref=e3630]: Search Comments
+                      - generic [ref=e3631]:
+                        - generic: Expand comment search
+              - region "Comments" [ref=e3635]:
+                - heading "Comments Section" [level=1] [ref=e3636]
+                - generic:
+                  - article "Comment from lolaonbigmouth 2 hours ago" [ref=e3638]:
+                    - generic "Metadata for lolaonbigmouth's comment" [ref=e3639]:
+                      - button [ref=e3641] [cursor=pointer]:
+                        - img [ref=e3644]
+                      - generic [ref=e3650]:
+                        - link "lolaonbigmouth's profile" [ref=e3654] [cursor=pointer]:
+                          - /url: /user/lolaonbigmouth/
+                          - text: lolaonbigmouth
+                        - generic [ref=e3655]: •
+                        - link "2h ago" [ref=e3656] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s94948/comment/odlqngc/
+                          - time [ref=e3657]: 2h ago
+                  - article "Comment from Calm_Machine7634 3 hours ago" [ref=e3659]:
+                    - generic "Metadata for Calm_Machine7634's comment" [ref=e3660]:
+                      - link "Calm_Machine7634's profile --- avatar" [ref=e3666] [cursor=pointer]:
+                        - /url: /user/Calm_Machine7634/
+                        - img "u/Calm_Machine7634 avatar" [ref=e3669]
+                      - generic [ref=e3674]:
+                        - link "Calm_Machine7634's profile" [ref=e3678] [cursor=pointer]:
+                          - /url: /user/Calm_Machine7634/
+                          - text: Calm_Machine7634
+                        - generic [ref=e3679]: •
+                        - link "3h ago" [ref=e3680] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s94948/comment/odlobxy/
+                          - time [ref=e3681]: 3h ago
+                    - generic [ref=e3682]:
+                      - paragraph [ref=e3689]: Went with friends and ordered a bunch of stuff and it was a fantastic meal
+                      - generic [ref=e3697]:
+                        - generic [ref=e3699]:
+                          - button "Upvote" [ref=e3700] [cursor=pointer]:
+                            - img [ref=e3702]
+                            - generic [ref=e3704]:
+                              - generic: Upvote
+                          - generic [ref=e3706]: "1"
+                          - button "Downvote" [ref=e3707] [cursor=pointer]:
+                            - img [ref=e3709]
+                            - generic [ref=e3711]:
+                              - generic: Downvote
+                        - button "Reply" [ref=e3713] [cursor=pointer]:
+                          - generic [ref=e3714]:
+                            - img [ref=e3716]
+                            - generic [ref=e3718]: Reply
+                        - button "Give award" [ref=e3720] [cursor=pointer]:
+                          - generic [ref=e3721]:
+                            - img [ref=e3723]
+                            - generic [ref=e3726]: Award
+                        - button "Share" [ref=e3729] [cursor=pointer]:
+                          - generic [ref=e3730]:
+                            - img [ref=e3732]
+                            - generic [ref=e3734]: Share
+                        - button "Open user actions" [ref=e3738] [cursor=pointer]:
+                          - img [ref=e3741]
+            - generic [ref=e3743]:
+              - generic [ref=e3744]:
+                - complementary "Related Answers Section" [ref=e3746]:
+                  - heading "Related Answers Section" [level=1] [ref=e3747]
+                  - generic [ref=e3748]:
+                    - img [ref=e3750]
+                    - generic [ref=e3752]: Related Answers
+                  - generic [ref=e3753]:
+                    - link "Hidden gem restaurants in NYC" [ref=e3755] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/9886a59c-d7c3-49f8-9ddd-2f82a0220a5e/?q=Hidden+gem+restaurants+in+NYC&source=PDP
+                      - generic [ref=e3758]: Hidden gem restaurants in NYC
+                      - img [ref=e3761]
+                    - link "Best food trucks in New York City" [ref=e3764] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/83db8ab6-5150-4b98-be61-c7d67a4bb111/?q=Best+food+trucks+in+New+York+City&source=PDP
+                      - generic [ref=e3767]: Best food trucks in New York City
+                      - img [ref=e3770]
+                    - link "Unique dessert spots in NYC" [ref=e3773] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/6968a803-df32-4bdb-8481-18ede4e79b23/?q=Unique+dessert+spots+in+NYC&source=PDP
+                      - generic [ref=e3776]: Unique dessert spots in NYC
+                      - img [ref=e3779]
+                    - link "Top brunch places in Manhattan" [ref=e3782] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/02895d34-a80a-4d8c-be5a-cc25d2d7a63e/?q=Top+brunch+places+in+Manhattan&source=PDP
+                      - generic [ref=e3785]: Top brunch places in Manhattan
+                      - img [ref=e3788]
+                    - link "Must-try street food in NYC" [ref=e3791] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/8d2cf61c-f1a6-4681-94a1-685a0f2e611d/?q=Must-try+street+food+in+NYC&source=PDP
+                      - generic [ref=e3794]: Must-try street food in NYC
+                      - img [ref=e3797]
+                - complementary [ref=e3801]:
+                  - generic [ref=e3802]:
+                    - generic [ref=e3803]: New to Reddit?
+                    - paragraph [ref=e3804]: Create your account and connect with a world of communities.
+                  - generic [ref=e3805]:
+                    - iframe [ref=e3814]:
+                      - button "Continue with Google. Opens in new tab" [ref=f25e3] [cursor=pointer]:
+                        - generic [ref=f25e5]:
+                          - img [ref=f25e7]
+                          - generic [ref=f25e14]: Continue with Google
+                    - link "Continue with Email" [ref=e3816] [cursor=pointer]:
+                      - /url: https://www.reddit.com/register/
+                      - generic [ref=e3819]:
+                        - img [ref=e3820]
+                        - generic [ref=e3822]: Continue with Email
+                  - link "Continue With Phone Number" [ref=e3825] [cursor=pointer]:
+                    - /url: https://www.reddit.com/login/
+                    - generic [ref=e3828]:
+                      - img [ref=e3829]
+                      - generic [ref=e3832]: Continue With Phone Number
+                  - generic [ref=e3833]:
+                    - text: By continuing, you agree to our
+                    - link "User Agreement" [ref=e3834] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/user-agreement
+                    - text: and acknowledge that you understand the
+                    - link "Privacy Policy" [ref=e3835] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/privacy-policy
+                    - text: .
+                - complementary "Related Posts Section" [ref=e3836]:
+                  - heading "Related Posts Section" [level=1] [ref=e3837]: More posts you may like
+                  - list [ref=e3843]:
+                    - listitem [ref=e3844]:
+                      - generic [ref=e3845]:
+                        - generic [ref=e3847]:
+                          - link "What’s a Really Good Diner?" [ref=e3848] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1nwuk9v/whats_a_really_good_diner/
+                            - generic [ref=e3849]:
+                              - generic: What’s a Really Good Diner?
+                          - generic [ref=e3851]:
+                            - generic [ref=e3852]:
+                              - generic [ref=e3855]:
+                                - link "r/FoodNYC" [ref=e3856] [cursor=pointer]:
+                                  - /url: /r/FoodNYC/
+                                  - generic [ref=e3860]: r/FoodNYC
+                                - generic [ref=e3861]: •
+                                - time [ref=e3863]: 6mo ago
+                              - link "List item post - What’s a Really Good Diner?" [ref=e3865] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1nwuk9v/whats_a_really_good_diner/
+                                - heading "List item post - What’s a Really Good Diner?" [level=3] [ref=e3868]: What’s a Really Good Diner?
+                            - generic [ref=e3870]:
+                              - link "r/FoodNYC - What’s a Really Good Diner?" [ref=e3871] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1nwuk9v/whats_a_really_good_diner/
+                                - img "r/FoodNYC - What’s a Really Good Diner?" [ref=e3872]
+                              - generic:
+                                - img
+                                - generic: "3"
+                          - generic [ref=e3874]:
+                            - generic [ref=e3875]: "394"
+                            - text: upvotes ·
+                            - generic [ref=e3876]: "237"
+                            - text: comments
+                        - separator [ref=e3877]
+                    - listitem [ref=e3878]:
+                      - generic [ref=e3879]:
+                        - generic [ref=e3881]:
+                          - link "my chef friend👨🏻‍🍳 said Thai Diner is the best restaurant in NYC right now.. he wasn't wrong" [ref=e3882] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1p2baq8/my_chef_friend_said_thai_diner_is_the_best/
+                            - generic [ref=e3883]:
+                              - generic: my chef friend👨🏻‍🍳 said Thai Diner is the best restaurant in NYC right now.. he wasn't wrong
+                          - generic [ref=e3885]:
+                            - generic [ref=e3886]:
+                              - generic [ref=e3889]:
+                                - link "r/FoodNYC" [ref=e3890] [cursor=pointer]:
+                                  - /url: /r/FoodNYC/
+                                  - generic [ref=e3894]: r/FoodNYC
+                                - generic [ref=e3895]: •
+                                - time [ref=e3897]: 4mo ago
+                              - link "List item post - my chef friend👨🏻‍🍳 said Thai Diner is the best restauran..." [ref=e3899] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1p2baq8/my_chef_friend_said_thai_diner_is_the_best/
+                                - heading "List item post - my chef friend👨🏻‍🍳 said Thai Diner is the best restauran..." [level=3] [ref=e3902]: my chef friend👨🏻‍🍳 said Thai Diner is the best restaurant in NYC right now.. he wasn't wrong
+                            - generic [ref=e3904]:
+                              - link "r/FoodNYC - my chef friend👨🏻‍🍳 said Thai Diner is the best restaurant in NYC right now.. he wasn't wrong" [ref=e3905] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1p2baq8/my_chef_friend_said_thai_diner_is_the_best/
+                                - img "r/FoodNYC - my chef friend👨🏻‍🍳 said Thai Diner is the best restaurant in NYC right now.. he wasn't wrong" [ref=e3906]
+                              - generic:
+                                - img
+                                - generic: "8"
+                          - generic [ref=e3908]:
+                            - generic [ref=e3909]: "443"
+                            - text: upvotes ·
+                            - generic [ref=e3910]: "168"
+                            - text: comments
+                        - separator [ref=e3911]
+                    - listitem [ref=e3912]:
+                      - generic [ref=e3913]:
+                        - generic [ref=e3915]:
+                          - link "Sala Thai" [ref=e3916] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1kutoc9/sala_thai/
+                            - generic [ref=e3917]:
+                              - generic: Sala Thai
+                          - generic [ref=e3919]:
+                            - generic [ref=e3920]:
+                              - generic [ref=e3923]:
+                                - link "r/FoodNYC" [ref=e3924] [cursor=pointer]:
+                                  - /url: /r/FoodNYC/
+                                  - generic [ref=e3928]: r/FoodNYC
+                                - generic [ref=e3929]: •
+                                - time [ref=e3931]: 10mo ago
+                              - link "List item post - Sala Thai" [ref=e3933] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1kutoc9/sala_thai/
+                                - heading "List item post - Sala Thai" [level=3] [ref=e3936]: Sala Thai
+                            - generic [ref=e3938]:
+                              - link "r/FoodNYC - Sala Thai" [ref=e3939] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1kutoc9/sala_thai/
+                                - img "r/FoodNYC - Sala Thai" [ref=e3940]
+                              - generic:
+                                - img
+                                - generic: "3"
+                          - generic [ref=e3942]:
+                            - generic [ref=e3943]: "26"
+                            - text: upvotes ·
+                            - generic [ref=e3944]: "6"
+                            - text: comments
+                        - separator [ref=e3945]
+                    - listitem [ref=e3946]:
+                      - article [ref=e3949]:
+                        - generic [ref=e3950]:
+                          - generic [ref=e3951]: Promoted
+                          - button "Open user actions" [ref=e3957] [cursor=pointer]:
+                            - img [ref=e3960]
+                        - link "sidebar promoted post thumbnail" [ref=e3963] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=6IMCcprVUCp5RAx16AAKanFzaGUak-k02OR_LqTlMcCFfg37yFXU3Q3_gbrhoK3161tmIbvryRG5kZxCxPW4gQM6CXkgDnBuoShZhU3DuVV4JUitbMPEpOR43PdyfY5oR7GmZ3nRemWn7NCLYWjWTGRuFh_YlIKLmB1o0_1sVGbSLQq1uu2qPTeB05smB3RTxdHIbBw1a1a8urZL6umfzE3h-3iOyTJgyqor1ee8x_wXHaXKj8lOQSEkvb4HZUeCJ_fJyc1V3lhujxgdhhn7s2CSaem87kQEJHa6V5i0FZ_AR8EN9kkqLcXugImfCgE4-CGJxUu2E3cCbFfBeZ8lUtGEshUZliVqzpB_M_SP6cVrLku4En5lOT5jaWR_XWCNq1AUBONiJvKVTWEReen9SDiIyiCR23-eIbg8sa0YJYDhRGrzdeAyZYrzwwspV0gm-LH-R2ZNQA4vcKS9ueQ9rTSVlIbiJ1GCxZe99yMlnDuDbqNiGpdrArf3l2rt9WMy1MnOILOjQ07P-HsHAGj0avbhc5su1AYLSnirV9Zkb2C1Ogu7K-QcIdmu9recYMcWvVlZYXP1XjoKXWb1DhyHaH283sa74YhXVT_uqk32X7hfexTQoNma3CSm3EHNSDPLUi0OnSazzsfeke-JSukXLSZT&zp=dEeCWIWbtxP7pfQI91fjMpGzFNganfs7ICRNNcLy0_xUQXTd3yNx8FmCNnE3NKb3-B1ChQWYXhh2eODLqPH3GCCnev6OOmKP5NfpOx8V5ZKwpwfk-WKUtVx8uO5v46xgSqgVbtst5Kgp3yW8mmHwaXyfxz8Uwyqg7lzpgZDwGKPTQ3HZ-yV_QkL7Hi6Dwn2x6cuEqGVCgStHkEk9QPxkpA31ZUQ1yVGmp0w00H8hwrkbRujfhjKXz5Z_txMbhXhhyco-izteCI6s02OAOiVWu4lahj24wfQ-H2oEHp-GRTdQJjXwe_tgM0WtS0oEd_4byxsMkDztIxHwa_uqmYxrn8UASYbLquyCjzqGQ5K4PtVaZq_9OVegd1DecT0UB5Q9hStRDJ2i6Gk9GgF5ZV8dVEzTuNVY7BBDUtAC37ClWxZehJWjqy6N8I9cIywbP45jfCNayWT_hTv1H5m9LlG68ZbR-a114IjL_qo
+                          - img "sidebar promoted post thumbnail" [ref=e3965]
+                      - separator [ref=e3966]
+                    - listitem [ref=e3967]:
+                      - generic [ref=e3968]:
+                        - generic [ref=e3970]:
+                          - link "Best Restaurants (that you can actually get into)?" [ref=e3971] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1peyyjd/best_restaurants_that_you_can_actually_get_into/
+                            - generic [ref=e3972]:
+                              - generic: Best Restaurants (that you can actually get into)?
+                          - generic [ref=e3975]:
+                            - generic [ref=e3978]:
+                              - link "r/FoodNYC" [ref=e3979] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e3983]: r/FoodNYC
+                              - generic [ref=e3984]: •
+                              - time [ref=e3986]: 4mo ago
+                            - link "List item post - Best Restaurants (that you can actually get into)?" [ref=e3988] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1peyyjd/best_restaurants_that_you_can_actually_get_into/
+                              - heading "List item post - Best Restaurants (that you can actually get into)?" [level=3] [ref=e3991]: Best Restaurants (that you can actually get into)?
+                          - generic [ref=e3993]:
+                            - generic [ref=e3994]: "40"
+                            - text: upvotes ·
+                            - generic [ref=e3995]: "67"
+                            - text: comments
+                        - separator [ref=e3996]
+                    - listitem [ref=e3997]:
+                      - generic [ref=e3998]:
+                        - generic [ref=e4000]:
+                          - link "Golden Diner" [ref=e4001] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1rmbg2e/golden_diner/
+                            - generic [ref=e4002]:
+                              - generic: Golden Diner
+                          - generic [ref=e4004]:
+                            - generic [ref=e4005]:
+                              - generic [ref=e4008]:
+                                - link "r/FoodNYC" [ref=e4009] [cursor=pointer]:
+                                  - /url: /r/FoodNYC/
+                                  - generic [ref=e4013]: r/FoodNYC
+                                - generic [ref=e4014]: •
+                                - time [ref=e4016]: 26d ago
+                              - link "List item post - Golden Diner" [ref=e4018] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1rmbg2e/golden_diner/
+                                - heading "List item post - Golden Diner" [level=3] [ref=e4021]: Golden Diner
+                            - generic [ref=e4023]:
+                              - link "r/FoodNYC - Golden Diner" [ref=e4024] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1rmbg2e/golden_diner/
+                                - img "r/FoodNYC - Golden Diner" [ref=e4025]
+                              - generic:
+                                - img
+                                - generic: "7"
+                          - generic [ref=e4027]:
+                            - generic [ref=e4028]: "713"
+                            - text: upvotes ·
+                            - generic [ref=e4029]: "73"
+                            - text: comments
+                        - separator [ref=e4030]
+                    - listitem [ref=e4031]:
+                      - generic [ref=e4032]:
+                        - generic [ref=e4034]:
+                          - link "What restaurant(s) is this for you?" [ref=e4035] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1ojiz18/what_restaurants_is_this_for_you/
+                            - generic [ref=e4036]:
+                              - generic: What restaurant(s) is this for you?
+                          - generic [ref=e4038]:
+                            - generic [ref=e4039]:
+                              - generic [ref=e4042]:
+                                - link "r/FoodNYC" [ref=e4043] [cursor=pointer]:
+                                  - /url: /r/FoodNYC/
+                                  - generic [ref=e4047]: r/FoodNYC
+                                - generic [ref=e4048]: •
+                                - time [ref=e4050]: 5mo ago
+                              - link "List item post - What restaurant(s) is this for you?" [ref=e4052] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1ojiz18/what_restaurants_is_this_for_you/
+                                - heading "List item post - What restaurant(s) is this for you?" [level=3] [ref=e4055]: What restaurant(s) is this for you?
+                            - link "r/FoodNYC - What restaurant(s) is this for you?" [ref=e4058] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1ojiz18/what_restaurants_is_this_for_you/
+                              - img "r/FoodNYC - What restaurant(s) is this for you?" [ref=e4059]
+                          - generic [ref=e4061]:
+                            - generic [ref=e4062]: "495"
+                            - text: upvotes ·
+                            - generic [ref=e4063]: "111"
+                            - text: comments
+                        - separator [ref=e4064]
+                    - listitem [ref=e4065]:
+                      - generic [ref=e4066]:
+                        - generic [ref=e4068]:
+                          - link "Queens Thai food destroys Manhattan" [ref=e4069] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1nhbnsr/queens_thai_food_destroys_manhattan/
+                            - generic [ref=e4070]:
+                              - generic: Queens Thai food destroys Manhattan
+                          - generic [ref=e4073]:
+                            - generic [ref=e4076]:
+                              - link "r/FoodNYC" [ref=e4077] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4081]: r/FoodNYC
+                              - generic [ref=e4082]: •
+                              - time [ref=e4084]: 7mo ago
+                            - link "List item post - Queens Thai food destroys Manhattan" [ref=e4086] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1nhbnsr/queens_thai_food_destroys_manhattan/
+                              - heading "List item post - Queens Thai food destroys Manhattan" [level=3] [ref=e4089]: Queens Thai food destroys Manhattan
+                          - generic [ref=e4091]:
+                            - generic [ref=e4092]: "262"
+                            - text: upvotes ·
+                            - generic [ref=e4093]: "132"
+                            - text: comments
+                        - separator [ref=e4094]
+                    - listitem [ref=e4095]:
+                      - generic [ref=e4096]:
+                        - generic [ref=e4098]:
+                          - link "Recommend me your go to diner, mine’s jumped the shark" [ref=e4099] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1n6xmv4/recommend_me_your_go_to_diner_mines_jumped_the/
+                            - generic [ref=e4100]:
+                              - generic: Recommend me your go to diner, mine’s jumped the shark
+                          - generic [ref=e4103]:
+                            - generic [ref=e4106]:
+                              - link "r/FoodNYC" [ref=e4107] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4111]: r/FoodNYC
+                              - generic [ref=e4112]: •
+                              - time [ref=e4114]: 7mo ago
+                            - link "List item post - Recommend me your go to diner, mine’s jumped the shark" [ref=e4116] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1n6xmv4/recommend_me_your_go_to_diner_mines_jumped_the/
+                              - heading "List item post - Recommend me your go to diner, mine’s jumped the shark" [level=3] [ref=e4119]: Recommend me your go to diner, mine’s jumped the shark
+                          - generic [ref=e4121]:
+                            - generic [ref=e4122]: "129"
+                            - text: upvotes ·
+                            - generic [ref=e4123]: "95"
+                            - text: comments
+                        - separator [ref=e4124]
+                    - listitem [ref=e4125]:
+                      - article [ref=e4128]:
+                        - generic [ref=e4129]:
+                          - generic [ref=e4130]: Promoted
+                          - button "Open user actions" [ref=e4136] [cursor=pointer]:
+                            - img [ref=e4139]
+                        - link "sidebar promoted post thumbnail" [ref=e4142] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=BLJN6v-b0jYIRTFAeW_iSDzlMlJkXy0r8Rnnue4_vxViQ-fN9hrmS2J5KZmmObclWmAqLEsnAfFxQCx20j8UJAJ9cQLBqB01Z6P4sOkrwD-dPkYRt1ZR2toDWvZk_Qma0-S99vChmsn3WZI2q5bJQtQpL3D73RmyaVlsC4k2M3G90nOnrIV8wr7UlHJGmco4lI0H8u3pOIB1llj_od5S8Dhp5F5s8E4mYz08Sax2W7TxSbBcKA7BuHo9XMnUAJEDtCq-8E8iRhVnFTpw4LZx6AofUZSc2gAcgUMSHe3PuVDplBodq0Nfp7JSQy7k3hH0c4uMl-B_AVseJDewCKQ5DfoXwsHsIfQrW5eiO9r_Jz_iNCuufDIA3L8XJ0ZlsM2D0up94pgaDbqP1xUQyOk0AV4wul2Abm2UneTO_CsqR1BdIMuxV5OkYgiDtLhX99Wf0R2aOfXB1Wrqi9UdjyWh0rMSqaEpi0KFPNbKbz8bOpH0owAeF3xl0u1OFqe_or8fhw9FOeYrwJkoRPECkx0KKp2oi47XMYrZb49Qz4PC1fPtOSC00oJm7J6a7kcYI0iV_AZpATRMF5beyjpzFFWt2J3AeYcfcL8Mc5iOsyYTZnCxLjVi0gYy3eWcy8oKYqX7Rtd1uHIJ8b0rgDQurBHnRGl-&zp=klu2rcoSvq1TD5AUABEvxBkUPvXV69VON70AuYebiwAtBEFEZdq4SpFmdGyvmekedDCwxn6IHxoPJPaiQHxbKW6EsP4RkidhIxqD_zE4xvXScgSKmpCkko_iCm8zw3KwIgImPElrgqgV5xwwggJphdDweT825mEdjfRV7yRurpX4wm2IOEhyiYQBQBte4Sci9T3m8A4UTiH2EkLWhfT546018vvhYUFGE1dYNOwPriec-_zav4UeBQX1p76Z6Gs3rlxAcT16fbzLRP0LskkJVg6iqOL-7YZcZpYHzGVs3ilpGSrZHGIxPqrqBVQCGBccGqdSQV9U4Bl0G40o8QbZ1dgWqoAAvgrGpCdrRjwyxmvslC35v8De2E9O0FUWIlPHJvf0vYordmvsu-C8ElIN38ckKigbShtrpR86jyIaIp9UiBnK_c_WipaEkCkQ1auHiX1JwhMEYE7tFqgOyMhGrYo0osxLkS0k4Ww
+                          - img "sidebar promoted post thumbnail" [ref=e4144]
+                      - separator [ref=e4145]
+                    - listitem [ref=e4146]:
+                      - generic [ref=e4147]:
+                        - generic [ref=e4149]:
+                          - link "Thai food in Brooklyn recs? most recs have gotten old on the sub." [ref=e4150] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1pu5qy5/thai_food_in_brooklyn_recs_most_recs_have_gotten/
+                            - generic [ref=e4151]:
+                              - generic: Thai food in Brooklyn recs? most recs have gotten old on the sub.
+                          - generic [ref=e4154]:
+                            - generic [ref=e4157]:
+                              - link "r/FoodNYC" [ref=e4158] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4162]: r/FoodNYC
+                              - generic [ref=e4163]: •
+                              - time [ref=e4165]: 3mo ago
+                            - link "List item post - Thai food in Brooklyn recs? most recs have gotten old on th..." [ref=e4167] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1pu5qy5/thai_food_in_brooklyn_recs_most_recs_have_gotten/
+                              - heading "List item post - Thai food in Brooklyn recs? most recs have gotten old on th..." [level=3] [ref=e4170]: Thai food in Brooklyn recs? most recs have gotten old on the sub.
+                          - generic [ref=e4172]:
+                            - generic [ref=e4173]: "12"
+                            - text: upvotes ·
+                            - generic [ref=e4174]: "30"
+                            - text: comments
+                        - separator [ref=e4175]
+                    - listitem [ref=e4176]:
+                      - generic [ref=e4177]:
+                        - generic [ref=e4179]:
+                          - link "Eating through NYC" [ref=e4180] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1roio1q/eating_through_nyc/
+                            - generic [ref=e4181]:
+                              - generic: Eating through NYC
+                          - generic [ref=e4183]:
+                            - generic [ref=e4184]:
+                              - generic [ref=e4187]:
+                                - link "r/FoodNYC" [ref=e4188] [cursor=pointer]:
+                                  - /url: /r/FoodNYC/
+                                  - generic [ref=e4192]: r/FoodNYC
+                                - generic [ref=e4193]: •
+                                - time [ref=e4195]: 23d ago
+                              - link "List item post - Eating through NYC" [ref=e4197] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1roio1q/eating_through_nyc/
+                                - heading "List item post - Eating through NYC" [level=3] [ref=e4200]: Eating through NYC
+                            - generic [ref=e4202]:
+                              - link "r/FoodNYC - Eating through NYC" [ref=e4203] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1roio1q/eating_through_nyc/
+                                - img "r/FoodNYC - Eating through NYC" [ref=e4204]
+                              - generic:
+                                - img
+                                - generic: "13"
+                          - generic [ref=e4206]:
+                            - generic [ref=e4207]: "332"
+                            - text: upvotes ·
+                            - generic [ref=e4208]: "36"
+                            - text: comments
+                        - separator [ref=e4209]
+                    - listitem [ref=e4210]:
+                      - generic [ref=e4211]:
+                        - generic [ref=e4213]:
+                          - link "Where is a Tough Dinner Res but Easy for Lunch?" [ref=e4214] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1oy3lca/where_is_a_tough_dinner_res_but_easy_for_lunch/
+                            - generic [ref=e4215]:
+                              - generic: Where is a Tough Dinner Res but Easy for Lunch?
+                          - generic [ref=e4218]:
+                            - generic [ref=e4221]:
+                              - link "r/FoodNYC" [ref=e4222] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4226]: r/FoodNYC
+                              - generic [ref=e4227]: •
+                              - time [ref=e4229]: 5mo ago
+                            - link "List item post - Where is a Tough Dinner Res but Easy for Lunch?" [ref=e4231] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1oy3lca/where_is_a_tough_dinner_res_but_easy_for_lunch/
+                              - heading "List item post - Where is a Tough Dinner Res but Easy for Lunch?" [level=3] [ref=e4234]: Where is a Tough Dinner Res but Easy for Lunch?
+                          - generic [ref=e4236]:
+                            - generic [ref=e4237]: "96"
+                            - text: upvotes ·
+                            - generic [ref=e4238]: "34"
+                            - text: comments
+                        - separator [ref=e4239]
+                    - listitem [ref=e4240]:
+                      - generic [ref=e4241]:
+                        - generic [ref=e4243]:
+                          - link "Manhattan Thai" [ref=e4244] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1s0r44q/manhattan_thai/
+                            - generic [ref=e4245]:
+                              - generic: Manhattan Thai
+                          - generic [ref=e4248]:
+                            - generic [ref=e4251]:
+                              - link "r/FoodNYC" [ref=e4252] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4256]: r/FoodNYC
+                              - generic [ref=e4257]: •
+                              - time [ref=e4259]: 9d ago
+                            - link "List item post - Manhattan Thai" [ref=e4261] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1s0r44q/manhattan_thai/
+                              - heading "List item post - Manhattan Thai" [level=3] [ref=e4264]: Manhattan Thai
+                          - generic [ref=e4266]:
+                            - generic [ref=e4267]: "69"
+                            - text: upvotes ·
+                            - generic [ref=e4268]: "110"
+                            - text: comments
+                        - separator [ref=e4269]
+                    - listitem [ref=e4270]:
+                      - generic [ref=e4271]:
+                        - generic [ref=e4273]:
+                          - link "Third day in NYC and I got food poisoning from a Thai place" [ref=e4274] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1k2bqys/third_day_in_nyc_and_i_got_food_poisoning_from_a/
+                            - generic [ref=e4275]:
+                              - generic: Third day in NYC and I got food poisoning from a Thai place
+                          - generic [ref=e4278]:
+                            - generic [ref=e4281]:
+                              - link "r/FoodNYC" [ref=e4282] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4286]: r/FoodNYC
+                              - generic [ref=e4287]: •
+                              - time [ref=e4289]: 1y ago
+                            - link "List item post - Third day in NYC and I got food poisoning from a Thai place" [ref=e4291] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1k2bqys/third_day_in_nyc_and_i_got_food_poisoning_from_a/
+                              - heading "List item post - Third day in NYC and I got food poisoning from a Thai place" [level=3] [ref=e4294]: Third day in NYC and I got food poisoning from a Thai place
+                          - generic [ref=e4296]:
+                            - generic [ref=e4297]: "22"
+                            - text: comments
+                        - separator [ref=e4298]
+                    - listitem [ref=e4299]:
+                      - generic [ref=e4300]:
+                        - generic [ref=e4302]:
+                          - link "Flushing Chinese Restaurants" [ref=e4303] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1o3hdqd/flushing_chinese_restaurants/
+                            - generic [ref=e4304]:
+                              - generic: Flushing Chinese Restaurants
+                          - generic [ref=e4307]:
+                            - generic [ref=e4310]:
+                              - link "r/FoodNYC" [ref=e4311] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4315]: r/FoodNYC
+                              - generic [ref=e4316]: •
+                              - time [ref=e4318]: 6mo ago
+                            - link "List item post - Flushing Chinese Restaurants" [ref=e4320] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1o3hdqd/flushing_chinese_restaurants/
+                              - heading "List item post - Flushing Chinese Restaurants" [level=3] [ref=e4323]: Flushing Chinese Restaurants
+                          - generic [ref=e4325]:
+                            - generic [ref=e4326]: "5"
+                            - text: upvotes ·
+                            - generic [ref=e4327]: "25"
+                            - text: comments
+                        - separator [ref=e4328]
+                    - listitem [ref=e4329]:
+                      - generic [ref=e4330]:
+                        - generic [ref=e4332]:
+                          - link "Not THE BEST Restaurant" [ref=e4333] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1nl7m26/not_the_best_restaurant/
+                            - generic [ref=e4334]:
+                              - generic: Not THE BEST Restaurant
+                          - generic [ref=e4337]:
+                            - generic [ref=e4340]:
+                              - link "r/FoodNYC" [ref=e4341] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4345]: r/FoodNYC
+                              - generic [ref=e4346]: •
+                              - time [ref=e4348]: 6mo ago
+                            - link "List item post - Not THE BEST Restaurant" [ref=e4350] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1nl7m26/not_the_best_restaurant/
+                              - heading "List item post - Not THE BEST Restaurant" [level=3] [ref=e4353]: Not THE BEST Restaurant
+                          - generic [ref=e4355]:
+                            - generic [ref=e4356]: "129"
+                            - text: upvotes ·
+                            - generic [ref=e4357]: "183"
+                            - text: comments
+                        - separator [ref=e4358]
+                    - listitem [ref=e4359]:
+                      - generic [ref=e4360]:
+                        - generic [ref=e4362]:
+                          - link "I built a site to log my favorite bites across NYC. Elmhurst might have the best Thai food stretch in the city" [ref=e4363] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1r7j10u/i_built_a_site_to_log_my_favorite_bites_across/
+                            - generic [ref=e4364]:
+                              - generic: I built a site to log my favorite bites across NYC. Elmhurst might have the best Thai food stretch in the city
+                          - generic [ref=e4366]:
+                            - generic [ref=e4367]:
+                              - generic [ref=e4370]:
+                                - link "r/FoodNYC" [ref=e4371] [cursor=pointer]:
+                                  - /url: /r/FoodNYC/
+                                  - generic [ref=e4375]: r/FoodNYC
+                                - generic [ref=e4376]: •
+                                - time [ref=e4378]: 1mo ago
+                              - link "List item post - I built a site to log my favorite bites across NYC. Elmhurs..." [ref=e4380] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1r7j10u/i_built_a_site_to_log_my_favorite_bites_across/
+                                - heading "List item post - I built a site to log my favorite bites across NYC. Elmhurs..." [level=3] [ref=e4383]: I built a site to log my favorite bites across NYC. Elmhurst might have the best Thai food stretch in the city
+                            - generic [ref=e4385]:
+                              - link "r/FoodNYC - I built a site to log my favorite bites across NYC. Elmhurst might have the best Thai food stretch in the city" [ref=e4386] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1r7j10u/i_built_a_site_to_log_my_favorite_bites_across/
+                                - img "r/FoodNYC - I built a site to log my favorite bites across NYC. Elmhurst might have the best Thai food stretch in the city" [ref=e4387]
+                              - generic:
+                                - img
+                                - generic: "6"
+                          - generic [ref=e4389]:
+                            - generic [ref=e4390]: "85"
+                            - text: upvotes ·
+                            - generic [ref=e4391]: "27"
+                            - text: comments
+                        - separator [ref=e4392]
+                    - listitem [ref=e4393]:
+                      - generic [ref=e4394]:
+                        - generic [ref=e4396]:
+                          - link "Dessert place" [ref=e4397] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1rs7682/dessert_place/
+                            - generic [ref=e4398]:
+                              - generic: Dessert place
+                          - generic [ref=e4401]:
+                            - generic [ref=e4404]:
+                              - link "r/FoodNYC" [ref=e4405] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4409]: r/FoodNYC
+                              - generic [ref=e4410]: •
+                              - time [ref=e4412]: 19d ago
+                            - link "List item post - Dessert place" [ref=e4414] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1rs7682/dessert_place/
+                              - heading "List item post - Dessert place" [level=3] [ref=e4417]: Dessert place
+                          - generic [ref=e4419]:
+                            - generic [ref=e4420]: "6"
+                            - text: upvotes ·
+                            - generic [ref=e4421]: "57"
+                            - text: comments
+                        - separator [ref=e4422]
+                    - listitem [ref=e4423]:
+                      - generic [ref=e4424]:
+                        - generic [ref=e4426]:
+                          - link "Need help with good dinner places" [ref=e4427] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1s0sbld/need_help_with_good_dinner_places/
+                            - generic [ref=e4428]:
+                              - generic: Need help with good dinner places
+                          - generic [ref=e4431]:
+                            - generic [ref=e4434]:
+                              - link "r/FoodNYC" [ref=e4435] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4439]: r/FoodNYC
+                              - generic [ref=e4440]: •
+                              - time [ref=e4442]: 9d ago
+                            - link "List item post - Need help with good dinner places" [ref=e4444] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1s0sbld/need_help_with_good_dinner_places/
+                              - heading "List item post - Need help with good dinner places" [level=3] [ref=e4447]: Need help with good dinner places
+                          - generic [ref=e4449]:
+                            - generic [ref=e4450]: "21"
+                            - text: comments
+                        - separator [ref=e4451]
+                    - listitem [ref=e4452]:
+                      - generic [ref=e4453]:
+                        - generic [ref=e4455]:
+                          - link "What are restaurants past their hype, but still solid for a first time diner?" [ref=e4456] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1l57trp/what_are_restaurants_past_their_hype_but_still/
+                            - generic [ref=e4457]:
+                              - generic: What are restaurants past their hype, but still solid for a first time diner?
+                          - generic [ref=e4460]:
+                            - generic [ref=e4463]:
+                              - link "r/FoodNYC" [ref=e4464] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4468]: r/FoodNYC
+                              - generic [ref=e4469]: •
+                              - time [ref=e4471]: 10mo ago
+                            - link "List item post - What are restaurants past their hype, but still solid for a..." [ref=e4473] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1l57trp/what_are_restaurants_past_their_hype_but_still/
+                              - heading "List item post - What are restaurants past their hype, but still solid for a..." [level=3] [ref=e4476]: What are restaurants past their hype, but still solid for a first time diner?
+                          - generic [ref=e4478]:
+                            - generic [ref=e4479]: "95"
+                            - text: upvotes ·
+                            - generic [ref=e4480]: "97"
+                            - text: comments
+                        - separator [ref=e4481]
+                    - listitem [ref=e4482]:
+                      - generic [ref=e4483]:
+                        - generic [ref=e4485]:
+                          - link "Weekly Reservation Transfer Thread" [ref=e4486] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1ruso7y/weekly_reservation_transfer_thread/
+                            - generic [ref=e4487]:
+                              - generic: Weekly Reservation Transfer Thread
+                          - generic [ref=e4490]:
+                            - generic [ref=e4493]:
+                              - link "r/FoodNYC" [ref=e4494] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4498]: r/FoodNYC
+                              - generic [ref=e4499]: •
+                              - time [ref=e4501]: 16d ago
+                            - link "List item post - Weekly Reservation Transfer Thread" [ref=e4503] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1ruso7y/weekly_reservation_transfer_thread/
+                              - heading "List item post - Weekly Reservation Transfer Thread" [level=3] [ref=e4506]: Weekly Reservation Transfer Thread
+                          - generic [ref=e4508]:
+                            - generic [ref=e4509]: "6"
+                            - text: upvotes ·
+                            - generic [ref=e4510]: "4"
+                            - text: comments
+                        - separator [ref=e4511]
+                    - listitem [ref=e4512]:
+                      - generic [ref=e4513]:
+                        - generic [ref=e4515]:
+                          - link "Birthday dinner for GF" [ref=e4516] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1r5s9zs/birthday_dinner_for_gf/
+                            - generic [ref=e4517]:
+                              - generic: Birthday dinner for GF
+                          - generic [ref=e4520]:
+                            - generic [ref=e4523]:
+                              - link "r/FoodNYC" [ref=e4524] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4528]: r/FoodNYC
+                              - generic [ref=e4529]: •
+                              - time [ref=e4531]: 1mo ago
+                            - link "List item post - Birthday dinner for GF" [ref=e4533] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1r5s9zs/birthday_dinner_for_gf/
+                              - heading "List item post - Birthday dinner for GF" [level=3] [ref=e4536]: Birthday dinner for GF
+                          - generic [ref=e4538]:
+                            - generic [ref=e4539]: "17"
+                            - text: comments
+                        - separator [ref=e4540]
+                    - listitem [ref=e4541]:
+                      - generic [ref=e4542]:
+                        - generic [ref=e4544]:
+                          - link "Looking for the perfect birthday dinner spot" [ref=e4545] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1qd568f/looking_for_the_perfect_birthday_dinner_spot/
+                            - generic [ref=e4546]:
+                              - generic: Looking for the perfect birthday dinner spot
+                          - generic [ref=e4549]:
+                            - generic [ref=e4552]:
+                              - link "r/FoodNYC" [ref=e4553] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4557]: r/FoodNYC
+                              - generic [ref=e4558]: •
+                              - time [ref=e4560]: 3mo ago
+                            - link "List item post - Looking for the perfect birthday dinner spot" [ref=e4562] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1qd568f/looking_for_the_perfect_birthday_dinner_spot/
+                              - heading "List item post - Looking for the perfect birthday dinner spot" [level=3] [ref=e4565]: Looking for the perfect birthday dinner spot
+                          - generic [ref=e4567]:
+                            - generic [ref=e4568]: "9"
+                            - text: comments
+                        - separator [ref=e4569]
+                    - listitem [ref=e4570]:
+                      - generic [ref=e4571]:
+                        - generic [ref=e4573]:
+                          - link "Dinners with a show or unique dinner experiences with entertainment close to Manhattan?" [ref=e4574] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1oqas2o/dinners_with_a_show_or_unique_dinner_experiences/
+                            - generic [ref=e4575]:
+                              - generic: Dinners with a show or unique dinner experiences with entertainment close to Manhattan?
+                          - generic [ref=e4578]:
+                            - generic [ref=e4581]:
+                              - link "r/FoodNYC" [ref=e4582] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4586]: r/FoodNYC
+                              - generic [ref=e4587]: •
+                              - time [ref=e4589]: 5mo ago
+                            - link "List item post - Dinners with a show or unique dinner experiences with enter..." [ref=e4591] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1oqas2o/dinners_with_a_show_or_unique_dinner_experiences/
+                              - heading "List item post - Dinners with a show or unique dinner experiences with enter..." [level=3] [ref=e4594]: Dinners with a show or unique dinner experiences with entertainment close to Manhattan?
+                          - generic [ref=e4596]:
+                            - generic [ref=e4597]: "12"
+                            - text: comments
+                        - separator [ref=e4598]
+                    - listitem [ref=e4599]:
+                      - generic [ref=e4600]:
+                        - generic [ref=e4602]:
+                          - link "Solo diner in NY, searching for a few lunch and dinner recommendations please!" [ref=e4603] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1lj07k3/solo_diner_in_ny_searching_for_a_few_lunch_and/
+                            - generic [ref=e4604]:
+                              - generic: Solo diner in NY, searching for a few lunch and dinner recommendations please!
+                          - generic [ref=e4607]:
+                            - generic [ref=e4610]:
+                              - link "r/FoodNYC" [ref=e4611] [cursor=pointer]:
+                                - /url: /r/FoodNYC/
+                                - generic [ref=e4615]: r/FoodNYC
+                              - generic [ref=e4616]: •
+                              - time [ref=e4618]: 9mo ago
+                            - link "List item post - Solo diner in NY, searching for a few lunch and dinner reco..." [ref=e4620] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1lj07k3/solo_diner_in_ny_searching_for_a_few_lunch_and/
+                              - heading "List item post - Solo diner in NY, searching for a few lunch and dinner reco..." [level=3] [ref=e4623]: Solo diner in NY, searching for a few lunch and dinner recommendations please!
+                          - generic [ref=e4625]:
+                            - generic [ref=e4626]: "10"
+                            - text: upvotes ·
+                            - generic [ref=e4627]: "33"
+                            - text: comments
+                        - separator [ref=e4628]
+                    - listitem [ref=e4629]:
+                      - generic [ref=e4632]:
+                        - link "Help us find the BEST DINER in NYC - we want to feel like in a movie" [ref=e4633] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1rxmo1w/help_us_find_the_best_diner_in_nyc_we_want_to/
+                          - generic [ref=e4634]:
+                            - generic: Help us find the BEST DINER in NYC - we want to feel like in a movie
+                        - generic [ref=e4637]:
+                          - generic [ref=e4640]:
+                            - link "r/FoodNYC" [ref=e4641] [cursor=pointer]:
+                              - /url: /r/FoodNYC/
+                              - generic [ref=e4645]: r/FoodNYC
+                            - generic [ref=e4646]: •
+                            - time [ref=e4648]: 13d ago
+                          - link "List item post - Help us find the BEST DINER in NYC - we want to feel like i..." [ref=e4650] [cursor=pointer]:
+                            - /url: /r/FoodNYC/comments/1rxmo1w/help_us_find_the_best_diner_in_nyc_we_want_to/
+                            - heading "List item post - Help us find the BEST DINER in NYC - we want to feel like i..." [level=3] [ref=e4653]: Help us find the BEST DINER in NYC - we want to feel like in a movie
+                        - generic [ref=e4655]:
+                          - generic [ref=e4656]: "30"
+                          - text: upvotes ·
+                          - generic [ref=e4657]: "123"
+                          - text: comments
+                - complementary "Community information" [ref=e4658]:
+                  - generic [ref=e4660]:
+                    - heading "Community Info Section" [level=1] [ref=e4661]
+                    - generic [ref=e4662]:
+                      - link "r/FoodNYC" [ref=e4664] [cursor=pointer]:
+                        - /url: /r/FoodNYC/
+                        - generic [ref=e4665]: r/FoodNYC
+                      - button "Join" [ref=e4669] [cursor=pointer]
+                    - generic [ref=e4670]:
+                      - generic [ref=e4671]: FoodNYC
+                      - generic [ref=e4672]: FoodNYC is dedicated towards showcasing food from all over New York City! Share pictures, reviews, websites, etc. Not just limited to pictures of food, but anything food related in NYC.
+                      - button "Show more" [ref=e4673] [cursor=pointer]:
+                        - generic [ref=e4675]: Show more
+                      - generic [ref=e4678]:
+                        - img [ref=e4679]
+                        - text: Public
+              - generic [ref=e4682]:
+                - link "Reddit Rules" [ref=e4685] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e4688] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e4691] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e4694] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e4697] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e4699] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e4701]:
+          - button "Collapse Navigation" [ref=e4704] [cursor=pointer]:
+            - img [ref=e4707]
+            - generic [ref=e4709]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e945]:
+            - generic [ref=e947]:
+              - link "Home" [ref=e949] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e950]:
+                  - img [ref=e952]
+                  - generic [ref=e955]: Home
+              - link "Popular" [ref=e957] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e958]:
+                  - img [ref=e960]
+                  - generic [ref=e963]: Popular
+              - link "News" [ref=e964] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e965]:
+                  - img [ref=e967]
+                  - generic [ref=e971]: News
+              - link "Explore" [ref=e973] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e974]:
+                  - img [ref=e976]
+                  - generic [ref=e979]: Explore
+            - separator [ref=e980]
+            - navigation "Reddit resources" [ref=e981]:
+              - group [ref=e983]:
+                - generic "RESOURCES" [ref=e984] [cursor=pointer]:
+                  - generic [ref=e986]:
+                    - generic [ref=e989]: RESOURCES
+                    - img [ref=e992]
+                - generic [ref=e995]:
+                  - link "About Reddit" [ref=e997] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e998]:
+                      - img [ref=e1000]
+                      - generic [ref=e1004]: About Reddit
+                  - link "Advertise" [ref=e1006] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e1007]:
+                      - img [ref=e1009]
+                      - generic [ref=e1013]: Advertise
+                  - link "Developer Platform" [ref=e1015] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1016]:
+                      - img [ref=e1018]
+                      - generic [ref=e1022]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e1024] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1025]:
+                      - img [ref=e1027]
+                      - generic [ref=e1031]:
+                        - generic [ref=e1032]: Reddit Pro
+                        - generic [ref=e1033]: BETA
+                  - link "Help" [ref=e1035] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e1036]:
+                      - img [ref=e1038]
+                      - generic [ref=e1042]: Help
+                  - link "Blog" [ref=e1044] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e1045]:
+                      - img [ref=e1047]
+                      - generic [ref=e1051]: Blog
+                  - link "Careers" [ref=e1053] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e1054]:
+                      - img [ref=e1056]
+                      - generic [ref=e1060]: Careers
+                  - link "Press" [ref=e1062] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e1063]:
+                      - img [ref=e1065]
+                      - generic [ref=e1069]: Press
+                  - separator [ref=e1070]
+                  - link "Best of Reddit" [ref=e1072] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e1073]:
+                      - img [ref=e1075]
+                      - generic [ref=e1080]: Best of Reddit
+                  - separator [ref=e1081]
+                  - link "Reddit Rules" [ref=e1083] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e1084]:
+                      - img [ref=e1086]
+                      - generic [ref=e1090]: Reddit Rules
+                  - link "Privacy Policy" [ref=e1092] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e1093]:
+                      - img [ref=e1095]
+                      - generic [ref=e1099]: Privacy Policy
+                  - link "User Agreement" [ref=e1101] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e1102]:
+                      - img [ref=e1104]
+                      - generic [ref=e1108]: User Agreement
+                  - link "Your Privacy Choices" [ref=e1110] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e1111]:
+                      - img [ref=e1113]
+                      - generic [ref=e1117]: Your Privacy Choices
+                  - link "Accessibility" [ref=e1119] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e1120]:
+                      - img [ref=e1122]
+                      - generic [ref=e1127]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1129] [cursor=pointer]:
+              - /url: https://redditinc.com

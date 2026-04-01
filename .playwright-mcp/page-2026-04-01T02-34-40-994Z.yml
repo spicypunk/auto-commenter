@@ -1,0 +1,96 @@
+- generic [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - banner [ref=e7]:
+        - generic [ref=e8]:
+          - img [ref=e10]
+          - img [ref=e24]
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - tabpanel:
+                              - dialog "Log In" [ref=e35]:
+                                - generic [ref=e39]:
+                                  - heading "Log In" [level=1] [ref=e40]
+                                  - paragraph [ref=e41]:
+                                    - text: By continuing, you agree to our
+                                    - link "User Agreement" [active] [ref=e42] [cursor=pointer]:
+                                      - /url: https://www.redditinc.com/policies/user-agreement
+                                    - text: and acknowledge that you understand the
+                                    - link "Privacy Policy" [ref=e43] [cursor=pointer]:
+                                      - /url: https://www.redditinc.com/policies/privacy-policy
+                                    - text: .
+                                  - generic [ref=e44]:
+                                    - link "Continue With Phone Number" [ref=e46] [cursor=pointer]:
+                                      - /url: https://www.reddit.com/login/
+                                      - generic [ref=e49]:
+                                        - img [ref=e50]
+                                        - generic [ref=e53]: Continue With Phone Number
+                                    - generic [ref=e55]:
+                                      - generic [ref=e59]:
+                                        - button "Continue with Google. Opens in new tab" [ref=e61] [cursor=pointer]:
+                                          - generic [ref=e63]:
+                                            - img [ref=e65]
+                                            - generic [ref=e72]: Continue with Google
+                                        - iframe
+                                      - generic [ref=e74] [cursor=pointer]:
+                                        - generic [ref=e75]:
+                                          - img [ref=e76]
+                                          - generic [ref=e78]: Continue With Apple
+                                        - button "Sign in with Apple" [ref=e81]:
+                                          - generic [ref=e82]:
+                                            - img:
+                                              - generic:
+                                                - img:
+                                                  - generic:  Sign in with Apple
+                                          - img [ref=e84]
+                                    - link "Email me a one-time link" [ref=e87] [cursor=pointer]:
+                                      - /url: https://www.reddit.com/login/
+                                      - generic [ref=e89]:
+                                        - img [ref=e90]
+                                        - generic [ref=e92]: Email me a one-time link
+                                    - generic [ref=e93]:
+                                      - separator [ref=e94]
+                                      - generic [ref=e95]: OR
+                                      - separator [ref=e96]
+                                  - group [ref=e97]:
+                                    - generic [ref=e102]:
+                                      - generic:
+                                        - generic: Email or username
+                                        - text: "*"
+                                      - textbox "Email or username" [ref=e103]
+                                  - group [ref=e108]:
+                                    - generic [ref=e113]:
+                                      - generic:
+                                        - generic: Password
+                                        - text: "*"
+                                      - textbox "Password" [ref=e114]
+                                  - link "Forgot password?" [ref=e121] [cursor=pointer]:
+                                    - /url: https://www.reddit.com/password/
+                                    - generic [ref=e122]: Forgot password?
+                                  - generic [ref=e123]:
+                                    - text: New to Reddit?
+                                    - link "Sign Up" [ref=e125] [cursor=pointer]:
+                                      - /url: https://www.reddit.com/register/
+                                      - generic [ref=e126]: Sign Up
+                                - generic [ref=e129]:
+                                  - button "Log In" [disabled]:
+                                    - generic:
+                                      - generic: Log In
+                            - generic:
+                              - generic:
+                                - generic: back
+                            - generic:
+                              - generic:
+                                - generic: back

@@ -1,0 +1,128 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "Anyone have veggie-filled shenjian bao recs? : r/FoodNYC"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]
+                - img [ref=e49]
+              - textbox "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in r/FoodNYC
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - link "Advertise on Reddit" [ref=e60] [cursor=pointer]:
+                - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=nav_cta
+                - img [ref=e63]
+                - generic [ref=e65]
+              - button "Open chat" [ref=e71] [cursor=pointer]:
+                - img [ref=e74]
+                - generic [ref=e76]
+              - link "Create post" [ref=e81] [cursor=pointer]:
+                - /url: /r/FoodNYC/submit/
+                - generic [ref=e82]
+                - generic [ref=e87]
+              - generic [ref=e89]:
+                - link "Open inbox" [ref=e92] [cursor=pointer]:
+                  - /url: /notifications
+                - generic
+            - button "Expand user menu" [ref=e102] [cursor=pointer]:
+              - img [ref=e112]
+              - generic [ref=e115]:
+                - generic: Expand user menu
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e119] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e120] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e121]:
+            - main [ref=e122]:
+              - 'generic "Anyone have veggie-filled shenjian bao recs? : r/FoodNYC"'
+              - generic [ref=e123]:
+                - generic [ref=e124]
+                - generic [ref=e163]
+                - generic [ref=e173]
+                - generic "Actions available for this post" [ref=e177]
+              - generic "Started as a “hear me out…” in someone’s head. Ended with a peppercorn twist. Meet the Peppercorn BLT Whopper." [ref=e216]:
+                - generic [ref=e217]
+              - generic [ref=e267]:
+                - generic
+              - generic [ref=e280]:
+                - generic [ref=e281]
+                - generic [ref=e284]
+            - generic [ref=e289]:
+              - generic [ref=e292]:
+                - generic
+              - generic [ref=e814]:
+                - link "Reddit Rules" [ref=e817] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e820] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e823] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e826] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e829] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e831] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e833]:
+          - button "Collapse Navigation" [ref=e836] [cursor=pointer]:
+            - img [ref=e839]
+            - generic [ref=e841]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e846]:
+            - generic [ref=e848]:
+              - link "Home" [ref=e850] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e851]
+              - link "Popular" [ref=e858] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e859]
+              - link "News" [ref=e865] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e866]
+              - link "Explore" [ref=e874] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e875]
+              - button "Start a community" [ref=e881] [cursor=pointer]:
+                - generic [ref=e882]
+            - separator [ref=e888]
+            - group [ref=e892]:
+              - generic "GAMES ON REDDIT" [ref=e893] [cursor=pointer]:
+                - generic [ref=e894]
+            - separator [ref=e904]
+            - group [ref=e906]:
+              - generic "CUSTOM FEEDS" [ref=e907] [cursor=pointer]:
+                - generic [ref=e909]
+              - button "Create Custom Feed" [ref=e921] [cursor=pointer]:
+                - generic [ref=e922]
+            - separator [ref=e928]
+            - group [ref=e930]:
+              - generic "COMMUNITIES" [ref=e931] [cursor=pointer]:
+                - generic [ref=e933]
+              - generic [ref=e942]:
+                - link "Manage Communities" [ref=e943] [cursor=pointer]:
+                  - /url: /user/spicypunketh/communities
+                - generic [ref=e951]
+            - separator [ref=e1392]
+            - navigation "Reddit resources" [ref=e1393]:
+              - group [ref=e1395]:
+                - generic "RESOURCES" [ref=e1396] [cursor=pointer]
+                - generic [ref=e1407]
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1541] [cursor=pointer]:
+              - /url: https://redditinc.com

@@ -1,0 +1,355 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "Anyone have veggie-filled shenjian bao recs? : r/FoodNYC"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]:
+                  - generic [ref=e47]: r/FoodNYC
+                - img [ref=e49]
+              - textbox "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in r/FoodNYC
+          - generic [ref=e53]:
+            - button "Get App" [ref=e58] [cursor=pointer]:
+              - generic [ref=e59]:
+                - img [ref=e61]
+                - generic [ref=e63]: Get App
+            - link "Log In" [ref=e67] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e69]: Log In
+            - button "Expand user menu" [ref=e74] [cursor=pointer]:
+              - img [ref=e77]
+              - generic [ref=e79]:
+                - generic: Expand user menu
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e83] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e84] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e85]:
+            - main [ref=e86]:
+              - 'generic "Anyone have veggie-filled shenjian bao recs? : r/FoodNYC"'
+              - generic [ref=e87]:
+                - generic [ref=e88]:
+                  - generic [ref=e89]:
+                    - button "Back" [ref=e91] [cursor=pointer]:
+                      - img [ref=e94]
+                      - generic [ref=e96]:
+                        - generic: Back
+                    - link "Go to FoodNYC" [ref=e99] [cursor=pointer]:
+                      - /url: /r/FoodNYC/
+                      - generic [ref=e103]:
+                        - generic: Go to FoodNYC
+                    - group [ref=e104]:
+                      - generic [ref=e105]:
+                        - link "r/FoodNYC" [ref=e109] [cursor=pointer]:
+                          - /url: /r/FoodNYC/
+                        - generic [ref=e110]: •
+                        - time [ref=e111]: 3h ago
+                      - 'link "Author: Trollogic" [ref=e117] [cursor=pointer]':
+                        - /url: /user/Trollogic/
+                        - text: Trollogic
+                  - button "Open user actions" [ref=e121] [cursor=pointer]:
+                    - img [ref=e124]
+                - generic [ref=e127]:
+                  - 'heading "Post Title: Anyone have veggie-filled shenjian bao recs?" [level=1] [ref=e128]': Anyone have veggie-filled shenjian bao recs?
+                  - 'link "Flair: Question" [ref=e131] [cursor=pointer]':
+                    - /url: /r/FoodNYC/?f=flair_name%3A%22Question%22
+                    - 'generic "Flair: Question" [ref=e133]': Question
+                - generic [ref=e137]:
+                  - paragraph [ref=e138]: Heya! I have a friend who is vegetarian and was telling me how it is nearly impossible to find shenjian bao with a veggie filling at any restaurant. I figured this subreddit would know if there are any places in any of the boroughs that serve a good veggie shenjian bao.
+                  - paragraph [ref=e139]: My quick search on the subreddit led me to a few old threads for regular shenjian bao, but I couldn’t find exactly what I was looking for.
+                  - paragraph [ref=e140]: Thank you in advance to anyone who has recommendations!
+                - generic "Actions available for this post" [ref=e141]:
+                  - generic [ref=e144]:
+                    - button "Upvote" [ref=e145] [cursor=pointer]:
+                      - img [ref=e147]
+                      - generic [ref=e149]:
+                        - generic: Upvote
+                    - generic [ref=e151]: "1"
+                    - button "Downvote" [ref=e152] [cursor=pointer]:
+                      - img [ref=e154]
+                      - generic [ref=e156]:
+                        - generic: Downvote
+                  - button "0 Go to comments" [ref=e157] [cursor=pointer]:
+                    - generic [ref=e158]:
+                      - img [ref=e160]
+                      - generic [ref=e163]: "0"
+                    - generic [ref=e164]:
+                      - generic: Go to comments
+                  - button "Give award" [ref=e166] [cursor=pointer]:
+                    - img [ref=e169]
+                  - button "Share" [ref=e174] [cursor=pointer]:
+                    - generic [ref=e175]:
+                      - img [ref=e177]
+                      - generic [ref=e179]: Share
+              - generic "TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e180]:
+                - generic [ref=e181]:
+                  - 'generic "Advertisement: TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e182]':
+                    - 'link "Advertisement: TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e183] [cursor=pointer]':
+                      - /url: https://alb.reddit.com/cr?za=ehQ-aDgD6JRxBlIqKr0dk718ty6dj03PsUK40kvKcm3TBd0g9QRmbNjAvRx6McBEq3YSidNXzAqZDFLp1wM-jPP3hQZmDNJJsjHWbTRV6-Yo0oLdgPm4qAlJALA6mv1tc75W_N5N8qLheQt07Z4Dp0A0svcaK8oqw3rCIHAac1roK91FVX3aOXhPa6NNvQfIr3Gi7AIMBN_PI0eUX7TGGvl4lBAMb9Ye2rGIxIfjMAat8qQkCdiSlHqiOjWT_bAnueduPLXxOHTWvF-uezXCRNglWrffP3JtzMogSIHXUvYMCO0P8KKy7YXzANpu-drUHKYPjbQv2qKlEDxJ366k0FS5ul2Arjjur-Zf9lJMwJEotUnlgPVsV0fiBNXadI-Y3os98HTXDNcrzKOo3-YgZMLKJNbNdMSh6ZJ1nQeEOzG00oluZlhN3nuNAgdqAjSDtYc5gv_3Atzs_hht2tiGv4e8gU3CdKTF_e9pNHBsi604U3opZx4sseCMWfyCGMINCfc0AUuVwDrzUtK0VZ0GGCRV1Vcvp1FABFsScgRs0kO2b1pSR5K5RiEzm9m-W_KX6UIoYdpY2OuGy-b_pMSAx2M16CmbeRkn65LDrh8FVCBFTlp8YZDYiSzOg9o9Cy1zc2QMPnKPYxWylwT6UPRuUvGC83vTFd2THtsiIQIza3IfK-pmsgOzUh_XR7EQ_opIXBCL7-KYcqKT1uxQ1XAf3HgO&zp=m4YOja0ben6xQDxBt36RPV5i3ZTolq8PZiaCXdXkFwwqGKLUIDNQKR4ssCtqhlzTdIsxCLew73yxGEEWHf_wmkkAK_7i5B2CWe-BY84sJQvZgj5htQK-Ph67_hsRtKY_ES-Z2CtyD94A8QYipDNf7VKd_QqSfGuq3bWhatKQdNIk5tvtwhAAC8Xr_KlXW8cVFfqgzPSpBGGi3Fux9raOAzvXcApNJMDnpzC-eqCIE3GiCUeSyhI6Cx3f3Gjb4gFuipDWmqFiyexyF3XSd6c_2GbDTtdF-1VSkQjT3644MuAQVuh92wEU9QNfRxooJVA_vOxyvewG30zRRPzc8U7wemFLZVIKXW-3BmkVmSZh46wueGwMzkb_NTUQU5L-ApGk2f-g9SHIFWUUgzdTUzIXNbYffHm1p79-ImoQKMDKyLB8iiXWgUVTZwEtfR1M0VxcErRSBR0c-_3KIhvDhsrZdisQI-y4SUDM-PuKBOS0u54W
+                  - generic [ref=e184]:
+                    - generic [ref=e185]:
+                      - link "u/AmericanExpress avatar AmericanExpress" [ref=e188] [cursor=pointer]:
+                        - /url: /user/AmericanExpress/
+                        - img "u/AmericanExpress avatar" [ref=e193]
+                        - generic [ref=e194]: AmericanExpress
+                      - generic [ref=e195]: •
+                      - link "Promoted" [ref=e197] [cursor=pointer]:
+                        - /url: /user/AmericanExpress/
+                        - generic [ref=e198]: Promoted
+                      - link [ref=e200] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=ehQ-aDgD6JRxBlIqKr0dk718ty6dj03PsUK40kvKcm3TBd0g9QRmbNjAvRx6McBEq3YSidNXzAqZDFLp1wM-jPP3hQZmDNJJsjHWbTRV6-Yo0oLdgPm4qAlJALA6mv1tc75W_N5N8qLheQt07Z4Dp0A0svcaK8oqw3rCIHAac1roK91FVX3aOXhPa6NNvQfIr3Gi7AIMBN_PI0eUX7TGGvl4lBAMb9Ye2rGIxIfjMAat8qQkCdiSlHqiOjWT_bAnueduPLXxOHTWvF-uezXCRNglWrffP3JtzMogSIHXUvYMCO0P8KKy7YXzANpu-drUHKYPjbQv2qKlEDxJ366k0FS5ul2Arjjur-Zf9lJMwJEotUnlgPVsV0fiBNXadI-Y3os98HTXDNcrzKOo3-YgZMLKJNbNdMSh6ZJ1nQeEOzG00oluZlhN3nuNAgdqAjSDtYc5gv_3Atzs_hht2tiGv4e8gU3CdKTF_e9pNHBsi604U3opZx4sseCMWfyCGMINCfc0AUuVwDrzUtK0VZ0GGCRV1Vcvp1FABFsScgRs0kO2b1pSR5K5RiEzm9m-W_KX6UIoYdpY2OuGy-b_pMSAx2M16CmbeRkn65LDrh8FVCBFTlp8YZDYiSzOg9o9Cy1zc2QMPnKPYxWylwT6UPRuUvGC83vTFd2THtsiIQIza3IfK-pmsgOzUh_XR7EQ_opIXBCL7-KYcqKT1uxQ1XAf3HgO&zp=m4YOja0ben6xQDxBt36RPV5i3ZTolq8PZiaCXdXkFwwqGKLUIDNQKR4ssCtqhlzTdIsxCLew73yxGEEWHf_wmkkAK_7i5B2CWe-BY84sJQvZgj5htQK-Ph67_hsRtKY_ES-Z2CtyD94A8QYipDNf7VKd_QqSfGuq3bWhatKQdNIk5tvtwhAAC8Xr_KlXW8cVFfqgzPSpBGGi3Fux9raOAzvXcApNJMDnpzC-eqCIE3GiCUeSyhI6Cx3f3Gjb4gFuipDWmqFiyexyF3XSd6c_2GbDTtdF-1VSkQjT3644MuAQVuh92wEU9QNfRxooJVA_vOxyvewG30zRRPzc8U7wemFLZVIKXW-3BmkVmSZh46wueGwMzkb_NTUQU5L-ApGk2f-g9SHIFWUUgzdTUzIXNbYffHm1p79-ImoQKMDKyLB8iiXWgUVTZwEtfR1M0VxcErRSBR0c-_3KIhvDhsrZdisQI-y4SUDM-PuKBOS0u54W
+                    - button "Open user actions" [ref=e205] [cursor=pointer]:
+                      - img [ref=e208]
+                  - generic [ref=e211]:
+                    - generic [ref=e212]:
+                      - link "TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e214] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=ehQ-aDgD6JRxBlIqKr0dk718ty6dj03PsUK40kvKcm3TBd0g9QRmbNjAvRx6McBEq3YSidNXzAqZDFLp1wM-jPP3hQZmDNJJsjHWbTRV6-Yo0oLdgPm4qAlJALA6mv1tc75W_N5N8qLheQt07Z4Dp0A0svcaK8oqw3rCIHAac1roK91FVX3aOXhPa6NNvQfIr3Gi7AIMBN_PI0eUX7TGGvl4lBAMb9Ye2rGIxIfjMAat8qQkCdiSlHqiOjWT_bAnueduPLXxOHTWvF-uezXCRNglWrffP3JtzMogSIHXUvYMCO0P8KKy7YXzANpu-drUHKYPjbQv2qKlEDxJ366k0FS5ul2Arjjur-Zf9lJMwJEotUnlgPVsV0fiBNXadI-Y3os98HTXDNcrzKOo3-YgZMLKJNbNdMSh6ZJ1nQeEOzG00oluZlhN3nuNAgdqAjSDtYc5gv_3Atzs_hht2tiGv4e8gU3CdKTF_e9pNHBsi604U3opZx4sseCMWfyCGMINCfc0AUuVwDrzUtK0VZ0GGCRV1Vcvp1FABFsScgRs0kO2b1pSR5K5RiEzm9m-W_KX6UIoYdpY2OuGy-b_pMSAx2M16CmbeRkn65LDrh8FVCBFTlp8YZDYiSzOg9o9Cy1zc2QMPnKPYxWylwT6UPRuUvGC83vTFd2THtsiIQIza3IfK-pmsgOzUh_XR7EQ_opIXBCL7-KYcqKT1uxQ1XAf3HgO&zp=m4YOja0ben6xQDxBt36RPV5i3ZTolq8PZiaCXdXkFwwqGKLUIDNQKR4ssCtqhlzTdIsxCLew73yxGEEWHf_wmkkAK_7i5B2CWe-BY84sJQvZgj5htQK-Ph67_hsRtKY_ES-Z2CtyD94A8QYipDNf7VKd_QqSfGuq3bWhatKQdNIk5tvtwhAAC8Xr_KlXW8cVFfqgzPSpBGGi3Fux9raOAzvXcApNJMDnpzC-eqCIE3GiCUeSyhI6Cx3f3Gjb4gFuipDWmqFiyexyF3XSd6c_2GbDTtdF-1VSkQjT3644MuAQVuh92wEU9QNfRxooJVA_vOxyvewG30zRRPzc8U7wemFLZVIKXW-3BmkVmSZh46wueGwMzkb_NTUQU5L-ApGk2f-g9SHIFWUUgzdTUzIXNbYffHm1p79-ImoQKMDKyLB8iiXWgUVTZwEtfR1M0VxcErRSBR0c-_3KIhvDhsrZdisQI-y4SUDM-PuKBOS0u54W
+                        - generic: TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply.
+                      - generic [ref=e215]:
+                        - link [ref=e217] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=ehQ-aDgD6JRxBlIqKr0dk718ty6dj03PsUK40kvKcm3TBd0g9QRmbNjAvRx6McBEq3YSidNXzAqZDFLp1wM-jPP3hQZmDNJJsjHWbTRV6-Yo0oLdgPm4qAlJALA6mv1tc75W_N5N8qLheQt07Z4Dp0A0svcaK8oqw3rCIHAac1roK91FVX3aOXhPa6NNvQfIr3Gi7AIMBN_PI0eUX7TGGvl4lBAMb9Ye2rGIxIfjMAat8qQkCdiSlHqiOjWT_bAnueduPLXxOHTWvF-uezXCRNglWrffP3JtzMogSIHXUvYMCO0P8KKy7YXzANpu-drUHKYPjbQv2qKlEDxJ366k0FS5ul2Arjjur-Zf9lJMwJEotUnlgPVsV0fiBNXadI-Y3os98HTXDNcrzKOo3-YgZMLKJNbNdMSh6ZJ1nQeEOzG00oluZlhN3nuNAgdqAjSDtYc5gv_3Atzs_hht2tiGv4e8gU3CdKTF_e9pNHBsi604U3opZx4sseCMWfyCGMINCfc0AUuVwDrzUtK0VZ0GGCRV1Vcvp1FABFsScgRs0kO2b1pSR5K5RiEzm9m-W_KX6UIoYdpY2OuGy-b_pMSAx2M16CmbeRkn65LDrh8FVCBFTlp8YZDYiSzOg9o9Cy1zc2QMPnKPYxWylwT6UPRuUvGC83vTFd2THtsiIQIza3IfK-pmsgOzUh_XR7EQ_opIXBCL7-KYcqKT1uxQ1XAf3HgO&zp=m4YOja0ben6xQDxBt36RPV5i3ZTolq8PZiaCXdXkFwwqGKLUIDNQKR4ssCtqhlzTdIsxCLew73yxGEEWHf_wmkkAK_7i5B2CWe-BY84sJQvZgj5htQK-Ph67_hsRtKY_ES-Z2CtyD94A8QYipDNf7VKd_QqSfGuq3bWhatKQdNIk5tvtwhAAC8Xr_KlXW8cVFfqgzPSpBGGi3Fux9raOAzvXcApNJMDnpzC-eqCIE3GiCUeSyhI6Cx3f3Gjb4gFuipDWmqFiyexyF3XSd6c_2GbDTtdF-1VSkQjT3644MuAQVuh92wEU9QNfRxooJVA_vOxyvewG30zRRPzc8U7wemFLZVIKXW-3BmkVmSZh46wueGwMzkb_NTUQU5L-ApGk2f-g9SHIFWUUgzdTUzIXNbYffHm1p79-ImoQKMDKyLB8iiXWgUVTZwEtfR1M0VxcErRSBR0c-_3KIhvDhsrZdisQI-y4SUDM-PuKBOS0u54W
+                        - generic [ref=e218]:
+                          - link "Learn More" [ref=e220] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=ehQ-aDgD6JRxBlIqKr0dk718ty6dj03PsUK40kvKcm3TBd0g9QRmbNjAvRx6McBEq3YSidNXzAqZDFLp1wM-jPP3hQZmDNJJsjHWbTRV6-Yo0oLdgPm4qAlJALA6mv1tc75W_N5N8qLheQt07Z4Dp0A0svcaK8oqw3rCIHAac1roK91FVX3aOXhPa6NNvQfIr3Gi7AIMBN_PI0eUX7TGGvl4lBAMb9Ye2rGIxIfjMAat8qQkCdiSlHqiOjWT_bAnueduPLXxOHTWvF-uezXCRNglWrffP3JtzMogSIHXUvYMCO0P8KKy7YXzANpu-drUHKYPjbQv2qKlEDxJ366k0FS5ul2Arjjur-Zf9lJMwJEotUnlgPVsV0fiBNXadI-Y3os98HTXDNcrzKOo3-YgZMLKJNbNdMSh6ZJ1nQeEOzG00oluZlhN3nuNAgdqAjSDtYc5gv_3Atzs_hht2tiGv4e8gU3CdKTF_e9pNHBsi604U3opZx4sseCMWfyCGMINCfc0AUuVwDrzUtK0VZ0GGCRV1Vcvp1FABFsScgRs0kO2b1pSR5K5RiEzm9m-W_KX6UIoYdpY2OuGy-b_pMSAx2M16CmbeRkn65LDrh8FVCBFTlp8YZDYiSzOg9o9Cy1zc2QMPnKPYxWylwT6UPRuUvGC83vTFd2THtsiIQIza3IfK-pmsgOzUh_XR7EQ_opIXBCL7-KYcqKT1uxQ1XAf3HgO&zp=m4YOja0ben6xQDxBt36RPV5i3ZTolq8PZiaCXdXkFwwqGKLUIDNQKR4ssCtqhlzTdIsxCLew73yxGEEWHf_wmkkAK_7i5B2CWe-BY84sJQvZgj5htQK-Ph67_hsRtKY_ES-Z2CtyD94A8QYipDNf7VKd_QqSfGuq3bWhatKQdNIk5tvtwhAAC8Xr_KlXW8cVFfqgzPSpBGGi3Fux9raOAzvXcApNJMDnpzC-eqCIE3GiCUeSyhI6Cx3f3Gjb4gFuipDWmqFiyexyF3XSd6c_2GbDTtdF-1VSkQjT3644MuAQVuh92wEU9QNfRxooJVA_vOxyvewG30zRRPzc8U7wemFLZVIKXW-3BmkVmSZh46wueGwMzkb_NTUQU5L-ApGk2f-g9SHIFWUUgzdTUzIXNbYffHm1p79-ImoQKMDKyLB8iiXWgUVTZwEtfR1M0VxcErRSBR0c-_3KIhvDhsrZdisQI-y4SUDM-PuKBOS0u54W
+                            - generic [ref=e222]:
+                              - generic: Learn More
+                          - link "americanexpress.com" [ref=e225] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=ehQ-aDgD6JRxBlIqKr0dk718ty6dj03PsUK40kvKcm3TBd0g9QRmbNjAvRx6McBEq3YSidNXzAqZDFLp1wM-jPP3hQZmDNJJsjHWbTRV6-Yo0oLdgPm4qAlJALA6mv1tc75W_N5N8qLheQt07Z4Dp0A0svcaK8oqw3rCIHAac1roK91FVX3aOXhPa6NNvQfIr3Gi7AIMBN_PI0eUX7TGGvl4lBAMb9Ye2rGIxIfjMAat8qQkCdiSlHqiOjWT_bAnueduPLXxOHTWvF-uezXCRNglWrffP3JtzMogSIHXUvYMCO0P8KKy7YXzANpu-drUHKYPjbQv2qKlEDxJ366k0FS5ul2Arjjur-Zf9lJMwJEotUnlgPVsV0fiBNXadI-Y3os98HTXDNcrzKOo3-YgZMLKJNbNdMSh6ZJ1nQeEOzG00oluZlhN3nuNAgdqAjSDtYc5gv_3Atzs_hht2tiGv4e8gU3CdKTF_e9pNHBsi604U3opZx4sseCMWfyCGMINCfc0AUuVwDrzUtK0VZ0GGCRV1Vcvp1FABFsScgRs0kO2b1pSR5K5RiEzm9m-W_KX6UIoYdpY2OuGy-b_pMSAx2M16CmbeRkn65LDrh8FVCBFTlp8YZDYiSzOg9o9Cy1zc2QMPnKPYxWylwT6UPRuUvGC83vTFd2THtsiIQIza3IfK-pmsgOzUh_XR7EQ_opIXBCL7-KYcqKT1uxQ1XAf3HgO&zp=m4YOja0ben6xQDxBt36RPV5i3ZTolq8PZiaCXdXkFwwqGKLUIDNQKR4ssCtqhlzTdIsxCLew73yxGEEWHf_wmkkAK_7i5B2CWe-BY84sJQvZgj5htQK-Ph67_hsRtKY_ES-Z2CtyD94A8QYipDNf7VKd_QqSfGuq3bWhatKQdNIk5tvtwhAAC8Xr_KlXW8cVFfqgzPSpBGGi3Fux9raOAzvXcApNJMDnpzC-eqCIE3GiCUeSyhI6Cx3f3Gjb4gFuipDWmqFiyexyF3XSd6c_2GbDTtdF-1VSkQjT3644MuAQVuh92wEU9QNfRxooJVA_vOxyvewG30zRRPzc8U7wemFLZVIKXW-3BmkVmSZh46wueGwMzkb_NTUQU5L-ApGk2f-g9SHIFWUUgzdTUzIXNbYffHm1p79-ImoQKMDKyLB8iiXWgUVTZwEtfR1M0VxcErRSBR0c-_3KIhvDhsrZdisQI-y4SUDM-PuKBOS0u54W
+                            - generic: americanexpress.com
+                    - 'link "Thumbnail image: TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e228] [cursor=pointer]':
+                      - /url: https://alb.reddit.com/cr?za=ehQ-aDgD6JRxBlIqKr0dk718ty6dj03PsUK40kvKcm3TBd0g9QRmbNjAvRx6McBEq3YSidNXzAqZDFLp1wM-jPP3hQZmDNJJsjHWbTRV6-Yo0oLdgPm4qAlJALA6mv1tc75W_N5N8qLheQt07Z4Dp0A0svcaK8oqw3rCIHAac1roK91FVX3aOXhPa6NNvQfIr3Gi7AIMBN_PI0eUX7TGGvl4lBAMb9Ye2rGIxIfjMAat8qQkCdiSlHqiOjWT_bAnueduPLXxOHTWvF-uezXCRNglWrffP3JtzMogSIHXUvYMCO0P8KKy7YXzANpu-drUHKYPjbQv2qKlEDxJ366k0FS5ul2Arjjur-Zf9lJMwJEotUnlgPVsV0fiBNXadI-Y3os98HTXDNcrzKOo3-YgZMLKJNbNdMSh6ZJ1nQeEOzG00oluZlhN3nuNAgdqAjSDtYc5gv_3Atzs_hht2tiGv4e8gU3CdKTF_e9pNHBsi604U3opZx4sseCMWfyCGMINCfc0AUuVwDrzUtK0VZ0GGCRV1Vcvp1FABFsScgRs0kO2b1pSR5K5RiEzm9m-W_KX6UIoYdpY2OuGy-b_pMSAx2M16CmbeRkn65LDrh8FVCBFTlp8YZDYiSzOg9o9Cy1zc2QMPnKPYxWylwT6UPRuUvGC83vTFd2THtsiIQIza3IfK-pmsgOzUh_XR7EQ_opIXBCL7-KYcqKT1uxQ1XAf3HgO&zp=m4YOja0ben6xQDxBt36RPV5i3ZTolq8PZiaCXdXkFwwqGKLUIDNQKR4ssCtqhlzTdIsxCLew73yxGEEWHf_wmkkAK_7i5B2CWe-BY84sJQvZgj5htQK-Ph67_hsRtKY_ES-Z2CtyD94A8QYipDNf7VKd_QqSfGuq3bWhatKQdNIk5tvtwhAAC8Xr_KlXW8cVFfqgzPSpBGGi3Fux9raOAzvXcApNJMDnpzC-eqCIE3GiCUeSyhI6Cx3f3Gjb4gFuipDWmqFiyexyF3XSd6c_2GbDTtdF-1VSkQjT3644MuAQVuh92wEU9QNfRxooJVA_vOxyvewG30zRRPzc8U7wemFLZVIKXW-3BmkVmSZh46wueGwMzkb_NTUQU5L-ApGk2f-g9SHIFWUUgzdTUzIXNbYffHm1p79-ImoQKMDKyLB8iiXWgUVTZwEtfR1M0VxcErRSBR0c-_3KIhvDhsrZdisQI-y4SUDM-PuKBOS0u54W
+                      - 'img "Thumbnail image: TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e229]'
+              - generic [ref=e231]:
+                - generic:
+                  - separator [ref=e232]
+                  - generic [ref=e233]:
+                    - button "Button to add a comment" [disabled]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - textbox [disabled]:
+                                  - /placeholder: Join the conversation
+              - generic [ref=e234]:
+                - generic [ref=e235]:
+                  - region "Comments":
+                    - heading "Comments Section" [level=1] [ref=e236]
+                - generic [ref=e238]:
+                  - img "Snoo Wave" [ref=e239]
+                  - generic [ref=e240]:
+                    - paragraph [ref=e241]: Be the first to comment
+                    - paragraph [ref=e242]: Nobody's responded to this post yet. Add your thoughts and get the conversation going.
+            - generic [ref=e243]:
+              - generic [ref=e244]:
+                - complementary "Related Answers Section" [ref=e246]:
+                  - heading "Related Answers Section" [level=1] [ref=e247]
+                  - generic [ref=e248]:
+                    - img [ref=e250]
+                    - generic [ref=e252]: Related Answers
+                  - generic [ref=e253]:
+                    - link "Hidden gem restaurants in NYC" [ref=e255] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/963c0756-4ce0-4d57-a409-1ab8f4743005/?q=Hidden+gem+restaurants+in+NYC&source=PDP
+                      - generic [ref=e258]: Hidden gem restaurants in NYC
+                      - img [ref=e261]
+                    - link "Best food trucks in New York City" [ref=e264] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/e5f8e066-55da-4cbb-9983-a3e230b6d821/?q=Best+food+trucks+in+New+York+City&source=PDP
+                      - generic [ref=e267]: Best food trucks in New York City
+                      - img [ref=e270]
+                    - link "Unique dessert spots in NYC" [ref=e273] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/cdc2175d-7840-4386-8f5c-ccb11efc2b69/?q=Unique+dessert+spots+in+NYC&source=PDP
+                      - generic [ref=e276]: Unique dessert spots in NYC
+                      - img [ref=e279]
+                    - link "Top brunch places in Manhattan" [ref=e282] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/1799a4c6-9d7d-463a-a9c8-717d18e60a82/?q=Top+brunch+places+in+Manhattan&source=PDP
+                      - generic [ref=e285]: Top brunch places in Manhattan
+                      - img [ref=e288]
+                    - link "Must-try street food in NYC" [ref=e291] [cursor=pointer]:
+                      - /url: https://www.reddit.com/answers/3919d4a4-e078-4b37-af37-5756d30c72dc/?q=Must-try+street+food+in+NYC&source=PDP
+                      - generic [ref=e294]: Must-try street food in NYC
+                      - img [ref=e297]
+                - complementary [ref=e301]:
+                  - generic [ref=e302]:
+                    - generic [ref=e303]: New to Reddit?
+                    - paragraph [ref=e304]: Create your account and connect with a world of communities.
+                  - generic [ref=e305]:
+                    - iframe [ref=e314]:
+                      - button "Continue with Google. Opens in new tab" [ref=f32e3] [cursor=pointer]:
+                        - generic [ref=f32e5]:
+                          - img [ref=f32e7]
+                          - generic [ref=f32e14]: Continue with Google
+                    - link "Continue with Email" [ref=e316] [cursor=pointer]:
+                      - /url: https://www.reddit.com/register/
+                      - generic [ref=e319]:
+                        - img [ref=e320]
+                        - generic [ref=e322]: Continue with Email
+                  - link "Continue With Phone Number" [ref=e325] [cursor=pointer]:
+                    - /url: https://www.reddit.com/login/
+                    - generic [ref=e328]:
+                      - img [ref=e329]
+                      - generic [ref=e332]: Continue With Phone Number
+                  - generic [ref=e333]:
+                    - text: By continuing, you agree to our
+                    - link "User Agreement" [ref=e334] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/user-agreement
+                    - text: and acknowledge that you understand the
+                    - link "Privacy Policy" [ref=e335] [cursor=pointer]:
+                      - /url: https://www.redditinc.com/policies/privacy-policy
+                    - text: .
+                - complementary "Community information" [ref=e939]:
+                  - generic [ref=e941]:
+                    - heading "Community Info Section" [level=1] [ref=e942]
+                    - generic [ref=e943]:
+                      - link "r/FoodNYC" [ref=e945] [cursor=pointer]:
+                        - /url: /r/FoodNYC/
+                        - generic [ref=e946]: r/FoodNYC
+                      - button "Join" [ref=e950] [cursor=pointer]
+                    - generic [ref=e951]:
+                      - generic [ref=e952]: FoodNYC
+                      - generic [ref=e953]: FoodNYC is dedicated towards showcasing food from all over New York City! Share pictures, reviews, websites, etc. Not just limited to pictures of food, but anything food related in NYC.
+                      - button "Show more" [ref=e954] [cursor=pointer]:
+                        - generic [ref=e956]: Show more
+                      - generic [ref=e959]:
+                        - img [ref=e960]
+                        - text: Public
+              - generic [ref=e963]:
+                - link "Reddit Rules" [ref=e966] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e969] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e972] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e975] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e978] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e980] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e982]:
+          - button "Collapse Navigation" [ref=e985] [cursor=pointer]:
+            - img [ref=e988]
+            - generic [ref=e990]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e995]:
+            - generic [ref=e997]:
+              - link "Home" [ref=e999] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e1000]:
+                  - img [ref=e1002]
+                  - generic [ref=e1005]: Home
+              - link "Popular" [ref=e1007] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e1008]:
+                  - img [ref=e1010]
+                  - generic [ref=e1013]: Popular
+              - link "News" [ref=e1014] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e1015]:
+                  - img [ref=e1017]
+                  - generic [ref=e1021]: News
+              - link "Explore" [ref=e1023] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e1024]:
+                  - img [ref=e1026]
+                  - generic [ref=e1029]: Explore
+            - separator [ref=e1030]
+            - navigation "Reddit resources" [ref=e1031]:
+              - group [ref=e1033]:
+                - generic "RESOURCES" [ref=e1034] [cursor=pointer]:
+                  - generic [ref=e1036]:
+                    - generic [ref=e1039]: RESOURCES
+                    - img [ref=e1042]
+                - generic [ref=e1045]:
+                  - link "About Reddit" [ref=e1047] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e1048]:
+                      - img [ref=e1050]
+                      - generic [ref=e1054]: About Reddit
+                  - link "Advertise" [ref=e1056] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e1057]:
+                      - img [ref=e1059]
+                      - generic [ref=e1063]: Advertise
+                  - link "Developer Platform" [ref=e1065] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1066]:
+                      - img [ref=e1068]
+                      - generic [ref=e1072]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e1074] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1075]:
+                      - img [ref=e1077]
+                      - generic [ref=e1081]:
+                        - generic [ref=e1082]: Reddit Pro
+                        - generic [ref=e1083]: BETA
+                  - link "Help" [ref=e1085] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e1086]:
+                      - img [ref=e1088]
+                      - generic [ref=e1092]: Help
+                  - link "Blog" [ref=e1094] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e1095]:
+                      - img [ref=e1097]
+                      - generic [ref=e1101]: Blog
+                  - link "Careers" [ref=e1103] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e1104]:
+                      - img [ref=e1106]
+                      - generic [ref=e1110]: Careers
+                  - link "Press" [ref=e1112] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e1113]:
+                      - img [ref=e1115]
+                      - generic [ref=e1119]: Press
+                  - separator [ref=e1120]
+                  - link "Best of Reddit" [ref=e1122] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e1123]:
+                      - img [ref=e1125]
+                      - generic [ref=e1130]: Best of Reddit
+                  - separator [ref=e1131]
+                  - link "Reddit Rules" [ref=e1133] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e1134]:
+                      - img [ref=e1136]
+                      - generic [ref=e1140]: Reddit Rules
+                  - link "Privacy Policy" [ref=e1142] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e1143]:
+                      - img [ref=e1145]
+                      - generic [ref=e1149]: Privacy Policy
+                  - link "User Agreement" [ref=e1151] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e1152]:
+                      - img [ref=e1154]
+                      - generic [ref=e1158]: User Agreement
+                  - link "Your Privacy Choices" [ref=e1160] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e1161]:
+                      - img [ref=e1163]
+                      - generic [ref=e1167]: Your Privacy Choices
+                  - link "Accessibility" [ref=e1169] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e1170]:
+                      - img [ref=e1172]
+                      - generic [ref=e1177]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1179] [cursor=pointer]:
+              - /url: https://redditinc.com

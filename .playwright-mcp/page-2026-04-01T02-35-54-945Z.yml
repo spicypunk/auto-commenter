@@ -1,0 +1,755 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "Anyone have veggie-filled shenjian bao recs? : r/FoodNYC"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]:
+                  - generic [ref=e47]: r/FoodNYC
+                - img [ref=e49]
+              - textbox "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in r/FoodNYC
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - link "Advertise on Reddit" [ref=e60] [cursor=pointer]:
+                - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=nav_cta
+                - img [ref=e63]
+                - generic [ref=e65]:
+                  - generic: Advertise on Reddit
+              - button "Open chat" [ref=e71] [cursor=pointer]:
+                - img [ref=e74]
+                - generic [ref=e76]:
+                  - generic: Open chat
+              - link "Create post" [ref=e81] [cursor=pointer]:
+                - /url: /r/FoodNYC/submit/
+                - generic [ref=e82]:
+                  - img [ref=e84]
+                  - generic [ref=e86]: Create
+                - generic [ref=e87]:
+                  - generic: Create post
+              - generic [ref=e89]:
+                - link "Open inbox" [ref=e92] [cursor=pointer]:
+                  - /url: /notifications
+                  - img [ref=e95]
+                  - generic [ref=e97]:
+                    - generic: Open inbox
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: "1"
+            - button "Expand user menu" [ref=e102] [cursor=pointer]:
+              - img [ref=e112]
+              - generic [ref=e115]:
+                - generic: Expand user menu
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e119] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e120] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e121]:
+            - main [ref=e122]:
+              - 'generic "Anyone have veggie-filled shenjian bao recs? : r/FoodNYC"'
+              - generic [ref=e123]:
+                - generic [ref=e124]:
+                  - generic [ref=e125]:
+                    - button "Back" [ref=e127] [cursor=pointer]:
+                      - img [ref=e130]
+                      - generic [ref=e132]:
+                        - generic: Back
+                    - link "Go to FoodNYC" [ref=e135] [cursor=pointer]:
+                      - /url: /r/FoodNYC/
+                      - generic [ref=e139]:
+                        - generic: Go to FoodNYC
+                    - group [ref=e140]:
+                      - generic [ref=e141]:
+                        - link "r/FoodNYC" [ref=e145] [cursor=pointer]:
+                          - /url: /r/FoodNYC/
+                        - generic [ref=e146]: •
+                        - time [ref=e147]: 3h ago
+                      - 'link "Author: Trollogic" [ref=e153] [cursor=pointer]':
+                        - /url: /user/Trollogic/
+                        - text: Trollogic
+                  - button "Open user actions" [ref=e157] [cursor=pointer]:
+                    - img [ref=e160]
+                - generic [ref=e163]:
+                  - 'heading "Post Title: Anyone have veggie-filled shenjian bao recs?" [level=1] [ref=e164]': Anyone have veggie-filled shenjian bao recs?
+                  - 'link "Flair: Question" [ref=e167] [cursor=pointer]':
+                    - /url: /r/FoodNYC/?f=flair_name%3A%22Question%22
+                    - 'generic "Flair: Question" [ref=e169]': Question
+                - generic [ref=e173]:
+                  - paragraph [ref=e174]: Heya! I have a friend who is vegetarian and was telling me how it is nearly impossible to find shenjian bao with a veggie filling at any restaurant. I figured this subreddit would know if there are any places in any of the boroughs that serve a good veggie shenjian bao.
+                  - paragraph [ref=e175]: My quick search on the subreddit led me to a few old threads for regular shenjian bao, but I couldn’t find exactly what I was looking for.
+                  - paragraph [ref=e176]: Thank you in advance to anyone who has recommendations!
+                - generic "Actions available for this post" [ref=e177]:
+                  - generic [ref=e180]:
+                    - button "Upvote" [ref=e181] [cursor=pointer]:
+                      - img [ref=e183]
+                      - generic [ref=e185]:
+                        - generic: Upvote
+                    - generic [ref=e187]: "1"
+                    - button "Downvote" [ref=e188] [cursor=pointer]:
+                      - img [ref=e190]
+                      - generic [ref=e192]:
+                        - generic: Downvote
+                  - button "0 Go to comments" [ref=e193] [cursor=pointer]:
+                    - generic [ref=e194]:
+                      - img [ref=e196]
+                      - generic [ref=e199]: "0"
+                    - generic [ref=e200]:
+                      - generic: Go to comments
+                  - button "Give award" [ref=e202] [cursor=pointer]:
+                    - img [ref=e205]
+                  - button "Share" [ref=e210] [cursor=pointer]:
+                    - generic [ref=e211]:
+                      - img [ref=e213]
+                      - generic [ref=e215]: Share
+              - generic "Started as a “hear me out…” in someone’s head. Ended with a peppercorn twist. Meet the Peppercorn BLT Whopper." [ref=e216]:
+                - generic [ref=e217]:
+                  - 'generic "Advertisement: Started as a “hear me out…” in someone’s head. Ended with a peppercorn twist. Meet the Peppercorn BLT Whopper." [ref=e218]':
+                    - 'link "Advertisement: Started as a “hear me out…” in someone’s head. Ended with a peppercorn twist. Meet the Peppercorn BLT Whopper." [ref=e219] [cursor=pointer]':
+                      - /url: https://alb.reddit.com/cr?za=z4BXkY4_5vM1PGGIkn2t7P_YIVAeHEetRqHB_P7mMxaonV4iJMEm68RUGWDuv1HaROXYAfQfygi4HqeDlTJbYLMAV_4LQ6Opl8SStxYXcX9T-uwd0Gv5-ugMKLpo-TBTNr8FGx-oU1i-9eZKJfGsoqbiutLQCFk4sLDEPKGUZx2bGgrhtLQS8pMWjGr18J2R4FMlzYuJuePyN1TaxK-F0oO5M24X01irfNdukGjlVzlqK-NcY41srzRIqGyyBlLt2tgw_IbABFuWV1J-qmk4WFOyV2FHxQqzwZZlqHsudOMm4PXDulsNOLolFHsmzvIUFcwxat8dS5TIqg2IcKceXkrTGtNGdCYO29-IyBciHgFKHSH1uPGJLBacJA41tAkCDwtvzkmpy_NTXusAIk9QD1IOFipa7H9w1nCzWxP0zETrWO2MhAFq9Pna7LxUyPvE5DF6Zcfta35qN_8SbphpDx9dAyS7DiskucTC1CGmQKz6MP89wxdmEWxCPPaLdz-3b9JjWdlTjgyBaJhuDzZmXaeFr42Y0-7EaIVoPT9JQBaXZ974BM4QyW-MD6EGup6uN6wyZ-boh5p-xlIQ0BrYFOOO4O1j03d2r-zV7INA6KXMWMtwDt9wHgEQADyFO3i41Tczf4KQoxWBpYbiGJQRbByzfz9H6dE&zp=JN3iiaRiMulUAtZDGHH9bAdQfdQ9-OLy0X9Hha2c2qdZzuP-DmoaJet5KU8ruPSd04kGk5P6zjW9alQOVXPVp-_4hiXDGZyPlMc0hr2D5T--AZod6Y8L0KzD-WK-HB6seW-NjY3KqlCzl6eT-na9OwIflq58r2mFfpVpYvzfj0SFCRSHtoZlDGMXv225gh2HPgWAgDR70F53xL2p3QsUceJ6K_bSbqzinoMRQ4fEPwoiA1T4olOfZetLsMpB6_11gaU5cX_KIEatxiRZ8dbLoN4VDwqPeX3ryXli1CsCFK1bjzBVuupmW_88AEfjEU6G3AciWa-cKFIpZ0Y5wcux7N_edTKEAXMr4cLazKVwtA7WQaHOA0WOWBDvEi8s-K64KBkzCp82-NwuG18xVfP1Xapg36bf9QkszXRV1STF7RVw6bwkQqkfhHaS1J2FONQmulY39EYUFkshJ12nvRcvt9ZW76ZAG40OMNq5
+                  - generic [ref=e220]:
+                    - generic [ref=e221]:
+                      - link "u/burgerking avatar burgerking" [ref=e224] [cursor=pointer]:
+                        - /url: /user/burgerking/
+                        - img "u/burgerking avatar" [ref=e229]
+                        - generic [ref=e230]: burgerking
+                      - generic [ref=e231]: •
+                      - link "Promoted" [ref=e233] [cursor=pointer]:
+                        - /url: /user/burgerking/
+                        - generic [ref=e234]: Promoted
+                      - link [ref=e236] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=z4BXkY4_5vM1PGGIkn2t7P_YIVAeHEetRqHB_P7mMxaonV4iJMEm68RUGWDuv1HaROXYAfQfygi4HqeDlTJbYLMAV_4LQ6Opl8SStxYXcX9T-uwd0Gv5-ugMKLpo-TBTNr8FGx-oU1i-9eZKJfGsoqbiutLQCFk4sLDEPKGUZx2bGgrhtLQS8pMWjGr18J2R4FMlzYuJuePyN1TaxK-F0oO5M24X01irfNdukGjlVzlqK-NcY41srzRIqGyyBlLt2tgw_IbABFuWV1J-qmk4WFOyV2FHxQqzwZZlqHsudOMm4PXDulsNOLolFHsmzvIUFcwxat8dS5TIqg2IcKceXkrTGtNGdCYO29-IyBciHgFKHSH1uPGJLBacJA41tAkCDwtvzkmpy_NTXusAIk9QD1IOFipa7H9w1nCzWxP0zETrWO2MhAFq9Pna7LxUyPvE5DF6Zcfta35qN_8SbphpDx9dAyS7DiskucTC1CGmQKz6MP89wxdmEWxCPPaLdz-3b9JjWdlTjgyBaJhuDzZmXaeFr42Y0-7EaIVoPT9JQBaXZ974BM4QyW-MD6EGup6uN6wyZ-boh5p-xlIQ0BrYFOOO4O1j03d2r-zV7INA6KXMWMtwDt9wHgEQADyFO3i41Tczf4KQoxWBpYbiGJQRbByzfz9H6dE&zp=JN3iiaRiMulUAtZDGHH9bAdQfdQ9-OLy0X9Hha2c2qdZzuP-DmoaJet5KU8ruPSd04kGk5P6zjW9alQOVXPVp-_4hiXDGZyPlMc0hr2D5T--AZod6Y8L0KzD-WK-HB6seW-NjY3KqlCzl6eT-na9OwIflq58r2mFfpVpYvzfj0SFCRSHtoZlDGMXv225gh2HPgWAgDR70F53xL2p3QsUceJ6K_bSbqzinoMRQ4fEPwoiA1T4olOfZetLsMpB6_11gaU5cX_KIEatxiRZ8dbLoN4VDwqPeX3ryXli1CsCFK1bjzBVuupmW_88AEfjEU6G3AciWa-cKFIpZ0Y5wcux7N_edTKEAXMr4cLazKVwtA7WQaHOA0WOWBDvEi8s-K64KBkzCp82-NwuG18xVfP1Xapg36bf9QkszXRV1STF7RVw6bwkQqkfhHaS1J2FONQmulY39EYUFkshJ12nvRcvt9ZW76ZAG40OMNq5
+                    - button "Open user actions" [ref=e241] [cursor=pointer]:
+                      - img [ref=e244]
+                  - generic [ref=e247]:
+                    - generic [ref=e248]:
+                      - link "Started as a “hear me out…” in someone’s head. Ended with a peppercorn twist. Meet the Peppercorn BLT Whopper." [ref=e250] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=z4BXkY4_5vM1PGGIkn2t7P_YIVAeHEetRqHB_P7mMxaonV4iJMEm68RUGWDuv1HaROXYAfQfygi4HqeDlTJbYLMAV_4LQ6Opl8SStxYXcX9T-uwd0Gv5-ugMKLpo-TBTNr8FGx-oU1i-9eZKJfGsoqbiutLQCFk4sLDEPKGUZx2bGgrhtLQS8pMWjGr18J2R4FMlzYuJuePyN1TaxK-F0oO5M24X01irfNdukGjlVzlqK-NcY41srzRIqGyyBlLt2tgw_IbABFuWV1J-qmk4WFOyV2FHxQqzwZZlqHsudOMm4PXDulsNOLolFHsmzvIUFcwxat8dS5TIqg2IcKceXkrTGtNGdCYO29-IyBciHgFKHSH1uPGJLBacJA41tAkCDwtvzkmpy_NTXusAIk9QD1IOFipa7H9w1nCzWxP0zETrWO2MhAFq9Pna7LxUyPvE5DF6Zcfta35qN_8SbphpDx9dAyS7DiskucTC1CGmQKz6MP89wxdmEWxCPPaLdz-3b9JjWdlTjgyBaJhuDzZmXaeFr42Y0-7EaIVoPT9JQBaXZ974BM4QyW-MD6EGup6uN6wyZ-boh5p-xlIQ0BrYFOOO4O1j03d2r-zV7INA6KXMWMtwDt9wHgEQADyFO3i41Tczf4KQoxWBpYbiGJQRbByzfz9H6dE&zp=JN3iiaRiMulUAtZDGHH9bAdQfdQ9-OLy0X9Hha2c2qdZzuP-DmoaJet5KU8ruPSd04kGk5P6zjW9alQOVXPVp-_4hiXDGZyPlMc0hr2D5T--AZod6Y8L0KzD-WK-HB6seW-NjY3KqlCzl6eT-na9OwIflq58r2mFfpVpYvzfj0SFCRSHtoZlDGMXv225gh2HPgWAgDR70F53xL2p3QsUceJ6K_bSbqzinoMRQ4fEPwoiA1T4olOfZetLsMpB6_11gaU5cX_KIEatxiRZ8dbLoN4VDwqPeX3ryXli1CsCFK1bjzBVuupmW_88AEfjEU6G3AciWa-cKFIpZ0Y5wcux7N_edTKEAXMr4cLazKVwtA7WQaHOA0WOWBDvEi8s-K64KBkzCp82-NwuG18xVfP1Xapg36bf9QkszXRV1STF7RVw6bwkQqkfhHaS1J2FONQmulY39EYUFkshJ12nvRcvt9ZW76ZAG40OMNq5
+                        - generic: Started as a “hear me out…” in someone’s head. Ended with a peppercorn twist. Meet the Peppercorn BLT Whopper.
+                      - generic [ref=e251]:
+                        - link [ref=e253] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=z4BXkY4_5vM1PGGIkn2t7P_YIVAeHEetRqHB_P7mMxaonV4iJMEm68RUGWDuv1HaROXYAfQfygi4HqeDlTJbYLMAV_4LQ6Opl8SStxYXcX9T-uwd0Gv5-ugMKLpo-TBTNr8FGx-oU1i-9eZKJfGsoqbiutLQCFk4sLDEPKGUZx2bGgrhtLQS8pMWjGr18J2R4FMlzYuJuePyN1TaxK-F0oO5M24X01irfNdukGjlVzlqK-NcY41srzRIqGyyBlLt2tgw_IbABFuWV1J-qmk4WFOyV2FHxQqzwZZlqHsudOMm4PXDulsNOLolFHsmzvIUFcwxat8dS5TIqg2IcKceXkrTGtNGdCYO29-IyBciHgFKHSH1uPGJLBacJA41tAkCDwtvzkmpy_NTXusAIk9QD1IOFipa7H9w1nCzWxP0zETrWO2MhAFq9Pna7LxUyPvE5DF6Zcfta35qN_8SbphpDx9dAyS7DiskucTC1CGmQKz6MP89wxdmEWxCPPaLdz-3b9JjWdlTjgyBaJhuDzZmXaeFr42Y0-7EaIVoPT9JQBaXZ974BM4QyW-MD6EGup6uN6wyZ-boh5p-xlIQ0BrYFOOO4O1j03d2r-zV7INA6KXMWMtwDt9wHgEQADyFO3i41Tczf4KQoxWBpYbiGJQRbByzfz9H6dE&zp=JN3iiaRiMulUAtZDGHH9bAdQfdQ9-OLy0X9Hha2c2qdZzuP-DmoaJet5KU8ruPSd04kGk5P6zjW9alQOVXPVp-_4hiXDGZyPlMc0hr2D5T--AZod6Y8L0KzD-WK-HB6seW-NjY3KqlCzl6eT-na9OwIflq58r2mFfpVpYvzfj0SFCRSHtoZlDGMXv225gh2HPgWAgDR70F53xL2p3QsUceJ6K_bSbqzinoMRQ4fEPwoiA1T4olOfZetLsMpB6_11gaU5cX_KIEatxiRZ8dbLoN4VDwqPeX3ryXli1CsCFK1bjzBVuupmW_88AEfjEU6G3AciWa-cKFIpZ0Y5wcux7N_edTKEAXMr4cLazKVwtA7WQaHOA0WOWBDvEi8s-K64KBkzCp82-NwuG18xVfP1Xapg36bf9QkszXRV1STF7RVw6bwkQqkfhHaS1J2FONQmulY39EYUFkshJ12nvRcvt9ZW76ZAG40OMNq5
+                        - generic [ref=e254]:
+                          - link "Order Now" [ref=e256] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=z4BXkY4_5vM1PGGIkn2t7P_YIVAeHEetRqHB_P7mMxaonV4iJMEm68RUGWDuv1HaROXYAfQfygi4HqeDlTJbYLMAV_4LQ6Opl8SStxYXcX9T-uwd0Gv5-ugMKLpo-TBTNr8FGx-oU1i-9eZKJfGsoqbiutLQCFk4sLDEPKGUZx2bGgrhtLQS8pMWjGr18J2R4FMlzYuJuePyN1TaxK-F0oO5M24X01irfNdukGjlVzlqK-NcY41srzRIqGyyBlLt2tgw_IbABFuWV1J-qmk4WFOyV2FHxQqzwZZlqHsudOMm4PXDulsNOLolFHsmzvIUFcwxat8dS5TIqg2IcKceXkrTGtNGdCYO29-IyBciHgFKHSH1uPGJLBacJA41tAkCDwtvzkmpy_NTXusAIk9QD1IOFipa7H9w1nCzWxP0zETrWO2MhAFq9Pna7LxUyPvE5DF6Zcfta35qN_8SbphpDx9dAyS7DiskucTC1CGmQKz6MP89wxdmEWxCPPaLdz-3b9JjWdlTjgyBaJhuDzZmXaeFr42Y0-7EaIVoPT9JQBaXZ974BM4QyW-MD6EGup6uN6wyZ-boh5p-xlIQ0BrYFOOO4O1j03d2r-zV7INA6KXMWMtwDt9wHgEQADyFO3i41Tczf4KQoxWBpYbiGJQRbByzfz9H6dE&zp=JN3iiaRiMulUAtZDGHH9bAdQfdQ9-OLy0X9Hha2c2qdZzuP-DmoaJet5KU8ruPSd04kGk5P6zjW9alQOVXPVp-_4hiXDGZyPlMc0hr2D5T--AZod6Y8L0KzD-WK-HB6seW-NjY3KqlCzl6eT-na9OwIflq58r2mFfpVpYvzfj0SFCRSHtoZlDGMXv225gh2HPgWAgDR70F53xL2p3QsUceJ6K_bSbqzinoMRQ4fEPwoiA1T4olOfZetLsMpB6_11gaU5cX_KIEatxiRZ8dbLoN4VDwqPeX3ryXli1CsCFK1bjzBVuupmW_88AEfjEU6G3AciWa-cKFIpZ0Y5wcux7N_edTKEAXMr4cLazKVwtA7WQaHOA0WOWBDvEi8s-K64KBkzCp82-NwuG18xVfP1Xapg36bf9QkszXRV1STF7RVw6bwkQqkfhHaS1J2FONQmulY39EYUFkshJ12nvRcvt9ZW76ZAG40OMNq5
+                            - generic [ref=e258]:
+                              - generic: Order Now
+                          - link "bk.com" [ref=e261] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=z4BXkY4_5vM1PGGIkn2t7P_YIVAeHEetRqHB_P7mMxaonV4iJMEm68RUGWDuv1HaROXYAfQfygi4HqeDlTJbYLMAV_4LQ6Opl8SStxYXcX9T-uwd0Gv5-ugMKLpo-TBTNr8FGx-oU1i-9eZKJfGsoqbiutLQCFk4sLDEPKGUZx2bGgrhtLQS8pMWjGr18J2R4FMlzYuJuePyN1TaxK-F0oO5M24X01irfNdukGjlVzlqK-NcY41srzRIqGyyBlLt2tgw_IbABFuWV1J-qmk4WFOyV2FHxQqzwZZlqHsudOMm4PXDulsNOLolFHsmzvIUFcwxat8dS5TIqg2IcKceXkrTGtNGdCYO29-IyBciHgFKHSH1uPGJLBacJA41tAkCDwtvzkmpy_NTXusAIk9QD1IOFipa7H9w1nCzWxP0zETrWO2MhAFq9Pna7LxUyPvE5DF6Zcfta35qN_8SbphpDx9dAyS7DiskucTC1CGmQKz6MP89wxdmEWxCPPaLdz-3b9JjWdlTjgyBaJhuDzZmXaeFr42Y0-7EaIVoPT9JQBaXZ974BM4QyW-MD6EGup6uN6wyZ-boh5p-xlIQ0BrYFOOO4O1j03d2r-zV7INA6KXMWMtwDt9wHgEQADyFO3i41Tczf4KQoxWBpYbiGJQRbByzfz9H6dE&zp=JN3iiaRiMulUAtZDGHH9bAdQfdQ9-OLy0X9Hha2c2qdZzuP-DmoaJet5KU8ruPSd04kGk5P6zjW9alQOVXPVp-_4hiXDGZyPlMc0hr2D5T--AZod6Y8L0KzD-WK-HB6seW-NjY3KqlCzl6eT-na9OwIflq58r2mFfpVpYvzfj0SFCRSHtoZlDGMXv225gh2HPgWAgDR70F53xL2p3QsUceJ6K_bSbqzinoMRQ4fEPwoiA1T4olOfZetLsMpB6_11gaU5cX_KIEatxiRZ8dbLoN4VDwqPeX3ryXli1CsCFK1bjzBVuupmW_88AEfjEU6G3AciWa-cKFIpZ0Y5wcux7N_edTKEAXMr4cLazKVwtA7WQaHOA0WOWBDvEi8s-K64KBkzCp82-NwuG18xVfP1Xapg36bf9QkszXRV1STF7RVw6bwkQqkfhHaS1J2FONQmulY39EYUFkshJ12nvRcvt9ZW76ZAG40OMNq5
+                            - generic: bk.com
+                    - 'link "Thumbnail image: Started as a “hear me out…” in someone’s head. Ended with a peppercorn twist. Meet the Peppercorn BLT Whopper." [ref=e264] [cursor=pointer]':
+                      - /url: https://alb.reddit.com/cr?za=z4BXkY4_5vM1PGGIkn2t7P_YIVAeHEetRqHB_P7mMxaonV4iJMEm68RUGWDuv1HaROXYAfQfygi4HqeDlTJbYLMAV_4LQ6Opl8SStxYXcX9T-uwd0Gv5-ugMKLpo-TBTNr8FGx-oU1i-9eZKJfGsoqbiutLQCFk4sLDEPKGUZx2bGgrhtLQS8pMWjGr18J2R4FMlzYuJuePyN1TaxK-F0oO5M24X01irfNdukGjlVzlqK-NcY41srzRIqGyyBlLt2tgw_IbABFuWV1J-qmk4WFOyV2FHxQqzwZZlqHsudOMm4PXDulsNOLolFHsmzvIUFcwxat8dS5TIqg2IcKceXkrTGtNGdCYO29-IyBciHgFKHSH1uPGJLBacJA41tAkCDwtvzkmpy_NTXusAIk9QD1IOFipa7H9w1nCzWxP0zETrWO2MhAFq9Pna7LxUyPvE5DF6Zcfta35qN_8SbphpDx9dAyS7DiskucTC1CGmQKz6MP89wxdmEWxCPPaLdz-3b9JjWdlTjgyBaJhuDzZmXaeFr42Y0-7EaIVoPT9JQBaXZ974BM4QyW-MD6EGup6uN6wyZ-boh5p-xlIQ0BrYFOOO4O1j03d2r-zV7INA6KXMWMtwDt9wHgEQADyFO3i41Tczf4KQoxWBpYbiGJQRbByzfz9H6dE&zp=JN3iiaRiMulUAtZDGHH9bAdQfdQ9-OLy0X9Hha2c2qdZzuP-DmoaJet5KU8ruPSd04kGk5P6zjW9alQOVXPVp-_4hiXDGZyPlMc0hr2D5T--AZod6Y8L0KzD-WK-HB6seW-NjY3KqlCzl6eT-na9OwIflq58r2mFfpVpYvzfj0SFCRSHtoZlDGMXv225gh2HPgWAgDR70F53xL2p3QsUceJ6K_bSbqzinoMRQ4fEPwoiA1T4olOfZetLsMpB6_11gaU5cX_KIEatxiRZ8dbLoN4VDwqPeX3ryXli1CsCFK1bjzBVuupmW_88AEfjEU6G3AciWa-cKFIpZ0Y5wcux7N_edTKEAXMr4cLazKVwtA7WQaHOA0WOWBDvEi8s-K64KBkzCp82-NwuG18xVfP1Xapg36bf9QkszXRV1STF7RVw6bwkQqkfhHaS1J2FONQmulY39EYUFkshJ12nvRcvt9ZW76ZAG40OMNq5
+                      - 'img "Thumbnail image: Started as a “hear me out…” in someone’s head. Ended with a peppercorn twist. Meet the Peppercorn BLT Whopper." [ref=e265]'
+              - generic [ref=e267]:
+                - generic:
+                  - separator [ref=e268]
+                  - textbox [ref=e278]:
+                    - /placeholder: Join the conversation
+              - generic [ref=e280]:
+                - generic [ref=e281]:
+                  - region "Comments":
+                    - heading "Comments Section" [level=1] [ref=e282]
+                - generic [ref=e284]:
+                  - img "Snoo Wave" [ref=e285]
+                  - generic [ref=e286]:
+                    - paragraph [ref=e287]: Be the first to comment
+                    - paragraph [ref=e288]: Nobody's responded to this post yet. Add your thoughts and get the conversation going.
+            - generic [ref=e289]:
+              - generic [ref=e292]:
+                - generic:
+                  - complementary "Community information" [ref=e293]:
+                    - generic [ref=e294]:
+                      - generic [ref=e296]:
+                        - heading "Community Info Section" [level=1] [ref=e297]
+                        - generic [ref=e298]:
+                          - link "r/FoodNYC" [ref=e300] [cursor=pointer]:
+                            - /url: /r/FoodNYC/
+                            - generic [ref=e301]: r/FoodNYC
+                          - button "Joined" [ref=e305] [cursor=pointer]
+                        - generic [ref=e306]:
+                          - generic [ref=e307]: FoodNYC
+                          - generic [ref=e308]: FoodNYC is dedicated towards showcasing food from all over New York City! Share pictures, reviews, websites, etc. Not just limited to pictures of food, but anything food related in NYC.
+                          - button "Show more" [ref=e309] [cursor=pointer]:
+                            - generic [ref=e311]: Show more
+                          - generic [ref=e312]:
+                            - generic [ref=e314]:
+                              - img [ref=e315]
+                              - text: Created Aug 7, 2014
+                            - generic [ref=e318]:
+                              - img [ref=e319]
+                              - text: Public
+                        - generic [ref=e321]:
+                          - generic [ref=e322]:
+                            - strong [ref=e324]:
+                              - generic: 272K
+                            - generic [ref=e325]: Weekly visitors
+                          - generic [ref=e326]:
+                            - strong [ref=e328]:
+                              - generic: 4.6K
+                            - generic [ref=e329]: Weekly contributions
+                      - separator [ref=e330]
+                      - generic [ref=e331]:
+                        - heading "User flair" [level=2] [ref=e333]:
+                          - generic [ref=e334]: User flair
+                        - button "spicypunketh" [ref=e336]:
+                          - generic [ref=e338]:
+                            - img [ref=e345]
+                            - generic [ref=e348]: spicypunketh
+                      - generic [ref=e350]:
+                        - separator [ref=e351]
+                        - generic [ref=e352]: community achievements
+                        - generic [ref=e353]:
+                          - generic [ref=e354]:
+                            - generic [ref=e355]:
+                              - generic [ref=e357] [cursor=pointer]:
+                                - img "Top 5% Poster" [ref=e358]
+                                - img [ref=e360]
+                              - generic [ref=e363] [cursor=pointer]:
+                                - img "Picasso" [ref=e364]
+                                - img [ref=e366]
+                            - generic [ref=e368]:
+                              - generic [ref=e370] [cursor=pointer]: Top 5% Poster,
+                              - generic [ref=e372] [cursor=pointer]: Picasso
+                          - generic [ref=e373]:
+                            - generic [ref=e374]: 2 unlocked
+                            - button "View All Achievements" [ref=e375] [cursor=pointer]:
+                              - generic [ref=e377]: View All
+                      - separator [ref=e378]
+                      - generic [ref=e379]:
+                        - heading "r/FoodNYC Rules" [level=2] [ref=e381]:
+                          - generic [ref=e382]: r/FoodNYC Rules
+                        - generic [ref=e383]:
+                          - group [ref=e385]:
+                            - generic "1 Must be related to NYC" [ref=e386] [cursor=pointer]:
+                              - generic [ref=e388]:
+                                - generic [ref=e389]:
+                                  - generic [ref=e391]: "1"
+                                  - heading "Must be related to NYC" [level=2] [ref=e395]
+                                - img [ref=e398]
+                          - group [ref=e401]:
+                            - generic "2 On Topic" [ref=e402] [cursor=pointer]:
+                              - generic [ref=e404]:
+                                - generic [ref=e405]:
+                                  - generic [ref=e407]: "2"
+                                  - heading "On Topic" [level=2] [ref=e411]
+                                - img [ref=e414]
+                          - group [ref=e417]:
+                            - generic "3 Civility" [ref=e418] [cursor=pointer]:
+                              - generic [ref=e420]:
+                                - generic [ref=e421]:
+                                  - generic [ref=e423]: "3"
+                                  - heading "Civility" [level=2] [ref=e427]
+                                - img [ref=e430]
+                          - group [ref=e433]:
+                            - generic "4 No repetitive or low effort posts" [ref=e434] [cursor=pointer]:
+                              - generic [ref=e436]:
+                                - generic [ref=e437]:
+                                  - generic [ref=e439]: "4"
+                                  - heading "No repetitive or low effort posts" [level=2] [ref=e443]
+                                - img [ref=e446]
+                          - group [ref=e449]:
+                            - generic "5 Photo-only posts require a link or description" [ref=e450] [cursor=pointer]:
+                              - generic [ref=e452]:
+                                - generic [ref=e453]:
+                                  - generic [ref=e455]: "5"
+                                  - heading "Photo-only posts require a link or description" [level=2] [ref=e459]
+                                - img [ref=e462]
+                          - group [ref=e465]:
+                            - generic "6 Reservations" [ref=e466] [cursor=pointer]:
+                              - generic [ref=e468]:
+                                - generic [ref=e469]:
+                                  - generic [ref=e471]: "6"
+                                  - heading "Reservations" [level=2] [ref=e475]
+                                - img [ref=e478]
+                          - group [ref=e481]:
+                            - generic "7 Self Promotion" [ref=e482] [cursor=pointer]:
+                              - generic [ref=e484]:
+                                - generic [ref=e485]:
+                                  - generic [ref=e487]: "7"
+                                  - heading "Self Promotion" [level=2] [ref=e491]
+                                - img [ref=e494]
+                          - group [ref=e497]:
+                            - generic "8 Spam" [ref=e498] [cursor=pointer]:
+                              - generic [ref=e500]:
+                                - generic [ref=e501]:
+                                  - generic [ref=e503]: "8"
+                                  - heading "Spam" [level=2] [ref=e507]
+                                - img [ref=e510]
+                          - group [ref=e513]:
+                            - generic "9 No AI" [ref=e514] [cursor=pointer]:
+                              - generic [ref=e516]:
+                                - generic [ref=e517]:
+                                  - generic [ref=e519]: "9"
+                                  - heading "No AI" [level=2] [ref=e523]
+                                - img [ref=e526]
+                          - group [ref=e529]:
+                            - generic "10 No Politics" [ref=e530] [cursor=pointer]:
+                              - generic [ref=e532]:
+                                - generic [ref=e533]:
+                                  - generic [ref=e535]: "10"
+                                  - heading "No Politics" [level=2] [ref=e539]
+                                - img [ref=e542]
+                  - article [ref=e546]:
+                    - generic [ref=e547]:
+                      - generic [ref=e548]: Promoted
+                      - button "Open user actions" [ref=e554] [cursor=pointer]:
+                        - img [ref=e557]
+                    - link "sidebar promoted post thumbnail" [ref=e560] [cursor=pointer]:
+                      - /url: https://alb.reddit.com/cr?za=HI3CVdsLIzeB5hDlE2Li_Klj9fn1BjFkNc45xLJQyP-sxqvW6zzGGxWjVKSnBeAWr6DsVsdRguZx5OZBzy82oI8TxTGNULARZ1y4jwi1U3yfFzHw0efIePv37K81h4zSN7sJJnckIog5u5RdhKKz65yOyfvr7VjrZ5juA2bmMpn5_30e5F64Re_P9sk-xOA11PKXaM3c_nT-Fd6OcNAVErPRhUjY7vP7BJHy3LSFFiyoH5WfrY_tePK1g2zJxXr_HS3oh2WQnC0Xuu9EfFoArXQvP7sITkjYtv-x9UIy2b4ei_XAh5wL8vo0PgLLrvJu6nSxOq1_vyxlKxMKvr_Vmy4mVANyFykjTjl3NIchuxf25dtVWszMbYmZyr-T8_yoFLrBDZCUtWIcUxIeLZNZcQmzucpZEWn0xM2014ZtObSCxqN82eV9ykJtJc_Aee3xi0Dw5Cqtp1pkFnwgUKNsYw4oQ_p9UDcB0kUZlDm9Ok3tYFOsvyqOL5YqPSWyITB-cLR4cFUChsTVSX-wlZy_G7Q5tgRG2ebO17B0N5bd-zrPY_7oViGVim5ZtdWilXIq7WDHUJP7gmm90EMkS9FZ4O6fOz7yjuLiM_eZvhlx7wKsHtclnUj9wYC6OKj6_uiEpmJvnbeTq8j1LsWK1b-c8-ovbrjlOFc&zp=e7Z7UksYMjB16vy_HGKWaVY6yK_4KPkkV5fixp6pwXNhmjyOAr7sIjGNagNGA7cfI_1rYlMFH1nAtjkxhFyvndYmS4HiXjdO1ngAqQblDGIzxePxINNwMIXngnc-GKVEp4EUxljmKvLKqhGYHvpRXGBZVAIEcRw1mEkXWpl752gbR3nXO0BMLZyfSte7KqVPlh5DNIhEdx_xOFtavoR5F3bl1JhSLjQRhGs2m-t125kDjUKKafMLtzZv2lSxROcWqSCvdQwvOaruofZ9ZbW15V2YBM8bnhrF45VOnIdORclZgBkP2h1UpUvpRK4XYGqYJWWwLzPqyGx4Im4w7t93QHNl52BJ_5Teo0zxgZtyzgsXeYtic12qso6K349QyXm_trfQGJ4n3lASe-pIt6hG-t5nB8_n9v6vSBHLlfdKuHhYVnJF9IhAs0CSTYifAai5Gn4PSKzA2EgEQ2zCqQSTmSLVlPcuC6nz66Y
+                      - img "sidebar promoted post thumbnail" [ref=e562]
+                  - separator [ref=e563]
+                  - generic [ref=e565]:
+                    - generic [ref=e566]:
+                      - heading "Moderators" [level=2] [ref=e568]:
+                        - generic [ref=e569]: Moderators
+                      - link "Message Mods" [ref=e571] [cursor=pointer]:
+                        - /url: https://www.reddit.com/message/compose?to=r/FoodNYC
+                        - generic [ref=e572]:
+                          - img [ref=e574]
+                          - generic [ref=e576]: Message Mods
+                      - generic [ref=e578]:
+                        - img [ref=e585]
+                        - link "u/shamam" [ref=e590] [cursor=pointer]:
+                          - /url: /user/shamam/
+                      - generic [ref=e592]:
+                        - img "u/Marx0r avatar" [ref=e597]
+                        - link "u/Marx0r" [ref=e601] [cursor=pointer]:
+                          - /url: /user/Marx0r/
+                      - generic [ref=e603]:
+                        - img [ref=e610]
+                        - generic [ref=e612]:
+                          - link "u/EagleFly_5" [ref=e615] [cursor=pointer]:
+                            - /url: /user/EagleFly_5/
+                          - generic [ref=e617]: 🦅🛫_🖐🏼
+                      - generic [ref=e619]:
+                        - img "u/jaded_toast avatar" [ref=e624]
+                        - link "u/jaded_toast" [ref=e628] [cursor=pointer]:
+                          - /url: /user/jaded_toast/
+                      - generic [ref=e630]:
+                        - img "u/purge-user avatar" [ref=e635]
+                        - link "u/purge-user" [ref=e639] [cursor=pointer]:
+                          - /url: /user/purge-user/
+                      - generic [ref=e641]:
+                        - img "u/flairassistant avatar" [ref=e646]
+                        - link "u/flairassistant" [ref=e650] [cursor=pointer]:
+                          - /url: /user/flairassistant/
+                      - generic [ref=e652]:
+                        - img "u/comment-nuke avatar" [ref=e657]
+                        - link "u/comment-nuke" [ref=e661] [cursor=pointer]:
+                          - /url: /user/comment-nuke/
+                      - generic [ref=e663]:
+                        - img "u/admin-tattler avatar" [ref=e668]
+                        - link "u/admin-tattler" [ref=e672] [cursor=pointer]:
+                          - /url: /user/admin-tattler/
+                      - generic [ref=e674]:
+                        - img "u/sub-stats-bot avatar" [ref=e679]
+                        - link "u/sub-stats-bot" [ref=e683] [cursor=pointer]:
+                          - /url: /user/sub-stats-bot/
+                      - generic [ref=e685]:
+                        - img "u/spotlight-app avatar" [ref=e690]
+                        - generic [ref=e693]:
+                          - link "u/spotlight-app" [ref=e694] [cursor=pointer]:
+                            - /url: /user/spotlight-app/
+                          - 'generic "Flair: Mod Bot 🤖" [ref=e696]': Mod Bot 🤖
+                      - link "View all moderators" [ref=e697] [cursor=pointer]:
+                        - /url: /mod/FoodNYC/moderators/
+                        - generic [ref=e699]: View all moderators
+                    - separator [ref=e700]
+                    - generic [ref=e701]:
+                      - heading "Installed Apps" [level=2] [ref=e703]:
+                        - generic [ref=e704]: Installed Apps
+                      - link "Remove Macro" [ref=e705] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/purge-user
+                        - generic [ref=e708]: Remove Macro
+                        - img [ref=e711]
+                      - link "Subreddit Statistics" [ref=e713] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/sub-stats-bot
+                        - generic [ref=e716]: Subreddit Statistics
+                        - img [ref=e719]
+                      - link "Flair Assistant" [ref=e721] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/flairassistant
+                        - generic [ref=e724]: Flair Assistant
+                        - img [ref=e727]
+                      - link "Modmail Quick User Summary" [ref=e729] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/modmail-userinfo
+                        - generic [ref=e732]: Modmail Quick User Summary
+                        - img [ref=e735]
+                      - link "Banhammer" [ref=e737] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/banhammerapp
+                        - generic [ref=e740]: Banhammer
+                        - img [ref=e743]
+                      - link "Moderator Mentions" [ref=e745] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/mod-mentions
+                        - generic [ref=e748]: Moderator Mentions
+                        - img [ref=e751]
+                      - link "Comment Mop" [ref=e753] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/comment-nuke
+                        - generic [ref=e756]: Comment Mop
+                        - img [ref=e759]
+                      - link "Admin Tattler" [ref=e761] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/admin-tattler
+                        - generic [ref=e764]: Admin Tattler
+                        - img [ref=e767]
+                      - link "Modqueue Tools" [ref=e769] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/modqueue-tools
+                        - generic [ref=e772]: Modqueue Tools
+                        - img [ref=e775]
+                      - link "Mobile Automod" [ref=e777] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/automod-app
+                        - generic [ref=e780]: Mobile Automod
+                        - img [ref=e783]
+                      - link "Spotlight" [ref=e785] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/spotlight-app
+                        - generic [ref=e788]: Spotlight
+                        - img [ref=e791]
+                  - separator [ref=e793]
+                  - article [ref=e796]:
+                    - generic [ref=e797]:
+                      - generic [ref=e798]: Promoted
+                      - button "Open user actions" [ref=e804] [cursor=pointer]:
+                        - img [ref=e807]
+                    - link "sidebar promoted post thumbnail" [ref=e810] [cursor=pointer]:
+                      - /url: https://alb.reddit.com/cr?za=8w5c5wkDo1lk0JVize6MaYV9HR3pnJcOO_IGbwmBVOSV8yuNDsU576OXx68MCAiXRtTnB9O6nM2KPRht7I5KjoVOqS5qniDjClW-6LV-0MFg7xHA28nL5Vpl3XnxBdWlyX7IuBlLGCtutT2OaWAu6OXzI_CDXdDAZXRT-1FbA0B0mCqdCbGz36SOcaghFQZYhKZTDZlsZrYf4CDkNcwUX3IdCO46MArqcYbyz_ayWSu-QUnWfBDk62xqSZnKdTw53HIf4KFjmfzM73Mb6pKPhOlGIP7D7tc-0oJU_FETruGf-doC3grx_89qEm58iCwOwjOv27zDUBU8qZ4N2a9W4qfYVK1bGJgn3PlXJQaall8fDrhaw-cnV28gJR1GC70z3MYsbX3Aq_AOd4jSCG8lQAUL8q8iWztFJN7aQ8o942q8Bgu9KfnDekMrYk-z9zCZ9w-vMsF2OdHvEusFw1_AFePq3EwAolwkxn2ocXnT4nb_X9QTUi1uMe5SZlBrIJjQPCeISYZEZpoBxvoTQQw76wUkPibLkYB3zEZxa4kvF2EVzJ77ltunOW4VUGO_nKR9bDqr8J0dbiDWETZaO8i_CF5WfhBjedM7vPz8HnI2Yokk7Ha6xS0In3_uLd6N527QfdEIoON6tpiX-AUKcVf9tXVCyLvB6H0&zp=BU1LSZGjee3slTq6hlr3ifVDEhlHYkK2olxBn0tyi896LJAVuOlgyFiNqTZvJsg6uA1gTyGCH8XZ46iXWTV1e8dKt7dXNfoVKQaE3Vg3F6KOltrAQxS5Ix7G2IM-L-r8izO_bPH5_4Hv3aj2vBPmPPmisdc8MDQ4j9xTzD7ZrzhA43v-XISrm6f58bGBH1_EPFNpuY8EaEAMA67pQkYrLvMAhQrDKr6IWDFyNeEXRyQ7ZvqvdQlnHgh14TSTMOLPDcZIh9qoASLyhcSrndUte9Cj9Ntk-VOOFiNRwlKuIjJ7QTMzaWFIbkknGabvPzmdAigOhXeg28CkS_yJXvTBNP92rftmPoX7wZeosv81jDu2LRmq7H17rdty9T_z_XGcr_A4E1XGIRptwlXL1ATUOYV3CShsNHbG6Ls76KjEX4k-mKsHal2eXjmQvMePzWD0XD0a5g229WGXCHlDZn-vb0MPuNea_AMa-QY
+                      - img "sidebar promoted post thumbnail" [ref=e812]
+              - generic [ref=e814]:
+                - link "Reddit Rules" [ref=e817] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e820] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e823] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e826] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e829] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e831] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e833]:
+          - button "Collapse Navigation" [ref=e836] [cursor=pointer]:
+            - img [ref=e839]
+            - generic [ref=e841]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e846]:
+            - generic [ref=e848]:
+              - link "Home" [ref=e850] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e851]:
+                  - img [ref=e853]
+                  - generic [ref=e856]: Home
+              - link "Popular" [ref=e858] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e859]:
+                  - img [ref=e861]
+                  - generic [ref=e864]: Popular
+              - link "News" [ref=e865] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e866]:
+                  - img [ref=e868]
+                  - generic [ref=e872]: News
+              - link "Explore" [ref=e874] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e875]:
+                  - img [ref=e877]
+                  - generic [ref=e880]: Explore
+              - button "Start a community" [ref=e881] [cursor=pointer]:
+                - generic [ref=e882]:
+                  - img [ref=e884]
+                  - generic [ref=e887]: Start a community
+            - separator [ref=e888]
+            - group [ref=e892]:
+              - generic "GAMES ON REDDIT" [ref=e893] [cursor=pointer]:
+                - generic [ref=e894]:
+                  - generic [ref=e899]:
+                    - generic: GAMES ON REDDIT
+                  - img [ref=e902]
+            - separator [ref=e904]
+            - group [ref=e906]:
+              - generic "CUSTOM FEEDS" [ref=e907] [cursor=pointer]:
+                - generic [ref=e909]:
+                  - generic [ref=e912]: CUSTOM FEEDS
+                  - img [ref=e915]
+              - button "Create Custom Feed" [ref=e921] [cursor=pointer]:
+                - generic [ref=e922]:
+                  - img [ref=e924]
+                  - generic [ref=e927]: Create Custom Feed
+            - separator [ref=e928]
+            - group [ref=e930]:
+              - generic "COMMUNITIES" [ref=e931] [cursor=pointer]:
+                - generic [ref=e933]:
+                  - generic [ref=e936]: COMMUNITIES
+                  - img [ref=e939]
+              - generic [ref=e942]:
+                - link "Manage Communities" [ref=e943] [cursor=pointer]:
+                  - /url: /user/spicypunketh/communities
+                  - generic [ref=e944]:
+                    - img [ref=e946]
+                    - generic [ref=e949]: Manage Communities
+                - generic [ref=e951]:
+                  - link "r/BreakUps" [ref=e953] [cursor=pointer]:
+                    - /url: /r/BreakUps/
+                    - generic [ref=e954]:
+                      - img [ref=e959]
+                      - generic [ref=e962]: r/BreakUps
+                    - button "Remove community from favorites" [ref=e965]:
+                      - img [ref=e968]
+                  - link "r/ExNoContact" [ref=e971] [cursor=pointer]:
+                    - /url: /r/ExNoContact/
+                    - generic [ref=e972]:
+                      - img [ref=e977]
+                      - generic [ref=e980]: r/ExNoContact
+                    - button "Remove community from favorites" [ref=e983]:
+                      - img [ref=e986]
+                  - link "r/announcements" [ref=e989] [cursor=pointer]:
+                    - /url: /r/announcements/
+                    - generic [ref=e990]:
+                      - img [ref=e995]
+                      - generic [ref=e998]: r/announcements
+                    - button "Add community to favorites" [ref=e1001]:
+                      - img [ref=e1004]
+                  - link "r/books" [ref=e1007] [cursor=pointer]:
+                    - /url: /r/books/
+                    - generic [ref=e1008]:
+                      - img [ref=e1013]
+                      - generic [ref=e1016]: r/books
+                    - button "Add community to favorites" [ref=e1019]:
+                      - img [ref=e1022]
+                  - link "r/ChatGPT" [ref=e1025] [cursor=pointer]:
+                    - /url: /r/ChatGPT/
+                    - generic [ref=e1026]:
+                      - img [ref=e1031]
+                      - generic [ref=e1034]: r/ChatGPT
+                    - button "Add community to favorites" [ref=e1037]:
+                      - img [ref=e1040]
+                  - link "r/DecidingToBeBetter" [ref=e1043] [cursor=pointer]:
+                    - /url: /r/DecidingToBeBetter/
+                    - generic [ref=e1044]:
+                      - img [ref=e1049]
+                      - generic [ref=e1052]: r/DecidingToBeBetter
+                    - button "Add community to favorites" [ref=e1055]:
+                      - img [ref=e1058]
+                  - link "r/economy" [ref=e1061] [cursor=pointer]:
+                    - /url: /r/economy/
+                    - generic [ref=e1062]:
+                      - img [ref=e1067]
+                      - generic [ref=e1070]: r/economy
+                    - button "Add community to favorites" [ref=e1073]:
+                      - img [ref=e1076]
+                  - link "r/explainlikeimfive" [ref=e1079] [cursor=pointer]:
+                    - /url: /r/explainlikeimfive/
+                    - generic [ref=e1080]:
+                      - img [ref=e1085]
+                      - generic [ref=e1088]: r/explainlikeimfive
+                    - button "Add community to favorites" [ref=e1091]:
+                      - img [ref=e1094]
+                  - link "r/FoodNYC" [ref=e1097] [cursor=pointer]:
+                    - /url: /r/FoodNYC/
+                    - generic [ref=e1098]:
+                      - img [ref=e1103]
+                      - generic [ref=e1106]: r/FoodNYC
+                    - button "Add community to favorites" [ref=e1109]:
+                      - img [ref=e1112]
+                  - link "r/GAMETHEORY" [ref=e1115] [cursor=pointer]:
+                    - /url: /r/GAMETHEORY/
+                    - generic [ref=e1116]:
+                      - img [ref=e1122]
+                      - generic [ref=e1126]: r/GAMETHEORY
+                    - button "Add community to favorites" [ref=e1129]:
+                      - img [ref=e1132]
+                  - link "r/getdisciplined" [ref=e1135] [cursor=pointer]:
+                    - /url: /r/getdisciplined/
+                    - generic [ref=e1136]:
+                      - img [ref=e1141]
+                      - generic [ref=e1144]: r/getdisciplined
+                    - button "Add community to favorites" [ref=e1147]:
+                      - img [ref=e1150]
+                  - link "r/IAmA" [ref=e1153] [cursor=pointer]:
+                    - /url: /r/IAmA/
+                    - generic [ref=e1154]:
+                      - img [ref=e1159]
+                      - generic [ref=e1162]: r/IAmA
+                    - button "Add community to favorites" [ref=e1165]:
+                      - img [ref=e1168]
+                  - link "r/immigration" [ref=e1171] [cursor=pointer]:
+                    - /url: /r/immigration/
+                    - generic [ref=e1172]:
+                      - img [ref=e1178]
+                      - generic [ref=e1182]: r/immigration
+                    - button "Add community to favorites" [ref=e1185]:
+                      - img [ref=e1188]
+                  - link "r/INTP" [ref=e1191] [cursor=pointer]:
+                    - /url: /r/INTP/
+                    - generic [ref=e1192]:
+                      - img [ref=e1197]
+                      - generic [ref=e1200]: r/INTP
+                    - button "Add community to favorites" [ref=e1203]:
+                      - img [ref=e1206]
+                  - link "r/iOSProgramming" [ref=e1209] [cursor=pointer]:
+                    - /url: /r/iOSProgramming/
+                    - generic [ref=e1210]:
+                      - img [ref=e1215]
+                      - generic [ref=e1218]: r/iOSProgramming
+                    - button "Add community to favorites" [ref=e1221]:
+                      - img [ref=e1224]
+                  - link "r/Manifestation" [ref=e1227] [cursor=pointer]:
+                    - /url: /r/Manifestation/
+                    - generic [ref=e1228]:
+                      - img [ref=e1234]
+                      - generic [ref=e1238]: r/Manifestation
+                    - button "Add community to favorites" [ref=e1241]:
+                      - img [ref=e1244]
+                  - link "r/neoliberal" [ref=e1247] [cursor=pointer]:
+                    - /url: /r/neoliberal/
+                    - generic [ref=e1248]:
+                      - img [ref=e1253]
+                      - generic [ref=e1256]: r/neoliberal
+                    - button "Add community to favorites" [ref=e1259]:
+                      - img [ref=e1262]
+                  - link "r/nycmeetups" [ref=e1265] [cursor=pointer]:
+                    - /url: /r/nycmeetups/
+                    - generic [ref=e1266]:
+                      - img [ref=e1271]
+                      - generic [ref=e1274]: r/nycmeetups
+                    - button "Add community to favorites" [ref=e1277]:
+                      - img [ref=e1280]
+                  - link "r/Sauna" [ref=e1283] [cursor=pointer]:
+                    - /url: /r/Sauna/
+                    - generic [ref=e1284]:
+                      - img [ref=e1289]
+                      - generic [ref=e1292]: r/Sauna
+                    - button "Add community to favorites" [ref=e1295]:
+                      - img [ref=e1298]
+                  - link "r/selfimprovement" [ref=e1301] [cursor=pointer]:
+                    - /url: /r/selfimprovement/
+                    - generic [ref=e1302]:
+                      - img [ref=e1308]
+                      - generic [ref=e1312]: r/selfimprovement
+                    - button "Add community to favorites" [ref=e1315]:
+                      - img [ref=e1318]
+                  - link "r/SideProject" [ref=e1321] [cursor=pointer]:
+                    - /url: /r/SideProject/
+                    - generic [ref=e1322]:
+                      - img [ref=e1327]
+                      - generic [ref=e1330]: r/SideProject
+                    - button "Add community to favorites" [ref=e1333]:
+                      - img [ref=e1336]
+                  - link "r/skiing" [ref=e1339] [cursor=pointer]:
+                    - /url: /r/skiing/
+                    - generic [ref=e1340]:
+                      - img [ref=e1345]
+                      - generic [ref=e1348]: r/skiing
+                    - button "Add community to favorites" [ref=e1351]:
+                      - img [ref=e1354]
+                  - link "r/startups" [ref=e1357] [cursor=pointer]:
+                    - /url: /r/startups/
+                    - generic [ref=e1358]:
+                      - img [ref=e1363]
+                      - generic [ref=e1366]: r/startups
+                    - button "Add community to favorites" [ref=e1369]:
+                      - img [ref=e1372]
+                  - link "r/userexperience" [ref=e1375] [cursor=pointer]:
+                    - /url: /r/userexperience/
+                    - generic [ref=e1376]:
+                      - img [ref=e1381]
+                      - generic [ref=e1384]: r/userexperience
+                    - button "Add community to favorites" [ref=e1387]:
+                      - img [ref=e1390]
+            - separator [ref=e1392]
+            - navigation "Reddit resources" [ref=e1393]:
+              - group [ref=e1395]:
+                - generic "RESOURCES" [ref=e1396] [cursor=pointer]:
+                  - generic [ref=e1398]:
+                    - generic [ref=e1401]: RESOURCES
+                    - img [ref=e1404]
+                - generic [ref=e1407]:
+                  - link "About Reddit" [ref=e1409] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e1410]:
+                      - img [ref=e1412]
+                      - generic [ref=e1416]: About Reddit
+                  - link "Advertise" [ref=e1418] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e1419]:
+                      - img [ref=e1421]
+                      - generic [ref=e1425]: Advertise
+                  - link "Developer Platform" [ref=e1427] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1428]:
+                      - img [ref=e1430]
+                      - generic [ref=e1434]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e1436] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e1437]:
+                      - img [ref=e1439]
+                      - generic [ref=e1443]:
+                        - generic [ref=e1444]: Reddit Pro
+                        - generic [ref=e1445]: BETA
+                  - link "Help" [ref=e1447] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e1448]:
+                      - img [ref=e1450]
+                      - generic [ref=e1454]: Help
+                  - link "Blog" [ref=e1456] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e1457]:
+                      - img [ref=e1459]
+                      - generic [ref=e1463]: Blog
+                  - link "Careers" [ref=e1465] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e1466]:
+                      - img [ref=e1468]
+                      - generic [ref=e1472]: Careers
+                  - link "Press" [ref=e1474] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e1475]:
+                      - img [ref=e1477]
+                      - generic [ref=e1481]: Press
+                  - separator [ref=e1482]
+                  - link "Best of Reddit" [ref=e1484] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e1485]:
+                      - img [ref=e1487]
+                      - generic [ref=e1492]: Best of Reddit
+                  - separator [ref=e1493]
+                  - link "Reddit Rules" [ref=e1495] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e1496]:
+                      - img [ref=e1498]
+                      - generic [ref=e1502]: Reddit Rules
+                  - link "Privacy Policy" [ref=e1504] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e1505]:
+                      - img [ref=e1507]
+                      - generic [ref=e1511]: Privacy Policy
+                  - link "User Agreement" [ref=e1513] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e1514]:
+                      - img [ref=e1516]
+                      - generic [ref=e1520]: User Agreement
+                  - link "Your Privacy Choices" [ref=e1522] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e1523]:
+                      - img [ref=e1525]
+                      - generic [ref=e1529]: Your Privacy Choices
+                  - link "Accessibility" [ref=e1531] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e1532]:
+                      - img [ref=e1534]
+                      - generic [ref=e1539]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1541] [cursor=pointer]:
+              - /url: https://redditinc.com

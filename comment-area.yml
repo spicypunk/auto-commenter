@@ -1,0 +1,128 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "What is your top 3 restaurants in the UES? : r/FoodNYC"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]
+                - img [ref=e49]
+              - textbox "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in r/FoodNYC
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - link "Advertise on Reddit" [ref=e60] [cursor=pointer]:
+                - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=nav_cta
+                - img [ref=e63]
+                - generic [ref=e65]
+              - button "Open chat" [ref=e71] [cursor=pointer]:
+                - img [ref=e74]
+                - generic [ref=e76]
+              - link "Create post" [ref=e81] [cursor=pointer]:
+                - /url: /r/FoodNYC/submit/
+                - generic [ref=e82]
+                - generic [ref=e87]
+              - generic [ref=e89]:
+                - link "Open inbox" [ref=e92] [cursor=pointer]:
+                  - /url: /notifications
+                - generic
+            - button "Expand user menu" [ref=e102] [cursor=pointer]:
+              - img [ref=e112]
+              - generic [ref=e115]:
+                - generic: Expand user menu
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e119] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e120] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e121]:
+            - main [ref=e122]:
+              - 'generic "What is your top 3 restaurants in the UES? : r/FoodNYC"'
+              - generic [ref=e123]:
+                - generic [ref=e124]
+                - generic [ref=e163]
+                - paragraph [ref=e174]: Title says it all! Rank more if you want, please. Think fancy dinner with your partner, like we are going for the very best here but capping budget at $150 per person.
+                - generic "Actions available for this post" [ref=e175]
+              - generic "TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e214]:
+                - generic [ref=e215]
+              - generic [ref=e265]:
+                - generic
+              - region "Comments" [ref=e310]:
+                - heading "Comments Section" [level=1] [ref=e311]
+                - generic
+            - generic [ref=e1467]:
+              - generic [ref=e1470]:
+                - generic
+              - generic [ref=e1992]:
+                - link "Reddit Rules" [ref=e1995] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e1998] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e2001] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e2004] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e2007] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e2009] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e2011]:
+          - button "Collapse Navigation" [ref=e2014] [cursor=pointer]:
+            - img [ref=e2017]
+            - generic [ref=e2019]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e2024]:
+            - generic [ref=e2026]:
+              - link "Home" [ref=e2028] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e2029]
+              - link "Popular" [ref=e2036] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e2037]
+              - link "News" [ref=e2043] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e2044]
+              - link "Explore" [ref=e2052] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e2053]
+              - button "Start a community" [ref=e2059] [cursor=pointer]:
+                - generic [ref=e2060]
+            - separator [ref=e2066]
+            - group [ref=e2070]:
+              - generic "GAMES ON REDDIT" [ref=e2071] [cursor=pointer]:
+                - generic [ref=e2072]
+            - separator [ref=e2082]
+            - group [ref=e2084]:
+              - generic "CUSTOM FEEDS" [ref=e2085] [cursor=pointer]:
+                - generic [ref=e2087]
+              - button "Create Custom Feed" [ref=e2099] [cursor=pointer]:
+                - generic [ref=e2100]
+            - separator [ref=e2106]
+            - group [ref=e2108]:
+              - generic "COMMUNITIES" [ref=e2109] [cursor=pointer]:
+                - generic [ref=e2111]
+              - generic [ref=e2120]:
+                - link "Manage Communities" [ref=e2121] [cursor=pointer]:
+                  - /url: /user/spicypunketh/communities
+                - generic [ref=e2129]
+            - separator [ref=e2570]
+            - navigation "Reddit resources" [ref=e2571]:
+              - group [ref=e2573]:
+                - generic "RESOURCES" [ref=e2574] [cursor=pointer]
+                - generic [ref=e2585]
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e2719] [cursor=pointer]:
+              - /url: https://redditinc.com

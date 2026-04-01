@@ -1,0 +1,1244 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "What is your top 3 restaurants in the UES? : r/FoodNYC"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img [ref=e17]
+          - search [ref=e34]:
+            - generic [ref=e36]:
+              - img [ref=e39]
+              - generic "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e42] [cursor=pointer]:
+                - button [pressed] [ref=e43]:
+                  - generic [ref=e47]: r/FoodNYC
+                - img [ref=e49]
+              - textbox "Remove r/FoodNYC filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in r/FoodNYC
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - link "Advertise on Reddit" [ref=e60] [cursor=pointer]:
+                - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=nav_cta
+                - img [ref=e63]
+                - generic [ref=e65]:
+                  - generic: Advertise on Reddit
+              - button "Open chat" [ref=e71] [cursor=pointer]:
+                - img [ref=e74]
+                - generic [ref=e76]:
+                  - generic: Open chat
+              - link "Create post" [ref=e81] [cursor=pointer]:
+                - /url: /r/FoodNYC/submit/
+                - generic [ref=e82]:
+                  - img [ref=e84]
+                  - generic [ref=e86]: Create
+                - generic [ref=e87]:
+                  - generic: Create post
+              - generic [ref=e89]:
+                - link "Open inbox" [ref=e92] [cursor=pointer]:
+                  - /url: /notifications
+                  - img [ref=e95]
+                  - generic [ref=e97]:
+                    - generic: Open inbox
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: "1"
+            - button "Expand user menu" [ref=e102] [cursor=pointer]:
+              - img [ref=e112]
+              - generic [ref=e115]:
+                - generic: Expand user menu
+      - generic [ref=e116]:
+        - generic [ref=e117]:
+          - generic [ref=e118]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e119] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e120] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e121]:
+            - main [ref=e122]:
+              - 'generic "What is your top 3 restaurants in the UES? : r/FoodNYC"'
+              - generic [ref=e123]:
+                - generic [ref=e124]:
+                  - generic [ref=e125]:
+                    - button "Back" [ref=e127] [cursor=pointer]:
+                      - img [ref=e130]
+                      - generic [ref=e132]:
+                        - generic: Back
+                    - link "Go to FoodNYC" [ref=e135] [cursor=pointer]:
+                      - /url: /r/FoodNYC/
+                      - generic [ref=e139]:
+                        - generic: Go to FoodNYC
+                    - group [ref=e140]:
+                      - generic [ref=e141]:
+                        - link "r/FoodNYC" [ref=e145] [cursor=pointer]:
+                          - /url: /r/FoodNYC/
+                        - generic [ref=e146]: •
+                        - time [ref=e147]: 4h ago
+                      - 'link "Author: mendy_br" [ref=e153] [cursor=pointer]':
+                        - /url: /user/mendy_br/
+                        - text: mendy_br
+                  - button "Open user actions" [ref=e157] [cursor=pointer]:
+                    - img [ref=e160]
+                - generic [ref=e163]:
+                  - 'heading "Post Title: What is your top 3 restaurants in the UES?" [level=1] [ref=e164]': What is your top 3 restaurants in the UES?
+                  - 'link "Flair: Question" [ref=e167] [cursor=pointer]':
+                    - /url: /r/FoodNYC/?f=flair_name%3A%22Question%22
+                    - 'generic "Flair: Question" [ref=e169]': Question
+                - paragraph [ref=e174]: Title says it all! Rank more if you want, please. Think fancy dinner with your partner, like we are going for the very best here but capping budget at $150 per person.
+                - generic "Actions available for this post" [ref=e175]:
+                  - generic [ref=e178]:
+                    - button "Upvote" [ref=e179] [cursor=pointer]:
+                      - img [ref=e181]
+                      - generic [ref=e183]:
+                        - generic: Upvote
+                    - generic [ref=e185]: "12"
+                    - button "Downvote" [ref=e186] [cursor=pointer]:
+                      - img [ref=e188]
+                      - generic [ref=e190]:
+                        - generic: Downvote
+                  - button "26 Go to comments" [ref=e191] [cursor=pointer]:
+                    - generic [ref=e192]:
+                      - img [ref=e194]
+                      - generic [ref=e197]: "26"
+                    - generic [ref=e198]:
+                      - generic: Go to comments
+                  - button "Give award" [ref=e200] [cursor=pointer]:
+                    - img [ref=e203]
+                  - button "Share" [ref=e208] [cursor=pointer]:
+                    - generic [ref=e209]:
+                      - img [ref=e211]
+                      - generic [ref=e213]: Share
+              - generic "TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e214]:
+                - generic [ref=e215]:
+                  - 'generic "Advertisement: TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e216]':
+                    - 'link "Advertisement: TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e217] [cursor=pointer]':
+                      - /url: https://alb.reddit.com/cr?za=HZ3tPIj30Wdtud6FowbWMBb1MGGpOzke2CsC-sg-ClZZsI49--o3YFwq9MSZFrTqIQyB-WPzR-ySOqX6F57rDOaUsa1yiFVqpcNBjNryfcTAGWXwH3TytemeAJTbOePWfBoxM9Wwk0XAzqLbfHj59XrrxNaBTUqc0Y0vWIex4kICMoPKuAQd8O_233e4iPxRL5MKQ6io0os1tULvL6YorewOxiTnBBAWH--k5eROdjaseDHcLTBgZDEd4T2G2XGce8qKwaw4dJxUdaal6vB1EHjWALsNxRd3RElPQVAOdCLdX8Fl7bvatY3V84VrSYxW6UTWeKzSKMp-sJb2V7Th2NU77Ao7amdr8W-i6T3H_lrEWncr3GBC3y8EvKr-aUnzqOfKvSnaPyXDY7U7KzrZy2-Dh6MrEITvE8C7clwtMxp1Emis6xfvxAZ9jpY75x3uX1WW-fbU0atGLp2459WMbTpWBQaB9a2kF2OYEbgmc0pXAKOWfNgX04yRFw0_EXLWrDELRH2L_RWmTNwj-WtSLC1v4oUaXheE7lwRof1vlHx76b4JaJ-NEYMTPuNp3r8kBDdJczQkP1_KbLfyGJERifWB3g6e1hnB4bj4Cetvo6LueaapDkNRdkYB6UsKno92p5QkkegooN8vM9KxqMYp_8oWGqxWM-EwTYWwsB54JWRhIUJT60a1NRWCATLmgFh8U_P4vQdCYsyHOeDl7OdURypvquFvKdRw&zp=4dSfY6umpuxKNcI1nuqPuEELSIxVdkWDHc5gCHnECOwxfMTT2Q984SrsVzGtm5Mcf4T5II4zOk005x_JcVXVd_tFxTmz2kU5q8LP_QPoDH4nOMTWiX3LSI3UCBv3_T-2SuRwxl0xQwcuopW7NolJ9l1pXiZPlxnlzJ-EvB3lBODLGNSXa4-ce22hJz7RdgPsv5wG1MvqmAvptluLbgRX27QuORRgywqNFL2v8xeF8FGImdyY_cHcOggTDbLpQ5EOQuEaEaIJDFCnK-fBQob6EIMaBrSdUjHy2PESS6yujOghEMfLbxzdABf8-sY17sBEKoUIre7IsY479-1CJweQpKXgaAXXPCqmTmcz_-t-dOxQGe2CvqNNucKlcs1s90IX_QWS-HE5z4pvvKAJmBRYc9addUIp4f423lO8PumfgOeBRD07nfUinL46iKaM-yzFBAnUgZRtxx1CT5XGFbk2Qk6TZ9jaxctjZ9yAwYWKZUBQ
+                  - generic [ref=e218]:
+                    - generic [ref=e219]:
+                      - link "u/AmericanExpress avatar AmericanExpress" [ref=e222] [cursor=pointer]:
+                        - /url: /user/AmericanExpress/
+                        - img "u/AmericanExpress avatar" [ref=e227]
+                        - generic [ref=e228]: AmericanExpress
+                      - generic [ref=e229]: •
+                      - link "Promoted" [ref=e231] [cursor=pointer]:
+                        - /url: /user/AmericanExpress/
+                        - generic [ref=e232]: Promoted
+                      - link [ref=e234] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=HZ3tPIj30Wdtud6FowbWMBb1MGGpOzke2CsC-sg-ClZZsI49--o3YFwq9MSZFrTqIQyB-WPzR-ySOqX6F57rDOaUsa1yiFVqpcNBjNryfcTAGWXwH3TytemeAJTbOePWfBoxM9Wwk0XAzqLbfHj59XrrxNaBTUqc0Y0vWIex4kICMoPKuAQd8O_233e4iPxRL5MKQ6io0os1tULvL6YorewOxiTnBBAWH--k5eROdjaseDHcLTBgZDEd4T2G2XGce8qKwaw4dJxUdaal6vB1EHjWALsNxRd3RElPQVAOdCLdX8Fl7bvatY3V84VrSYxW6UTWeKzSKMp-sJb2V7Th2NU77Ao7amdr8W-i6T3H_lrEWncr3GBC3y8EvKr-aUnzqOfKvSnaPyXDY7U7KzrZy2-Dh6MrEITvE8C7clwtMxp1Emis6xfvxAZ9jpY75x3uX1WW-fbU0atGLp2459WMbTpWBQaB9a2kF2OYEbgmc0pXAKOWfNgX04yRFw0_EXLWrDELRH2L_RWmTNwj-WtSLC1v4oUaXheE7lwRof1vlHx76b4JaJ-NEYMTPuNp3r8kBDdJczQkP1_KbLfyGJERifWB3g6e1hnB4bj4Cetvo6LueaapDkNRdkYB6UsKno92p5QkkegooN8vM9KxqMYp_8oWGqxWM-EwTYWwsB54JWRhIUJT60a1NRWCATLmgFh8U_P4vQdCYsyHOeDl7OdURypvquFvKdRw&zp=4dSfY6umpuxKNcI1nuqPuEELSIxVdkWDHc5gCHnECOwxfMTT2Q984SrsVzGtm5Mcf4T5II4zOk005x_JcVXVd_tFxTmz2kU5q8LP_QPoDH4nOMTWiX3LSI3UCBv3_T-2SuRwxl0xQwcuopW7NolJ9l1pXiZPlxnlzJ-EvB3lBODLGNSXa4-ce22hJz7RdgPsv5wG1MvqmAvptluLbgRX27QuORRgywqNFL2v8xeF8FGImdyY_cHcOggTDbLpQ5EOQuEaEaIJDFCnK-fBQob6EIMaBrSdUjHy2PESS6yujOghEMfLbxzdABf8-sY17sBEKoUIre7IsY479-1CJweQpKXgaAXXPCqmTmcz_-t-dOxQGe2CvqNNucKlcs1s90IX_QWS-HE5z4pvvKAJmBRYc9addUIp4f423lO8PumfgOeBRD07nfUinL46iKaM-yzFBAnUgZRtxx1CT5XGFbk2Qk6TZ9jaxctjZ9yAwYWKZUBQ
+                    - button "Open user actions" [ref=e239] [cursor=pointer]:
+                      - img [ref=e242]
+                  - generic [ref=e245]:
+                    - generic [ref=e246]:
+                      - link "TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e248] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=HZ3tPIj30Wdtud6FowbWMBb1MGGpOzke2CsC-sg-ClZZsI49--o3YFwq9MSZFrTqIQyB-WPzR-ySOqX6F57rDOaUsa1yiFVqpcNBjNryfcTAGWXwH3TytemeAJTbOePWfBoxM9Wwk0XAzqLbfHj59XrrxNaBTUqc0Y0vWIex4kICMoPKuAQd8O_233e4iPxRL5MKQ6io0os1tULvL6YorewOxiTnBBAWH--k5eROdjaseDHcLTBgZDEd4T2G2XGce8qKwaw4dJxUdaal6vB1EHjWALsNxRd3RElPQVAOdCLdX8Fl7bvatY3V84VrSYxW6UTWeKzSKMp-sJb2V7Th2NU77Ao7amdr8W-i6T3H_lrEWncr3GBC3y8EvKr-aUnzqOfKvSnaPyXDY7U7KzrZy2-Dh6MrEITvE8C7clwtMxp1Emis6xfvxAZ9jpY75x3uX1WW-fbU0atGLp2459WMbTpWBQaB9a2kF2OYEbgmc0pXAKOWfNgX04yRFw0_EXLWrDELRH2L_RWmTNwj-WtSLC1v4oUaXheE7lwRof1vlHx76b4JaJ-NEYMTPuNp3r8kBDdJczQkP1_KbLfyGJERifWB3g6e1hnB4bj4Cetvo6LueaapDkNRdkYB6UsKno92p5QkkegooN8vM9KxqMYp_8oWGqxWM-EwTYWwsB54JWRhIUJT60a1NRWCATLmgFh8U_P4vQdCYsyHOeDl7OdURypvquFvKdRw&zp=4dSfY6umpuxKNcI1nuqPuEELSIxVdkWDHc5gCHnECOwxfMTT2Q984SrsVzGtm5Mcf4T5II4zOk005x_JcVXVd_tFxTmz2kU5q8LP_QPoDH4nOMTWiX3LSI3UCBv3_T-2SuRwxl0xQwcuopW7NolJ9l1pXiZPlxnlzJ-EvB3lBODLGNSXa4-ce22hJz7RdgPsv5wG1MvqmAvptluLbgRX27QuORRgywqNFL2v8xeF8FGImdyY_cHcOggTDbLpQ5EOQuEaEaIJDFCnK-fBQob6EIMaBrSdUjHy2PESS6yujOghEMfLbxzdABf8-sY17sBEKoUIre7IsY479-1CJweQpKXgaAXXPCqmTmcz_-t-dOxQGe2CvqNNucKlcs1s90IX_QWS-HE5z4pvvKAJmBRYc9addUIp4f423lO8PumfgOeBRD07nfUinL46iKaM-yzFBAnUgZRtxx1CT5XGFbk2Qk6TZ9jaxctjZ9yAwYWKZUBQ
+                        - generic: TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply.
+                      - generic [ref=e249]:
+                        - link [ref=e251] [cursor=pointer]:
+                          - /url: https://alb.reddit.com/cr?za=HZ3tPIj30Wdtud6FowbWMBb1MGGpOzke2CsC-sg-ClZZsI49--o3YFwq9MSZFrTqIQyB-WPzR-ySOqX6F57rDOaUsa1yiFVqpcNBjNryfcTAGWXwH3TytemeAJTbOePWfBoxM9Wwk0XAzqLbfHj59XrrxNaBTUqc0Y0vWIex4kICMoPKuAQd8O_233e4iPxRL5MKQ6io0os1tULvL6YorewOxiTnBBAWH--k5eROdjaseDHcLTBgZDEd4T2G2XGce8qKwaw4dJxUdaal6vB1EHjWALsNxRd3RElPQVAOdCLdX8Fl7bvatY3V84VrSYxW6UTWeKzSKMp-sJb2V7Th2NU77Ao7amdr8W-i6T3H_lrEWncr3GBC3y8EvKr-aUnzqOfKvSnaPyXDY7U7KzrZy2-Dh6MrEITvE8C7clwtMxp1Emis6xfvxAZ9jpY75x3uX1WW-fbU0atGLp2459WMbTpWBQaB9a2kF2OYEbgmc0pXAKOWfNgX04yRFw0_EXLWrDELRH2L_RWmTNwj-WtSLC1v4oUaXheE7lwRof1vlHx76b4JaJ-NEYMTPuNp3r8kBDdJczQkP1_KbLfyGJERifWB3g6e1hnB4bj4Cetvo6LueaapDkNRdkYB6UsKno92p5QkkegooN8vM9KxqMYp_8oWGqxWM-EwTYWwsB54JWRhIUJT60a1NRWCATLmgFh8U_P4vQdCYsyHOeDl7OdURypvquFvKdRw&zp=4dSfY6umpuxKNcI1nuqPuEELSIxVdkWDHc5gCHnECOwxfMTT2Q984SrsVzGtm5Mcf4T5II4zOk005x_JcVXVd_tFxTmz2kU5q8LP_QPoDH4nOMTWiX3LSI3UCBv3_T-2SuRwxl0xQwcuopW7NolJ9l1pXiZPlxnlzJ-EvB3lBODLGNSXa4-ce22hJz7RdgPsv5wG1MvqmAvptluLbgRX27QuORRgywqNFL2v8xeF8FGImdyY_cHcOggTDbLpQ5EOQuEaEaIJDFCnK-fBQob6EIMaBrSdUjHy2PESS6yujOghEMfLbxzdABf8-sY17sBEKoUIre7IsY479-1CJweQpKXgaAXXPCqmTmcz_-t-dOxQGe2CvqNNucKlcs1s90IX_QWS-HE5z4pvvKAJmBRYc9addUIp4f423lO8PumfgOeBRD07nfUinL46iKaM-yzFBAnUgZRtxx1CT5XGFbk2Qk6TZ9jaxctjZ9yAwYWKZUBQ
+                        - generic [ref=e252]:
+                          - link "Learn More" [ref=e254] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=HZ3tPIj30Wdtud6FowbWMBb1MGGpOzke2CsC-sg-ClZZsI49--o3YFwq9MSZFrTqIQyB-WPzR-ySOqX6F57rDOaUsa1yiFVqpcNBjNryfcTAGWXwH3TytemeAJTbOePWfBoxM9Wwk0XAzqLbfHj59XrrxNaBTUqc0Y0vWIex4kICMoPKuAQd8O_233e4iPxRL5MKQ6io0os1tULvL6YorewOxiTnBBAWH--k5eROdjaseDHcLTBgZDEd4T2G2XGce8qKwaw4dJxUdaal6vB1EHjWALsNxRd3RElPQVAOdCLdX8Fl7bvatY3V84VrSYxW6UTWeKzSKMp-sJb2V7Th2NU77Ao7amdr8W-i6T3H_lrEWncr3GBC3y8EvKr-aUnzqOfKvSnaPyXDY7U7KzrZy2-Dh6MrEITvE8C7clwtMxp1Emis6xfvxAZ9jpY75x3uX1WW-fbU0atGLp2459WMbTpWBQaB9a2kF2OYEbgmc0pXAKOWfNgX04yRFw0_EXLWrDELRH2L_RWmTNwj-WtSLC1v4oUaXheE7lwRof1vlHx76b4JaJ-NEYMTPuNp3r8kBDdJczQkP1_KbLfyGJERifWB3g6e1hnB4bj4Cetvo6LueaapDkNRdkYB6UsKno92p5QkkegooN8vM9KxqMYp_8oWGqxWM-EwTYWwsB54JWRhIUJT60a1NRWCATLmgFh8U_P4vQdCYsyHOeDl7OdURypvquFvKdRw&zp=4dSfY6umpuxKNcI1nuqPuEELSIxVdkWDHc5gCHnECOwxfMTT2Q984SrsVzGtm5Mcf4T5II4zOk005x_JcVXVd_tFxTmz2kU5q8LP_QPoDH4nOMTWiX3LSI3UCBv3_T-2SuRwxl0xQwcuopW7NolJ9l1pXiZPlxnlzJ-EvB3lBODLGNSXa4-ce22hJz7RdgPsv5wG1MvqmAvptluLbgRX27QuORRgywqNFL2v8xeF8FGImdyY_cHcOggTDbLpQ5EOQuEaEaIJDFCnK-fBQob6EIMaBrSdUjHy2PESS6yujOghEMfLbxzdABf8-sY17sBEKoUIre7IsY479-1CJweQpKXgaAXXPCqmTmcz_-t-dOxQGe2CvqNNucKlcs1s90IX_QWS-HE5z4pvvKAJmBRYc9addUIp4f423lO8PumfgOeBRD07nfUinL46iKaM-yzFBAnUgZRtxx1CT5XGFbk2Qk6TZ9jaxctjZ9yAwYWKZUBQ
+                            - generic [ref=e256]:
+                              - generic: Learn More
+                          - link "americanexpress.com" [ref=e259] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=HZ3tPIj30Wdtud6FowbWMBb1MGGpOzke2CsC-sg-ClZZsI49--o3YFwq9MSZFrTqIQyB-WPzR-ySOqX6F57rDOaUsa1yiFVqpcNBjNryfcTAGWXwH3TytemeAJTbOePWfBoxM9Wwk0XAzqLbfHj59XrrxNaBTUqc0Y0vWIex4kICMoPKuAQd8O_233e4iPxRL5MKQ6io0os1tULvL6YorewOxiTnBBAWH--k5eROdjaseDHcLTBgZDEd4T2G2XGce8qKwaw4dJxUdaal6vB1EHjWALsNxRd3RElPQVAOdCLdX8Fl7bvatY3V84VrSYxW6UTWeKzSKMp-sJb2V7Th2NU77Ao7amdr8W-i6T3H_lrEWncr3GBC3y8EvKr-aUnzqOfKvSnaPyXDY7U7KzrZy2-Dh6MrEITvE8C7clwtMxp1Emis6xfvxAZ9jpY75x3uX1WW-fbU0atGLp2459WMbTpWBQaB9a2kF2OYEbgmc0pXAKOWfNgX04yRFw0_EXLWrDELRH2L_RWmTNwj-WtSLC1v4oUaXheE7lwRof1vlHx76b4JaJ-NEYMTPuNp3r8kBDdJczQkP1_KbLfyGJERifWB3g6e1hnB4bj4Cetvo6LueaapDkNRdkYB6UsKno92p5QkkegooN8vM9KxqMYp_8oWGqxWM-EwTYWwsB54JWRhIUJT60a1NRWCATLmgFh8U_P4vQdCYsyHOeDl7OdURypvquFvKdRw&zp=4dSfY6umpuxKNcI1nuqPuEELSIxVdkWDHc5gCHnECOwxfMTT2Q984SrsVzGtm5Mcf4T5II4zOk005x_JcVXVd_tFxTmz2kU5q8LP_QPoDH4nOMTWiX3LSI3UCBv3_T-2SuRwxl0xQwcuopW7NolJ9l1pXiZPlxnlzJ-EvB3lBODLGNSXa4-ce22hJz7RdgPsv5wG1MvqmAvptluLbgRX27QuORRgywqNFL2v8xeF8FGImdyY_cHcOggTDbLpQ5EOQuEaEaIJDFCnK-fBQob6EIMaBrSdUjHy2PESS6yujOghEMfLbxzdABf8-sY17sBEKoUIre7IsY479-1CJweQpKXgaAXXPCqmTmcz_-t-dOxQGe2CvqNNucKlcs1s90IX_QWS-HE5z4pvvKAJmBRYc9addUIp4f423lO8PumfgOeBRD07nfUinL46iKaM-yzFBAnUgZRtxx1CT5XGFbk2Qk6TZ9jaxctjZ9yAwYWKZUBQ
+                            - generic: americanexpress.com
+                    - 'link "Thumbnail image: TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e262] [cursor=pointer]':
+                      - /url: https://alb.reddit.com/cr?za=HZ3tPIj30Wdtud6FowbWMBb1MGGpOzke2CsC-sg-ClZZsI49--o3YFwq9MSZFrTqIQyB-WPzR-ySOqX6F57rDOaUsa1yiFVqpcNBjNryfcTAGWXwH3TytemeAJTbOePWfBoxM9Wwk0XAzqLbfHj59XrrxNaBTUqc0Y0vWIex4kICMoPKuAQd8O_233e4iPxRL5MKQ6io0os1tULvL6YorewOxiTnBBAWH--k5eROdjaseDHcLTBgZDEd4T2G2XGce8qKwaw4dJxUdaal6vB1EHjWALsNxRd3RElPQVAOdCLdX8Fl7bvatY3V84VrSYxW6UTWeKzSKMp-sJb2V7Th2NU77Ao7amdr8W-i6T3H_lrEWncr3GBC3y8EvKr-aUnzqOfKvSnaPyXDY7U7KzrZy2-Dh6MrEITvE8C7clwtMxp1Emis6xfvxAZ9jpY75x3uX1WW-fbU0atGLp2459WMbTpWBQaB9a2kF2OYEbgmc0pXAKOWfNgX04yRFw0_EXLWrDELRH2L_RWmTNwj-WtSLC1v4oUaXheE7lwRof1vlHx76b4JaJ-NEYMTPuNp3r8kBDdJczQkP1_KbLfyGJERifWB3g6e1hnB4bj4Cetvo6LueaapDkNRdkYB6UsKno92p5QkkegooN8vM9KxqMYp_8oWGqxWM-EwTYWwsB54JWRhIUJT60a1NRWCATLmgFh8U_P4vQdCYsyHOeDl7OdURypvquFvKdRw&zp=4dSfY6umpuxKNcI1nuqPuEELSIxVdkWDHc5gCHnECOwxfMTT2Q984SrsVzGtm5Mcf4T5II4zOk005x_JcVXVd_tFxTmz2kU5q8LP_QPoDH4nOMTWiX3LSI3UCBv3_T-2SuRwxl0xQwcuopW7NolJ9l1pXiZPlxnlzJ-EvB3lBODLGNSXa4-ce22hJz7RdgPsv5wG1MvqmAvptluLbgRX27QuORRgywqNFL2v8xeF8FGImdyY_cHcOggTDbLpQ5EOQuEaEaIJDFCnK-fBQob6EIMaBrSdUjHy2PESS6yujOghEMfLbxzdABf8-sY17sBEKoUIre7IsY479-1CJweQpKXgaAXXPCqmTmcz_-t-dOxQGe2CvqNNucKlcs1s90IX_QWS-HE5z4pvvKAJmBRYc9addUIp4f423lO8PumfgOeBRD07nfUinL46iKaM-yzFBAnUgZRtxx1CT5XGFbk2Qk6TZ9jaxctjZ9yAwYWKZUBQ
+                      - 'img "Thumbnail image: TIL American Express Cards can make travel, dining, and daily spending an experience. Terms apply." [ref=e263]'
+              - generic [ref=e265]:
+                - generic:
+                  - textbox [ref=e275]:
+                    - /placeholder: Join the conversation
+                  - generic [ref=e281]:
+                    - generic [ref=e283]:
+                      - generic [ref=e284]: "Sort by:"
+                      - button "Sort by Best" [ref=e289] [cursor=pointer]:
+                        - generic [ref=e291]: Best
+                    - button "Search Comments Expand comment search" [ref=e298] [cursor=pointer]:
+                      - generic [ref=e299]:
+                        - img [ref=e302]
+                        - generic [ref=e305]: Search Comments
+                      - generic [ref=e306]:
+                        - generic: Expand comment search
+              - region "Comments" [ref=e310]:
+                - heading "Comments Section" [level=1] [ref=e311]
+                - generic:
+                  - article "Comment from heywhatsuphello29 3 hours ago" [ref=e313]:
+                    - generic "Metadata for heywhatsuphello29's comment" [ref=e314]:
+                      - link "heywhatsuphello29's profile --- avatar" [ref=e320] [cursor=pointer]:
+                        - /url: /user/heywhatsuphello29/
+                        - img "u/heywhatsuphello29 avatar" [ref=e323]
+                      - generic [ref=e328]:
+                        - link "heywhatsuphello29's profile" [ref=e332] [cursor=pointer]:
+                          - /url: /user/heywhatsuphello29/
+                          - text: heywhatsuphello29
+                        - generic [ref=e333]: •
+                        - link "3h ago" [ref=e334] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odlol9t/
+                          - time [ref=e335]: 3h ago
+                    - generic [ref=e337]:
+                      - paragraph [ref=e344]: Tanoshi sushi
+                      - generic [ref=e352]:
+                        - generic [ref=e354]:
+                          - button "Upvote" [ref=e355] [cursor=pointer]:
+                            - img [ref=e357]
+                            - generic [ref=e359]:
+                              - generic: Upvote
+                          - generic [ref=e361]: "6"
+                          - button "Downvote" [ref=e362] [cursor=pointer]:
+                            - img [ref=e364]
+                            - generic [ref=e366]:
+                              - generic: Downvote
+                        - button "Reply" [ref=e368] [cursor=pointer]:
+                          - generic [ref=e369]:
+                            - img [ref=e371]
+                            - generic [ref=e373]: Reply
+                        - button "Give award" [ref=e375] [cursor=pointer]:
+                          - generic [ref=e376]:
+                            - img [ref=e378]
+                            - generic [ref=e381]: Award
+                        - button "Share" [ref=e384] [cursor=pointer]:
+                          - generic [ref=e385]:
+                            - img [ref=e387]
+                            - generic [ref=e389]: Share
+                        - button "Open user actions" [ref=e393] [cursor=pointer]:
+                          - img [ref=e396]
+                  - article "Comment from Calm_Machine7634 3 hours ago" [ref=e399]:
+                    - generic "Metadata for Calm_Machine7634's comment" [ref=e400]:
+                      - link "Calm_Machine7634's profile --- avatar" [ref=e406] [cursor=pointer]:
+                        - /url: /user/Calm_Machine7634/
+                        - img "u/Calm_Machine7634 avatar" [ref=e409]
+                      - generic [ref=e414]:
+                        - link "Calm_Machine7634's profile" [ref=e418] [cursor=pointer]:
+                          - /url: /user/Calm_Machine7634/
+                          - text: Calm_Machine7634
+                        - generic [ref=e419]: •
+                        - link "3h ago" [ref=e420] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odllsyc/
+                          - time [ref=e421]: 3h ago
+                        - generic [ref=e422]: •
+                        - generic [ref=e423]:
+                          - text: Edited
+                          - time [ref=e424]: 3h ago
+                    - generic [ref=e426]:
+                      - generic [ref=e434]:
+                        - paragraph [ref=e435]: Chez Fifi, Cafe Commerce, haven’t been but Le Veau d'Or is supposed to be good, Sfoglia, Felice 83
+                        - paragraph [ref=e436]: "ETA: Chez Fifi and Felice 83 have romantical vibes if that’s what you’re looking for."
+                      - button "Toggle Comment Thread" [expanded] [ref=e439] [cursor=pointer]:
+                        - img [ref=e442]
+                      - 'article "Comment thread level 1: Reply from buckeye2114 1 hour ago" [ref=e450]':
+                        - generic "Metadata for buckeye2114's comment" [ref=e451]:
+                          - link "buckeye2114's profile --- avatar" [ref=e457] [cursor=pointer]:
+                            - /url: /user/buckeye2114/
+                            - img "u/buckeye2114 avatar" [ref=e460]
+                          - generic [ref=e465]:
+                            - link "buckeye2114's profile" [ref=e469] [cursor=pointer]:
+                              - /url: /user/buckeye2114/
+                              - text: buckeye2114
+                            - generic [ref=e470]: •
+                            - link "1h ago" [ref=e471] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1s930f6/comment/odm6a0w/
+                              - time [ref=e472]: 1h ago
+                        - generic [ref=e474]:
+                          - paragraph [ref=e483]: Le Veau d’Or is amazing
+                          - button "Toggle Comment Thread" [expanded] [ref=e486] [cursor=pointer]:
+                            - img [ref=e489]
+                          - 'article "Comment thread level 2: Reply from Calm_Machine7634 50 minutes ago" [ref=e497]':
+                            - generic "Metadata for Calm_Machine7634's comment" [ref=e498]:
+                              - link "Calm_Machine7634's profile --- avatar" [ref=e504] [cursor=pointer]:
+                                - /url: /user/Calm_Machine7634/
+                                - img "u/Calm_Machine7634 avatar" [ref=e507]
+                              - generic [ref=e512]:
+                                - link "Calm_Machine7634's profile" [ref=e516] [cursor=pointer]:
+                                  - /url: /user/Calm_Machine7634/
+                                  - text: Calm_Machine7634
+                                - generic [ref=e517]: •
+                                - link "50m ago" [ref=e518] [cursor=pointer]:
+                                  - /url: /r/FoodNYC/comments/1s930f6/comment/odm85nw/
+                                  - time [ref=e519]: 50m ago
+                            - paragraph [ref=e528]: Been trying to go but it’s impossible to get a res!
+                  - article "Comment from maxmilder 1 hour ago" [ref=e534]:
+                    - generic "Metadata for maxmilder's comment" [ref=e535]:
+                      - link "maxmilder's profile --- avatar" [ref=e541] [cursor=pointer]:
+                        - /url: /user/maxmilder/
+                        - img "u/maxmilder avatar" [ref=e544]
+                      - generic [ref=e549]:
+                        - link "maxmilder's profile" [ref=e553] [cursor=pointer]:
+                          - /url: /user/maxmilder/
+                          - text: maxmilder
+                        - generic [ref=e554]: •
+                        - link "1h ago" [ref=e555] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odm36i8/
+                          - time [ref=e556]: 1h ago
+                    - generic [ref=e558]:
+                      - paragraph [ref=e567]: Throwing L’Incontro into the mix - I also agree with others that Up Thai and Tanoshi are top tier
+                      - button "Toggle Comment Thread" [expanded] [ref=e570] [cursor=pointer]:
+                        - img [ref=e573]
+                      - 'article "Comment thread level 1: Reply from Calm_Machine7634 48 minutes ago" [ref=e581]':
+                        - generic "Metadata for Calm_Machine7634's comment" [ref=e582]:
+                          - link "Calm_Machine7634's profile --- avatar" [ref=e588] [cursor=pointer]:
+                            - /url: /user/Calm_Machine7634/
+                            - img "u/Calm_Machine7634 avatar" [ref=e591]
+                          - generic [ref=e596]:
+                            - link "Calm_Machine7634's profile" [ref=e600] [cursor=pointer]:
+                              - /url: /user/Calm_Machine7634/
+                              - text: Calm_Machine7634
+                            - generic [ref=e601]: •
+                            - link "48m ago" [ref=e602] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1s930f6/comment/odm8itz/
+                              - time [ref=e603]: 48m ago
+                        - generic [ref=e605]:
+                          - paragraph [ref=e614]: Tanoshi sushi or Tanoshi Tei? Tanoshi Tei currently has a C rating according to ABCEats
+                          - button "Toggle Comment Thread" [expanded] [ref=e617] [cursor=pointer]:
+                            - img [ref=e620]
+                          - 'article "Comment thread level 2: Reply from maxmilder 47 minutes ago" [ref=e628]':
+                            - generic "Metadata for maxmilder's comment" [ref=e629]:
+                              - link "maxmilder's profile --- avatar" [ref=e635] [cursor=pointer]:
+                                - /url: /user/maxmilder/
+                                - img "u/maxmilder avatar" [ref=e638]
+                              - generic [ref=e643]:
+                                - link "maxmilder's profile" [ref=e647] [cursor=pointer]:
+                                  - /url: /user/maxmilder/
+                                  - text: maxmilder
+                                - generic [ref=e648]: •
+                                - link "47m ago" [ref=e649] [cursor=pointer]:
+                                  - /url: /r/FoodNYC/comments/1s930f6/comment/odm8qgk/
+                                  - time [ref=e650]: 47m ago
+                            - generic [ref=e652]:
+                              - paragraph [ref=e661]: Tanoshi Sushi. Small omakase spot on York/73rd
+                              - button "Toggle Comment Thread" [expanded] [ref=e664] [cursor=pointer]:
+                                - img [ref=e667]
+                              - 'article "Comment thread level 3: Reply from Calm_Machine7634 45 minutes ago" [ref=e675]':
+                                - generic "Metadata for Calm_Machine7634's comment" [ref=e676]:
+                                  - link "Calm_Machine7634's profile --- avatar" [ref=e682] [cursor=pointer]:
+                                    - /url: /user/Calm_Machine7634/
+                                    - img "u/Calm_Machine7634 avatar" [ref=e685]
+                                  - generic [ref=e690]:
+                                    - link "Calm_Machine7634's profile" [ref=e694] [cursor=pointer]:
+                                      - /url: /user/Calm_Machine7634/
+                                      - text: Calm_Machine7634
+                                    - generic [ref=e695]: •
+                                    - link "45m ago" [ref=e696] [cursor=pointer]:
+                                      - /url: /r/FoodNYC/comments/1s930f6/comment/odm979c/
+                                      - time [ref=e697]: 45m ago
+                                - paragraph [ref=e706]: Ah ok they have an A but Tanoshi Tei nextdoor seemingly related appears to have a C
+                  - generic "Half off your first year of Firefly — plus unlimited generations until April 22." [ref=e712]:
+                    - generic [ref=e713]:
+                      - 'generic "Advertisement: Half off your first year of Firefly — plus unlimited generations until April 22." [ref=e714]':
+                        - 'link "Advertisement: Half off your first year of Firefly — plus unlimited generations until April 22." [ref=e715] [cursor=pointer]':
+                          - /url: https://alb.reddit.com/cr?za=uQFoAfqtZlm9F11egpLcZe--NWYWZ5K7CWxZhaX9eB07nBJEohSaPNvemQiZ-2gsktOn7KG6cFioPx1yxorzGJ21Ef_DgMRbvH3pDsis4HOonYvIRj3A9VLookNVUC2GKrYKhMP0fdBc9ZhxiMzWrf5HN9R0gjbCcEdDLb95hGOXU0aoljkaabbQHCpBD_qNcxDJ8gFwutD3dqZfxszD7xP6ZSqxohM0owu3jgzuZc3xkZNQ7AkoffODUIFMK2yHQCB6A2G5SzVstT-OenLh2I2nh_W0Tw_bUMgaOmGC9t1Hx0GnHDTubY3Jum7t7LZHNrGgEWEUka4cqw0aSwaOzwOlEdsga2IPK2B8pNG014oA-zb2XERyjGQSZx69vDu5ZFSUzjsiWuFOyXgcE_2_B5ZxVOdXDnuXaM7YgM1KEsbIMjUMeXPj0QN2q6iS3XFaS4sezTSjdxgiPA8wLTTNhZVJO9PMj3FgA4AmPGbr87ewoWNzjEl6DNcvRYM60gAcwXR_v5X5XZc6LMYEsIgPK4Rm2yhoKTuSUU7Wyif9ceh7ov9rLbx3urnqmBhpOISZQydEFxXIZi9BgcWquwOY6kMfN2Xo40DVb0Ie9Eofq1DENjqNLsNmjWCCcMdSbqu0QXS3P5rzK1RCvikG7tj1m95QqJ3aRCVxCSu6blrsNTIDZ21Hx6ev7hvC3k7CGVqJm4TeU0jKWMAjnRrx7qWCkjzEafmPPeny&zp=T6rVG6fELY0H4rOb0YIK6u2HvbVxCznVygtBTOPw7vpnCZLmu0BXgGKyUVADTX354WLTvV8mp77RblF1_Qo5eEaQfr0a5U-sjBHL6TApA9YqtEsnW0vQHGYe3O568eWTR89LbXKRPzzMR44auPIeJXZplXHk7Uasn7iimd8Auzj13kJw5URxdZFhLib7b18TFe89ikcY8hPGYaTdRAv8TjQ38MCO4AqSLkdKz-bgNS1qRNN_oknJsXC4Pm1wVgi8q5hRvnrOR1pVlvqdrdeLMzMHjZ-uVxEP4e484J_HxkB838gdWNCtrWULaFG-DlleFEJtkB4rIC62tA
+                      - generic [ref=e716]:
+                        - generic [ref=e717]:
+                          - link "u/adobe avatar u/adobe" [ref=e720] [cursor=pointer]:
+                            - /url: /user/adobe/
+                            - img "u/adobe avatar" [ref=e725]
+                            - generic [ref=e726]: u/adobe
+                          - generic [ref=e727]: •
+                          - link "Promoted" [ref=e729] [cursor=pointer]:
+                            - /url: /user/adobe/
+                            - generic [ref=e730]: Promoted
+                          - link [ref=e732] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=uQFoAfqtZlm9F11egpLcZe--NWYWZ5K7CWxZhaX9eB07nBJEohSaPNvemQiZ-2gsktOn7KG6cFioPx1yxorzGJ21Ef_DgMRbvH3pDsis4HOonYvIRj3A9VLookNVUC2GKrYKhMP0fdBc9ZhxiMzWrf5HN9R0gjbCcEdDLb95hGOXU0aoljkaabbQHCpBD_qNcxDJ8gFwutD3dqZfxszD7xP6ZSqxohM0owu3jgzuZc3xkZNQ7AkoffODUIFMK2yHQCB6A2G5SzVstT-OenLh2I2nh_W0Tw_bUMgaOmGC9t1Hx0GnHDTubY3Jum7t7LZHNrGgEWEUka4cqw0aSwaOzwOlEdsga2IPK2B8pNG014oA-zb2XERyjGQSZx69vDu5ZFSUzjsiWuFOyXgcE_2_B5ZxVOdXDnuXaM7YgM1KEsbIMjUMeXPj0QN2q6iS3XFaS4sezTSjdxgiPA8wLTTNhZVJO9PMj3FgA4AmPGbr87ewoWNzjEl6DNcvRYM60gAcwXR_v5X5XZc6LMYEsIgPK4Rm2yhoKTuSUU7Wyif9ceh7ov9rLbx3urnqmBhpOISZQydEFxXIZi9BgcWquwOY6kMfN2Xo40DVb0Ie9Eofq1DENjqNLsNmjWCCcMdSbqu0QXS3P5rzK1RCvikG7tj1m95QqJ3aRCVxCSu6blrsNTIDZ21Hx6ev7hvC3k7CGVqJm4TeU0jKWMAjnRrx7qWCkjzEafmPPeny&zp=T6rVG6fELY0H4rOb0YIK6u2HvbVxCznVygtBTOPw7vpnCZLmu0BXgGKyUVADTX354WLTvV8mp77RblF1_Qo5eEaQfr0a5U-sjBHL6TApA9YqtEsnW0vQHGYe3O568eWTR89LbXKRPzzMR44auPIeJXZplXHk7Uasn7iimd8Auzj13kJw5URxdZFhLib7b18TFe89ikcY8hPGYaTdRAv8TjQ38MCO4AqSLkdKz-bgNS1qRNN_oknJsXC4Pm1wVgi8q5hRvnrOR1pVlvqdrdeLMzMHjZ-uVxEP4e484J_HxkB838gdWNCtrWULaFG-DlleFEJtkB4rIC62tA
+                        - button "Open user actions" [ref=e737] [cursor=pointer]:
+                          - img [ref=e740]
+                      - generic [ref=e743]:
+                        - generic [ref=e744]:
+                          - link "Half off your first year of Firefly — plus unlimited generations until April 22." [ref=e746] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=uQFoAfqtZlm9F11egpLcZe--NWYWZ5K7CWxZhaX9eB07nBJEohSaPNvemQiZ-2gsktOn7KG6cFioPx1yxorzGJ21Ef_DgMRbvH3pDsis4HOonYvIRj3A9VLookNVUC2GKrYKhMP0fdBc9ZhxiMzWrf5HN9R0gjbCcEdDLb95hGOXU0aoljkaabbQHCpBD_qNcxDJ8gFwutD3dqZfxszD7xP6ZSqxohM0owu3jgzuZc3xkZNQ7AkoffODUIFMK2yHQCB6A2G5SzVstT-OenLh2I2nh_W0Tw_bUMgaOmGC9t1Hx0GnHDTubY3Jum7t7LZHNrGgEWEUka4cqw0aSwaOzwOlEdsga2IPK2B8pNG014oA-zb2XERyjGQSZx69vDu5ZFSUzjsiWuFOyXgcE_2_B5ZxVOdXDnuXaM7YgM1KEsbIMjUMeXPj0QN2q6iS3XFaS4sezTSjdxgiPA8wLTTNhZVJO9PMj3FgA4AmPGbr87ewoWNzjEl6DNcvRYM60gAcwXR_v5X5XZc6LMYEsIgPK4Rm2yhoKTuSUU7Wyif9ceh7ov9rLbx3urnqmBhpOISZQydEFxXIZi9BgcWquwOY6kMfN2Xo40DVb0Ie9Eofq1DENjqNLsNmjWCCcMdSbqu0QXS3P5rzK1RCvikG7tj1m95QqJ3aRCVxCSu6blrsNTIDZ21Hx6ev7hvC3k7CGVqJm4TeU0jKWMAjnRrx7qWCkjzEafmPPeny&zp=T6rVG6fELY0H4rOb0YIK6u2HvbVxCznVygtBTOPw7vpnCZLmu0BXgGKyUVADTX354WLTvV8mp77RblF1_Qo5eEaQfr0a5U-sjBHL6TApA9YqtEsnW0vQHGYe3O568eWTR89LbXKRPzzMR44auPIeJXZplXHk7Uasn7iimd8Auzj13kJw5URxdZFhLib7b18TFe89ikcY8hPGYaTdRAv8TjQ38MCO4AqSLkdKz-bgNS1qRNN_oknJsXC4Pm1wVgi8q5hRvnrOR1pVlvqdrdeLMzMHjZ-uVxEP4e484J_HxkB838gdWNCtrWULaFG-DlleFEJtkB4rIC62tA
+                            - generic: Half off your first year of Firefly — plus unlimited generations until April 22.
+                          - generic [ref=e747]:
+                            - link [ref=e749] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=uQFoAfqtZlm9F11egpLcZe--NWYWZ5K7CWxZhaX9eB07nBJEohSaPNvemQiZ-2gsktOn7KG6cFioPx1yxorzGJ21Ef_DgMRbvH3pDsis4HOonYvIRj3A9VLookNVUC2GKrYKhMP0fdBc9ZhxiMzWrf5HN9R0gjbCcEdDLb95hGOXU0aoljkaabbQHCpBD_qNcxDJ8gFwutD3dqZfxszD7xP6ZSqxohM0owu3jgzuZc3xkZNQ7AkoffODUIFMK2yHQCB6A2G5SzVstT-OenLh2I2nh_W0Tw_bUMgaOmGC9t1Hx0GnHDTubY3Jum7t7LZHNrGgEWEUka4cqw0aSwaOzwOlEdsga2IPK2B8pNG014oA-zb2XERyjGQSZx69vDu5ZFSUzjsiWuFOyXgcE_2_B5ZxVOdXDnuXaM7YgM1KEsbIMjUMeXPj0QN2q6iS3XFaS4sezTSjdxgiPA8wLTTNhZVJO9PMj3FgA4AmPGbr87ewoWNzjEl6DNcvRYM60gAcwXR_v5X5XZc6LMYEsIgPK4Rm2yhoKTuSUU7Wyif9ceh7ov9rLbx3urnqmBhpOISZQydEFxXIZi9BgcWquwOY6kMfN2Xo40DVb0Ie9Eofq1DENjqNLsNmjWCCcMdSbqu0QXS3P5rzK1RCvikG7tj1m95QqJ3aRCVxCSu6blrsNTIDZ21Hx6ev7hvC3k7CGVqJm4TeU0jKWMAjnRrx7qWCkjzEafmPPeny&zp=T6rVG6fELY0H4rOb0YIK6u2HvbVxCznVygtBTOPw7vpnCZLmu0BXgGKyUVADTX354WLTvV8mp77RblF1_Qo5eEaQfr0a5U-sjBHL6TApA9YqtEsnW0vQHGYe3O568eWTR89LbXKRPzzMR44auPIeJXZplXHk7Uasn7iimd8Auzj13kJw5URxdZFhLib7b18TFe89ikcY8hPGYaTdRAv8TjQ38MCO4AqSLkdKz-bgNS1qRNN_oknJsXC4Pm1wVgi8q5hRvnrOR1pVlvqdrdeLMzMHjZ-uVxEP4e484J_HxkB838gdWNCtrWULaFG-DlleFEJtkB4rIC62tA
+                            - generic [ref=e750]:
+                              - link "Learn More" [ref=e752] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=uQFoAfqtZlm9F11egpLcZe--NWYWZ5K7CWxZhaX9eB07nBJEohSaPNvemQiZ-2gsktOn7KG6cFioPx1yxorzGJ21Ef_DgMRbvH3pDsis4HOonYvIRj3A9VLookNVUC2GKrYKhMP0fdBc9ZhxiMzWrf5HN9R0gjbCcEdDLb95hGOXU0aoljkaabbQHCpBD_qNcxDJ8gFwutD3dqZfxszD7xP6ZSqxohM0owu3jgzuZc3xkZNQ7AkoffODUIFMK2yHQCB6A2G5SzVstT-OenLh2I2nh_W0Tw_bUMgaOmGC9t1Hx0GnHDTubY3Jum7t7LZHNrGgEWEUka4cqw0aSwaOzwOlEdsga2IPK2B8pNG014oA-zb2XERyjGQSZx69vDu5ZFSUzjsiWuFOyXgcE_2_B5ZxVOdXDnuXaM7YgM1KEsbIMjUMeXPj0QN2q6iS3XFaS4sezTSjdxgiPA8wLTTNhZVJO9PMj3FgA4AmPGbr87ewoWNzjEl6DNcvRYM60gAcwXR_v5X5XZc6LMYEsIgPK4Rm2yhoKTuSUU7Wyif9ceh7ov9rLbx3urnqmBhpOISZQydEFxXIZi9BgcWquwOY6kMfN2Xo40DVb0Ie9Eofq1DENjqNLsNmjWCCcMdSbqu0QXS3P5rzK1RCvikG7tj1m95QqJ3aRCVxCSu6blrsNTIDZ21Hx6ev7hvC3k7CGVqJm4TeU0jKWMAjnRrx7qWCkjzEafmPPeny&zp=T6rVG6fELY0H4rOb0YIK6u2HvbVxCznVygtBTOPw7vpnCZLmu0BXgGKyUVADTX354WLTvV8mp77RblF1_Qo5eEaQfr0a5U-sjBHL6TApA9YqtEsnW0vQHGYe3O568eWTR89LbXKRPzzMR44auPIeJXZplXHk7Uasn7iimd8Auzj13kJw5URxdZFhLib7b18TFe89ikcY8hPGYaTdRAv8TjQ38MCO4AqSLkdKz-bgNS1qRNN_oknJsXC4Pm1wVgi8q5hRvnrOR1pVlvqdrdeLMzMHjZ-uVxEP4e484J_HxkB838gdWNCtrWULaFG-DlleFEJtkB4rIC62tA
+                                - generic [ref=e754]:
+                                  - generic: Learn More
+                              - link "firefly.adobe.com" [ref=e757] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=uQFoAfqtZlm9F11egpLcZe--NWYWZ5K7CWxZhaX9eB07nBJEohSaPNvemQiZ-2gsktOn7KG6cFioPx1yxorzGJ21Ef_DgMRbvH3pDsis4HOonYvIRj3A9VLookNVUC2GKrYKhMP0fdBc9ZhxiMzWrf5HN9R0gjbCcEdDLb95hGOXU0aoljkaabbQHCpBD_qNcxDJ8gFwutD3dqZfxszD7xP6ZSqxohM0owu3jgzuZc3xkZNQ7AkoffODUIFMK2yHQCB6A2G5SzVstT-OenLh2I2nh_W0Tw_bUMgaOmGC9t1Hx0GnHDTubY3Jum7t7LZHNrGgEWEUka4cqw0aSwaOzwOlEdsga2IPK2B8pNG014oA-zb2XERyjGQSZx69vDu5ZFSUzjsiWuFOyXgcE_2_B5ZxVOdXDnuXaM7YgM1KEsbIMjUMeXPj0QN2q6iS3XFaS4sezTSjdxgiPA8wLTTNhZVJO9PMj3FgA4AmPGbr87ewoWNzjEl6DNcvRYM60gAcwXR_v5X5XZc6LMYEsIgPK4Rm2yhoKTuSUU7Wyif9ceh7ov9rLbx3urnqmBhpOISZQydEFxXIZi9BgcWquwOY6kMfN2Xo40DVb0Ie9Eofq1DENjqNLsNmjWCCcMdSbqu0QXS3P5rzK1RCvikG7tj1m95QqJ3aRCVxCSu6blrsNTIDZ21Hx6ev7hvC3k7CGVqJm4TeU0jKWMAjnRrx7qWCkjzEafmPPeny&zp=T6rVG6fELY0H4rOb0YIK6u2HvbVxCznVygtBTOPw7vpnCZLmu0BXgGKyUVADTX354WLTvV8mp77RblF1_Qo5eEaQfr0a5U-sjBHL6TApA9YqtEsnW0vQHGYe3O568eWTR89LbXKRPzzMR44auPIeJXZplXHk7Uasn7iimd8Auzj13kJw5URxdZFhLib7b18TFe89ikcY8hPGYaTdRAv8TjQ38MCO4AqSLkdKz-bgNS1qRNN_oknJsXC4Pm1wVgi8q5hRvnrOR1pVlvqdrdeLMzMHjZ-uVxEP4e484J_HxkB838gdWNCtrWULaFG-DlleFEJtkB4rIC62tA
+                                - generic: firefly.adobe.com
+                        - 'link "Thumbnail image: Half off your first year of Firefly — plus unlimited generations until April 22." [ref=e760] [cursor=pointer]':
+                          - /url: https://alb.reddit.com/cr?za=uQFoAfqtZlm9F11egpLcZe--NWYWZ5K7CWxZhaX9eB07nBJEohSaPNvemQiZ-2gsktOn7KG6cFioPx1yxorzGJ21Ef_DgMRbvH3pDsis4HOonYvIRj3A9VLookNVUC2GKrYKhMP0fdBc9ZhxiMzWrf5HN9R0gjbCcEdDLb95hGOXU0aoljkaabbQHCpBD_qNcxDJ8gFwutD3dqZfxszD7xP6ZSqxohM0owu3jgzuZc3xkZNQ7AkoffODUIFMK2yHQCB6A2G5SzVstT-OenLh2I2nh_W0Tw_bUMgaOmGC9t1Hx0GnHDTubY3Jum7t7LZHNrGgEWEUka4cqw0aSwaOzwOlEdsga2IPK2B8pNG014oA-zb2XERyjGQSZx69vDu5ZFSUzjsiWuFOyXgcE_2_B5ZxVOdXDnuXaM7YgM1KEsbIMjUMeXPj0QN2q6iS3XFaS4sezTSjdxgiPA8wLTTNhZVJO9PMj3FgA4AmPGbr87ewoWNzjEl6DNcvRYM60gAcwXR_v5X5XZc6LMYEsIgPK4Rm2yhoKTuSUU7Wyif9ceh7ov9rLbx3urnqmBhpOISZQydEFxXIZi9BgcWquwOY6kMfN2Xo40DVb0Ie9Eofq1DENjqNLsNmjWCCcMdSbqu0QXS3P5rzK1RCvikG7tj1m95QqJ3aRCVxCSu6blrsNTIDZ21Hx6ev7hvC3k7CGVqJm4TeU0jKWMAjnRrx7qWCkjzEafmPPeny&zp=T6rVG6fELY0H4rOb0YIK6u2HvbVxCznVygtBTOPw7vpnCZLmu0BXgGKyUVADTX354WLTvV8mp77RblF1_Qo5eEaQfr0a5U-sjBHL6TApA9YqtEsnW0vQHGYe3O568eWTR89LbXKRPzzMR44auPIeJXZplXHk7Uasn7iimd8Auzj13kJw5URxdZFhLib7b18TFe89ikcY8hPGYaTdRAv8TjQ38MCO4AqSLkdKz-bgNS1qRNN_oknJsXC4Pm1wVgi8q5hRvnrOR1pVlvqdrdeLMzMHjZ-uVxEP4e484J_HxkB838gdWNCtrWULaFG-DlleFEJtkB4rIC62tA
+                          - 'img "Thumbnail image: Half off your first year of Firefly — plus unlimited generations until April 22." [ref=e761]'
+                  - article "Comment from matan11m 1 hour ago" [ref=e763]:
+                    - generic "Metadata for matan11m's comment" [ref=e764]:
+                      - link "matan11m's profile --- avatar" [ref=e770] [cursor=pointer]:
+                        - /url: /user/matan11m/
+                        - img [ref=e775]
+                      - generic [ref=e781]:
+                        - link "matan11m's profile" [ref=e785] [cursor=pointer]:
+                          - /url: /user/matan11m/
+                          - text: matan11m
+                        - img "Cake icon" [ref=e788]
+                        - generic [ref=e789]: •
+                        - link "1h ago" [ref=e790] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odm1j32/
+                          - time [ref=e791]: 1h ago
+                    - paragraph [ref=e800]: Sushi Jin
+                  - article "Comment from M4xw3ll 3 hours ago" [ref=e806]:
+                    - generic "Metadata for M4xw3ll's comment" [ref=e807]:
+                      - link "M4xw3ll's profile --- avatar" [ref=e813] [cursor=pointer]:
+                        - /url: /user/M4xw3ll/
+                        - img "u/M4xw3ll avatar" [ref=e816]
+                      - generic [ref=e821]:
+                        - link "M4xw3ll's profile" [ref=e825] [cursor=pointer]:
+                          - /url: /user/M4xw3ll/
+                          - text: M4xw3ll
+                        - generic [ref=e826]: •
+                        - link "3h ago" [ref=e827] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odli54n/
+                          - time [ref=e828]: 3h ago
+                    - generic [ref=e830]:
+                      - paragraph [ref=e839]: Tha Phraya, Bayon
+                      - button "Toggle Comment Thread" [expanded] [ref=e842] [cursor=pointer]:
+                        - img [ref=e845]
+                      - generic [ref=e849]:
+                        - 'article "Comment thread level 1: Reply from tpc0121 3 hours ago" [ref=e851]':
+                          - generic "Metadata for tpc0121's comment" [ref=e852]:
+                            - link "tpc0121's profile --- avatar" [ref=e858] [cursor=pointer]:
+                              - /url: /user/tpc0121/
+                              - img [ref=e863]
+                            - generic [ref=e869]:
+                              - link "tpc0121's profile" [ref=e873] [cursor=pointer]:
+                                - /url: /user/tpc0121/
+                                - text: tpc0121
+                              - generic [ref=e874]: •
+                              - link "3h ago" [ref=e875] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1s930f6/comment/odlihrg/
+                                - time [ref=e876]: 3h ago
+                          - generic [ref=e878]:
+                            - paragraph [ref=e887]: tha phraya is very easily the best thai restaurant in the UES
+                            - button "Toggle Comment Thread" [expanded] [ref=e890] [cursor=pointer]:
+                              - img [ref=e893]
+                            - 'article "Comment thread level 2: Reply from Calm_Machine7634 46 minutes ago" [ref=e901]':
+                              - generic "Metadata for Calm_Machine7634's comment" [ref=e902]:
+                                - link "Calm_Machine7634's profile --- avatar" [ref=e908] [cursor=pointer]:
+                                  - /url: /user/Calm_Machine7634/
+                                  - img "u/Calm_Machine7634 avatar" [ref=e911]
+                                - generic [ref=e916]:
+                                  - link "Calm_Machine7634's profile" [ref=e920] [cursor=pointer]:
+                                    - /url: /user/Calm_Machine7634/
+                                    - text: Calm_Machine7634
+                                  - generic [ref=e921]: •
+                                  - link "46m ago" [ref=e922] [cursor=pointer]:
+                                    - /url: /r/FoodNYC/comments/1s930f6/comment/odm8yp4/
+                                    - time [ref=e923]: 46m ago
+                              - paragraph [ref=e932]: Personally I prefer Up Thai, I was not very impressed with Tha Phraya but maybe we ordered wrong
+                        - 'article "Comment thread level 1: Reply from hotsauce_X 1 hour ago" [ref=e940]':
+                          - generic "Metadata for hotsauce_X's comment" [ref=e941]:
+                            - link "hotsauce_X's profile --- avatar" [ref=e947] [cursor=pointer]:
+                              - /url: /user/hotsauce_X/
+                              - img [ref=e952]
+                            - generic [ref=e958]:
+                              - link "hotsauce_X's profile" [ref=e962] [cursor=pointer]:
+                                - /url: /user/hotsauce_X/
+                                - text: hotsauce_X
+                              - generic [ref=e963]: •
+                              - link "1h ago" [ref=e964] [cursor=pointer]:
+                                - /url: /r/FoodNYC/comments/1s930f6/comment/odm6c20/
+                                - time [ref=e965]: 1h ago
+                          - generic [ref=e967]:
+                            - paragraph [ref=e976]: Bayon has a recent C sanitary grading btw….it’s a no for me dawg
+                            - button "Toggle Comment Thread" [expanded] [ref=e979] [cursor=pointer]:
+                              - img [ref=e982]
+                            - 'article "Comment thread level 2: Reply from Calm_Machine7634 47 minutes ago" [ref=e990]':
+                              - generic "Metadata for Calm_Machine7634's comment" [ref=e991]:
+                                - link "Calm_Machine7634's profile --- avatar" [ref=e997] [cursor=pointer]:
+                                  - /url: /user/Calm_Machine7634/
+                                  - img "u/Calm_Machine7634 avatar" [ref=e1000]
+                                - generic [ref=e1005]:
+                                  - link "Calm_Machine7634's profile" [ref=e1009] [cursor=pointer]:
+                                    - /url: /user/Calm_Machine7634/
+                                    - text: Calm_Machine7634
+                                  - generic [ref=e1010]: •
+                                  - link "47m ago" [ref=e1011] [cursor=pointer]:
+                                    - /url: /r/FoodNYC/comments/1s930f6/comment/odm8tfg/
+                                    - time [ref=e1012]: 47m ago
+                              - paragraph [ref=e1021]: Whoa yikes did not know that, thanks for the heads up
+                  - article "Comment from historyfirst 2 hours ago" [ref=e1027]:
+                    - generic "Metadata for historyfirst's comment" [ref=e1028]:
+                      - link "historyfirst's profile --- avatar" [ref=e1034] [cursor=pointer]:
+                        - /url: /user/historyfirst/
+                        - img "u/historyfirst avatar" [ref=e1037]
+                      - generic [ref=e1042]:
+                        - link "historyfirst's profile" [ref=e1046] [cursor=pointer]:
+                          - /url: /user/historyfirst/
+                          - text: historyfirst
+                        - generic [ref=e1047]: •
+                        - link "2h ago" [ref=e1048] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odlyezf/
+                          - time [ref=e1049]: 2h ago
+                    - paragraph [ref=e1058]: NR
+                  - generic "Sink in today. Still sinking in years from now. Every Sac is built to last and backed by a Lifetime Guarantee." [ref=e1064]:
+                    - generic [ref=e1065]:
+                      - 'generic "Advertisement: Sink in today. Still sinking in years from now. Every Sac is built to last and backed by a Lifetime Guarantee." [ref=e1066]':
+                        - 'link "Advertisement: Sink in today. Still sinking in years from now. Every Sac is built to last and backed by a Lifetime Guarantee." [ref=e1067] [cursor=pointer]':
+                          - /url: https://alb.reddit.com/cr?za=nra5IIc_ZYWmlbt0dkakKBRWka5gjDR4noeCzSW78Y4SB0rbhxpvXPww6DTB1KRsp_Se3Qyex-VCVZYDTcNGKfaF-tzTJXmRzRATd_vjJ5nOtYjL6RdQuwZq7iBJlv2L4UNICVa6OJlN1GFMOFce3NRe5BD9wRvqOEoETaFmrT5A5oKf9zDnV-Xu8DsI39E_1bWRDjWDhB78FLXLUUq48ckq3-72Sc0fnTnccK_YtfhjKAy-3fkW4cMC6MdeAQ6VFvIYz4K2C2pYQevCSDwxB4Me7UNmRWjiDMAlI2Do3CjKw2UFihloxa-oTsJq9CWKes_kYi0-kFHf3qBVOHlwobxMX271yM_0Kmt1QjRV_rn2xqNoExym4cgU4huvWQIjpl88ExRst2xWQKrOYggf2oKJfgqtaNMd1yuyZKritr5fseIM9kKpUAk5cTGNTZ_qx6xzUFL6fCKL58w51xTPxdjvadLLdfnleEur4EBJRcnZcPx8UMtQM0SxKP6Ja6Qw4RN3rn6QvIpJ2pDYlyz2aNuLD9EXrD2RZLrCrGtkErymIo7f2ZdUibUcBmvKqyGGc7Etsd13VBDUpo_FzoyNnIsh55izvz-H3Wy-mjepR-FvgovZ6P01XKBunb2bY7Oso9Ehw-V8_RKGfddrKxvOs6j8_ZsPVD9OVmCgKFLlSObdVJV-7nRZ74oPUqmEnsUyHqFbJuUrjtczpkJxdMP3AB1-1VOjdGi1&zp=lf65QQh-O9TzVE7X016ptqty73MtR06_xpQNyioNSBAJTTFMEEgRkhMqBw34lD-loXYBoZYU4ihBHzZXmgY-U1SziCIYt4mX0lsUbWhKD15nC2AL9JNLO2wKLZ76DEF-lzZk6Y81mc5ToLXdge2MYSp_YrxKUuLcZrCjuWX9--Qbo5LQdk1JDDdPWgAr1W9jqH4lkAO1KMQXNhGtThWMz8md8SdUHiQsVBxRaQsJIxfyw_daLwvw0RHjIvDn2JUCvCBUAS8JflbPa7PCeuBgoqbSj42QzZ2h0fONRUrzLuNSquhrxyw
+                      - generic [ref=e1068]:
+                        - generic [ref=e1069]:
+                          - link "u/Lovesac avatar u/Lovesac" [ref=e1072] [cursor=pointer]:
+                            - /url: /user/Lovesac/
+                            - generic [ref=e1076]:
+                              - img "u/Lovesac avatar"
+                            - generic [ref=e1077]: u/Lovesac
+                          - generic [ref=e1078]: •
+                          - link "Promoted" [ref=e1080] [cursor=pointer]:
+                            - /url: /user/Lovesac/
+                            - generic [ref=e1081]: Promoted
+                          - link [ref=e1083] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=nra5IIc_ZYWmlbt0dkakKBRWka5gjDR4noeCzSW78Y4SB0rbhxpvXPww6DTB1KRsp_Se3Qyex-VCVZYDTcNGKfaF-tzTJXmRzRATd_vjJ5nOtYjL6RdQuwZq7iBJlv2L4UNICVa6OJlN1GFMOFce3NRe5BD9wRvqOEoETaFmrT5A5oKf9zDnV-Xu8DsI39E_1bWRDjWDhB78FLXLUUq48ckq3-72Sc0fnTnccK_YtfhjKAy-3fkW4cMC6MdeAQ6VFvIYz4K2C2pYQevCSDwxB4Me7UNmRWjiDMAlI2Do3CjKw2UFihloxa-oTsJq9CWKes_kYi0-kFHf3qBVOHlwobxMX271yM_0Kmt1QjRV_rn2xqNoExym4cgU4huvWQIjpl88ExRst2xWQKrOYggf2oKJfgqtaNMd1yuyZKritr5fseIM9kKpUAk5cTGNTZ_qx6xzUFL6fCKL58w51xTPxdjvadLLdfnleEur4EBJRcnZcPx8UMtQM0SxKP6Ja6Qw4RN3rn6QvIpJ2pDYlyz2aNuLD9EXrD2RZLrCrGtkErymIo7f2ZdUibUcBmvKqyGGc7Etsd13VBDUpo_FzoyNnIsh55izvz-H3Wy-mjepR-FvgovZ6P01XKBunb2bY7Oso9Ehw-V8_RKGfddrKxvOs6j8_ZsPVD9OVmCgKFLlSObdVJV-7nRZ74oPUqmEnsUyHqFbJuUrjtczpkJxdMP3AB1-1VOjdGi1&zp=lf65QQh-O9TzVE7X016ptqty73MtR06_xpQNyioNSBAJTTFMEEgRkhMqBw34lD-loXYBoZYU4ihBHzZXmgY-U1SziCIYt4mX0lsUbWhKD15nC2AL9JNLO2wKLZ76DEF-lzZk6Y81mc5ToLXdge2MYSp_YrxKUuLcZrCjuWX9--Qbo5LQdk1JDDdPWgAr1W9jqH4lkAO1KMQXNhGtThWMz8md8SdUHiQsVBxRaQsJIxfyw_daLwvw0RHjIvDn2JUCvCBUAS8JflbPa7PCeuBgoqbSj42QzZ2h0fONRUrzLuNSquhrxyw
+                        - button "Open user actions" [ref=e1088] [cursor=pointer]:
+                          - img [ref=e1091]
+                      - generic [ref=e1094]:
+                        - generic [ref=e1095]:
+                          - link "Sink in today. Still sinking in years from now. Every Sac is built to last and backed by a Lifetime Guarantee." [ref=e1097] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=nra5IIc_ZYWmlbt0dkakKBRWka5gjDR4noeCzSW78Y4SB0rbhxpvXPww6DTB1KRsp_Se3Qyex-VCVZYDTcNGKfaF-tzTJXmRzRATd_vjJ5nOtYjL6RdQuwZq7iBJlv2L4UNICVa6OJlN1GFMOFce3NRe5BD9wRvqOEoETaFmrT5A5oKf9zDnV-Xu8DsI39E_1bWRDjWDhB78FLXLUUq48ckq3-72Sc0fnTnccK_YtfhjKAy-3fkW4cMC6MdeAQ6VFvIYz4K2C2pYQevCSDwxB4Me7UNmRWjiDMAlI2Do3CjKw2UFihloxa-oTsJq9CWKes_kYi0-kFHf3qBVOHlwobxMX271yM_0Kmt1QjRV_rn2xqNoExym4cgU4huvWQIjpl88ExRst2xWQKrOYggf2oKJfgqtaNMd1yuyZKritr5fseIM9kKpUAk5cTGNTZ_qx6xzUFL6fCKL58w51xTPxdjvadLLdfnleEur4EBJRcnZcPx8UMtQM0SxKP6Ja6Qw4RN3rn6QvIpJ2pDYlyz2aNuLD9EXrD2RZLrCrGtkErymIo7f2ZdUibUcBmvKqyGGc7Etsd13VBDUpo_FzoyNnIsh55izvz-H3Wy-mjepR-FvgovZ6P01XKBunb2bY7Oso9Ehw-V8_RKGfddrKxvOs6j8_ZsPVD9OVmCgKFLlSObdVJV-7nRZ74oPUqmEnsUyHqFbJuUrjtczpkJxdMP3AB1-1VOjdGi1&zp=lf65QQh-O9TzVE7X016ptqty73MtR06_xpQNyioNSBAJTTFMEEgRkhMqBw34lD-loXYBoZYU4ihBHzZXmgY-U1SziCIYt4mX0lsUbWhKD15nC2AL9JNLO2wKLZ76DEF-lzZk6Y81mc5ToLXdge2MYSp_YrxKUuLcZrCjuWX9--Qbo5LQdk1JDDdPWgAr1W9jqH4lkAO1KMQXNhGtThWMz8md8SdUHiQsVBxRaQsJIxfyw_daLwvw0RHjIvDn2JUCvCBUAS8JflbPa7PCeuBgoqbSj42QzZ2h0fONRUrzLuNSquhrxyw
+                            - generic: Sink in today. Still sinking in years from now. Every Sac is built to last and backed by a Lifetime Guarantee.
+                          - link "Popular with redditors" [ref=e1099] [cursor=pointer]:
+                            - /url: https://alb.reddit.com/cr?za=nra5IIc_ZYWmlbt0dkakKBRWka5gjDR4noeCzSW78Y4SB0rbhxpvXPww6DTB1KRsp_Se3Qyex-VCVZYDTcNGKfaF-tzTJXmRzRATd_vjJ5nOtYjL6RdQuwZq7iBJlv2L4UNICVa6OJlN1GFMOFce3NRe5BD9wRvqOEoETaFmrT5A5oKf9zDnV-Xu8DsI39E_1bWRDjWDhB78FLXLUUq48ckq3-72Sc0fnTnccK_YtfhjKAy-3fkW4cMC6MdeAQ6VFvIYz4K2C2pYQevCSDwxB4Me7UNmRWjiDMAlI2Do3CjKw2UFihloxa-oTsJq9CWKes_kYi0-kFHf3qBVOHlwobxMX271yM_0Kmt1QjRV_rn2xqNoExym4cgU4huvWQIjpl88ExRst2xWQKrOYggf2oKJfgqtaNMd1yuyZKritr5fseIM9kKpUAk5cTGNTZ_qx6xzUFL6fCKL58w51xTPxdjvadLLdfnleEur4EBJRcnZcPx8UMtQM0SxKP6Ja6Qw4RN3rn6QvIpJ2pDYlyz2aNuLD9EXrD2RZLrCrGtkErymIo7f2ZdUibUcBmvKqyGGc7Etsd13VBDUpo_FzoyNnIsh55izvz-H3Wy-mjepR-FvgovZ6P01XKBunb2bY7Oso9Ehw-V8_RKGfddrKxvOs6j8_ZsPVD9OVmCgKFLlSObdVJV-7nRZ74oPUqmEnsUyHqFbJuUrjtczpkJxdMP3AB1-1VOjdGi1&zp=lf65QQh-O9TzVE7X016ptqty73MtR06_xpQNyioNSBAJTTFMEEgRkhMqBw34lD-loXYBoZYU4ihBHzZXmgY-U1SziCIYt4mX0lsUbWhKD15nC2AL9JNLO2wKLZ76DEF-lzZk6Y81mc5ToLXdge2MYSp_YrxKUuLcZrCjuWX9--Qbo5LQdk1JDDdPWgAr1W9jqH4lkAO1KMQXNhGtThWMz8md8SdUHiQsVBxRaQsJIxfyw_daLwvw0RHjIvDn2JUCvCBUAS8JflbPa7PCeuBgoqbSj42QzZ2h0fONRUrzLuNSquhrxyw
+                            - generic [ref=e1100]: Popular with redditors
+                          - generic [ref=e1101]:
+                            - link [ref=e1103] [cursor=pointer]:
+                              - /url: https://alb.reddit.com/cr?za=nra5IIc_ZYWmlbt0dkakKBRWka5gjDR4noeCzSW78Y4SB0rbhxpvXPww6DTB1KRsp_Se3Qyex-VCVZYDTcNGKfaF-tzTJXmRzRATd_vjJ5nOtYjL6RdQuwZq7iBJlv2L4UNICVa6OJlN1GFMOFce3NRe5BD9wRvqOEoETaFmrT5A5oKf9zDnV-Xu8DsI39E_1bWRDjWDhB78FLXLUUq48ckq3-72Sc0fnTnccK_YtfhjKAy-3fkW4cMC6MdeAQ6VFvIYz4K2C2pYQevCSDwxB4Me7UNmRWjiDMAlI2Do3CjKw2UFihloxa-oTsJq9CWKes_kYi0-kFHf3qBVOHlwobxMX271yM_0Kmt1QjRV_rn2xqNoExym4cgU4huvWQIjpl88ExRst2xWQKrOYggf2oKJfgqtaNMd1yuyZKritr5fseIM9kKpUAk5cTGNTZ_qx6xzUFL6fCKL58w51xTPxdjvadLLdfnleEur4EBJRcnZcPx8UMtQM0SxKP6Ja6Qw4RN3rn6QvIpJ2pDYlyz2aNuLD9EXrD2RZLrCrGtkErymIo7f2ZdUibUcBmvKqyGGc7Etsd13VBDUpo_FzoyNnIsh55izvz-H3Wy-mjepR-FvgovZ6P01XKBunb2bY7Oso9Ehw-V8_RKGfddrKxvOs6j8_ZsPVD9OVmCgKFLlSObdVJV-7nRZ74oPUqmEnsUyHqFbJuUrjtczpkJxdMP3AB1-1VOjdGi1&zp=lf65QQh-O9TzVE7X016ptqty73MtR06_xpQNyioNSBAJTTFMEEgRkhMqBw34lD-loXYBoZYU4ihBHzZXmgY-U1SziCIYt4mX0lsUbWhKD15nC2AL9JNLO2wKLZ76DEF-lzZk6Y81mc5ToLXdge2MYSp_YrxKUuLcZrCjuWX9--Qbo5LQdk1JDDdPWgAr1W9jqH4lkAO1KMQXNhGtThWMz8md8SdUHiQsVBxRaQsJIxfyw_daLwvw0RHjIvDn2JUCvCBUAS8JflbPa7PCeuBgoqbSj42QzZ2h0fONRUrzLuNSquhrxyw
+                            - generic [ref=e1104]:
+                              - link "Shop Now" [ref=e1106] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=nra5IIc_ZYWmlbt0dkakKBRWka5gjDR4noeCzSW78Y4SB0rbhxpvXPww6DTB1KRsp_Se3Qyex-VCVZYDTcNGKfaF-tzTJXmRzRATd_vjJ5nOtYjL6RdQuwZq7iBJlv2L4UNICVa6OJlN1GFMOFce3NRe5BD9wRvqOEoETaFmrT5A5oKf9zDnV-Xu8DsI39E_1bWRDjWDhB78FLXLUUq48ckq3-72Sc0fnTnccK_YtfhjKAy-3fkW4cMC6MdeAQ6VFvIYz4K2C2pYQevCSDwxB4Me7UNmRWjiDMAlI2Do3CjKw2UFihloxa-oTsJq9CWKes_kYi0-kFHf3qBVOHlwobxMX271yM_0Kmt1QjRV_rn2xqNoExym4cgU4huvWQIjpl88ExRst2xWQKrOYggf2oKJfgqtaNMd1yuyZKritr5fseIM9kKpUAk5cTGNTZ_qx6xzUFL6fCKL58w51xTPxdjvadLLdfnleEur4EBJRcnZcPx8UMtQM0SxKP6Ja6Qw4RN3rn6QvIpJ2pDYlyz2aNuLD9EXrD2RZLrCrGtkErymIo7f2ZdUibUcBmvKqyGGc7Etsd13VBDUpo_FzoyNnIsh55izvz-H3Wy-mjepR-FvgovZ6P01XKBunb2bY7Oso9Ehw-V8_RKGfddrKxvOs6j8_ZsPVD9OVmCgKFLlSObdVJV-7nRZ74oPUqmEnsUyHqFbJuUrjtczpkJxdMP3AB1-1VOjdGi1&zp=lf65QQh-O9TzVE7X016ptqty73MtR06_xpQNyioNSBAJTTFMEEgRkhMqBw34lD-loXYBoZYU4ihBHzZXmgY-U1SziCIYt4mX0lsUbWhKD15nC2AL9JNLO2wKLZ76DEF-lzZk6Y81mc5ToLXdge2MYSp_YrxKUuLcZrCjuWX9--Qbo5LQdk1JDDdPWgAr1W9jqH4lkAO1KMQXNhGtThWMz8md8SdUHiQsVBxRaQsJIxfyw_daLwvw0RHjIvDn2JUCvCBUAS8JflbPa7PCeuBgoqbSj42QzZ2h0fONRUrzLuNSquhrxyw
+                                - generic [ref=e1108]:
+                                  - generic: Shop Now
+                              - link "lovesac.com" [ref=e1111] [cursor=pointer]:
+                                - /url: https://alb.reddit.com/cr?za=nra5IIc_ZYWmlbt0dkakKBRWka5gjDR4noeCzSW78Y4SB0rbhxpvXPww6DTB1KRsp_Se3Qyex-VCVZYDTcNGKfaF-tzTJXmRzRATd_vjJ5nOtYjL6RdQuwZq7iBJlv2L4UNICVa6OJlN1GFMOFce3NRe5BD9wRvqOEoETaFmrT5A5oKf9zDnV-Xu8DsI39E_1bWRDjWDhB78FLXLUUq48ckq3-72Sc0fnTnccK_YtfhjKAy-3fkW4cMC6MdeAQ6VFvIYz4K2C2pYQevCSDwxB4Me7UNmRWjiDMAlI2Do3CjKw2UFihloxa-oTsJq9CWKes_kYi0-kFHf3qBVOHlwobxMX271yM_0Kmt1QjRV_rn2xqNoExym4cgU4huvWQIjpl88ExRst2xWQKrOYggf2oKJfgqtaNMd1yuyZKritr5fseIM9kKpUAk5cTGNTZ_qx6xzUFL6fCKL58w51xTPxdjvadLLdfnleEur4EBJRcnZcPx8UMtQM0SxKP6Ja6Qw4RN3rn6QvIpJ2pDYlyz2aNuLD9EXrD2RZLrCrGtkErymIo7f2ZdUibUcBmvKqyGGc7Etsd13VBDUpo_FzoyNnIsh55izvz-H3Wy-mjepR-FvgovZ6P01XKBunb2bY7Oso9Ehw-V8_RKGfddrKxvOs6j8_ZsPVD9OVmCgKFLlSObdVJV-7nRZ74oPUqmEnsUyHqFbJuUrjtczpkJxdMP3AB1-1VOjdGi1&zp=lf65QQh-O9TzVE7X016ptqty73MtR06_xpQNyioNSBAJTTFMEEgRkhMqBw34lD-loXYBoZYU4ihBHzZXmgY-U1SziCIYt4mX0lsUbWhKD15nC2AL9JNLO2wKLZ76DEF-lzZk6Y81mc5ToLXdge2MYSp_YrxKUuLcZrCjuWX9--Qbo5LQdk1JDDdPWgAr1W9jqH4lkAO1KMQXNhGtThWMz8md8SdUHiQsVBxRaQsJIxfyw_daLwvw0RHjIvDn2JUCvCBUAS8JflbPa7PCeuBgoqbSj42QzZ2h0fONRUrzLuNSquhrxyw
+                                - generic: lovesac.com
+                        - 'link "Thumbnail image: Sink in today. Still sinking in years from now. Every Sac is built to last and backed by a Lifetime Guarantee." [ref=e1114] [cursor=pointer]':
+                          - /url: https://alb.reddit.com/cr?za=nra5IIc_ZYWmlbt0dkakKBRWka5gjDR4noeCzSW78Y4SB0rbhxpvXPww6DTB1KRsp_Se3Qyex-VCVZYDTcNGKfaF-tzTJXmRzRATd_vjJ5nOtYjL6RdQuwZq7iBJlv2L4UNICVa6OJlN1GFMOFce3NRe5BD9wRvqOEoETaFmrT5A5oKf9zDnV-Xu8DsI39E_1bWRDjWDhB78FLXLUUq48ckq3-72Sc0fnTnccK_YtfhjKAy-3fkW4cMC6MdeAQ6VFvIYz4K2C2pYQevCSDwxB4Me7UNmRWjiDMAlI2Do3CjKw2UFihloxa-oTsJq9CWKes_kYi0-kFHf3qBVOHlwobxMX271yM_0Kmt1QjRV_rn2xqNoExym4cgU4huvWQIjpl88ExRst2xWQKrOYggf2oKJfgqtaNMd1yuyZKritr5fseIM9kKpUAk5cTGNTZ_qx6xzUFL6fCKL58w51xTPxdjvadLLdfnleEur4EBJRcnZcPx8UMtQM0SxKP6Ja6Qw4RN3rn6QvIpJ2pDYlyz2aNuLD9EXrD2RZLrCrGtkErymIo7f2ZdUibUcBmvKqyGGc7Etsd13VBDUpo_FzoyNnIsh55izvz-H3Wy-mjepR-FvgovZ6P01XKBunb2bY7Oso9Ehw-V8_RKGfddrKxvOs6j8_ZsPVD9OVmCgKFLlSObdVJV-7nRZ74oPUqmEnsUyHqFbJuUrjtczpkJxdMP3AB1-1VOjdGi1&zp=lf65QQh-O9TzVE7X016ptqty73MtR06_xpQNyioNSBAJTTFMEEgRkhMqBw34lD-loXYBoZYU4ihBHzZXmgY-U1SziCIYt4mX0lsUbWhKD15nC2AL9JNLO2wKLZ76DEF-lzZk6Y81mc5ToLXdge2MYSp_YrxKUuLcZrCjuWX9--Qbo5LQdk1JDDdPWgAr1W9jqH4lkAO1KMQXNhGtThWMz8md8SdUHiQsVBxRaQsJIxfyw_daLwvw0RHjIvDn2JUCvCBUAS8JflbPa7PCeuBgoqbSj42QzZ2h0fONRUrzLuNSquhrxyw
+                          - 'img "Thumbnail image: Sink in today. Still sinking in years from now. Every Sac is built to last and backed by a Lifetime Guarantee." [ref=e1115]'
+                  - article "Comment from butter718 1 hour ago" [ref=e1117]:
+                    - generic "Metadata for butter718's comment" [ref=e1118]:
+                      - link "butter718's profile --- avatar" [ref=e1124] [cursor=pointer]:
+                        - /url: /user/butter718/
+                        - img "u/butter718 avatar" [ref=e1127]
+                      - generic [ref=e1132]:
+                        - link "butter718's profile" [ref=e1136] [cursor=pointer]:
+                          - /url: /user/butter718/
+                          - text: butter718
+                        - generic [ref=e1137]: •
+                        - link "1h ago" [ref=e1138] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odm6hc9/
+                          - time [ref=e1139]: 1h ago
+                    - generic [ref=e1141]:
+                      - list [ref=e1150]:
+                        - listitem [ref=e1151]:
+                          - paragraph [ref=e1152]: Lincontro by Rocco
+                        - listitem [ref=e1153]:
+                          - paragraph [ref=e1154]: Sandro’s
+                        - listitem [ref=e1155]:
+                          - paragraph [ref=e1156]: Mission Ceviche
+                      - button "Toggle Comment Thread" [expanded] [ref=e1159] [cursor=pointer]:
+                        - img [ref=e1162]
+                      - 'article "Comment thread level 1: Reply from butter718 58 minutes ago" [ref=e1170]':
+                        - generic "Metadata for butter718's comment" [ref=e1171]:
+                          - link "butter718's profile --- avatar" [ref=e1177] [cursor=pointer]:
+                            - /url: /user/butter718/
+                            - img "u/butter718 avatar" [ref=e1180]
+                          - generic [ref=e1185]:
+                            - link "butter718's profile" [ref=e1189] [cursor=pointer]:
+                              - /url: /user/butter718/
+                              - text: butter718
+                            - generic [ref=e1190]: •
+                            - link "58m ago" [ref=e1191] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1s930f6/comment/odm6r3b/
+                              - time [ref=e1192]: 58m ago
+                        - generic [ref=e1194]:
+                          - paragraph [ref=e1203]: Adding in Hoexters as well
+                          - button "Toggle Comment Thread" [expanded] [ref=e1206] [cursor=pointer]:
+                            - img [ref=e1209]
+                          - 'article "Comment thread level 2: Reply from York_Villain 38 minutes ago" [ref=e1217]':
+                            - generic "Metadata for York_Villain's comment" [ref=e1218]:
+                              - link "York_Villain's profile --- avatar" [ref=e1224] [cursor=pointer]:
+                                - /url: /user/York_Villain/
+                                - img "u/York_Villain avatar" [ref=e1227]
+                              - generic [ref=e1232]:
+                                - link "York_Villain's profile" [ref=e1236] [cursor=pointer]:
+                                  - /url: /user/York_Villain/
+                                  - text: York_Villain
+                                - generic [ref=e1237]: •
+                                - link "38m ago" [ref=e1238] [cursor=pointer]:
+                                  - /url: /r/FoodNYC/comments/1s930f6/comment/odmae0w/
+                                  - time [ref=e1239]: 38m ago
+                            - paragraph [ref=e1248]: This place always has a crowd.
+                  - article "Comment from nyc2everywhere 1 hour ago" [ref=e1254]:
+                    - generic "Metadata for nyc2everywhere's comment" [ref=e1255]:
+                      - link "nyc2everywhere's profile --- avatar" [ref=e1261] [cursor=pointer]:
+                        - /url: /user/nyc2everywhere/
+                        - img "u/nyc2everywhere avatar" [ref=e1264]
+                      - generic [ref=e1269]:
+                        - link "nyc2everywhere's profile" [ref=e1273] [cursor=pointer]:
+                          - /url: /user/nyc2everywhere/
+                          - text: nyc2everywhere
+                        - generic [ref=e1274]: •
+                        - link "1h ago" [ref=e1275] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odm2h74/
+                          - time [ref=e1276]: 1h ago
+                    - paragraph [ref=e1285]: Ishikawa omakase is FANTASTIC. Campagnola and Elio's are classics. Soledad is excellent. Lyly, while less expensive than the others, is a favorite. Love Tino's and Flex Mussels too!!
+                  - article "Comment from WhatDidntDiddyDo 3 hours ago" [ref=e1291]:
+                    - generic "Metadata for WhatDidntDiddyDo's comment" [ref=e1292]:
+                      - link "WhatDidntDiddyDo's profile --- avatar" [ref=e1298] [cursor=pointer]:
+                        - /url: /user/WhatDidntDiddyDo/
+                        - generic [ref=e1300]:
+                          - img [ref=e1302]
+                          - img [ref=e1306]
+                          - img [ref=e1309]
+                      - generic [ref=e1315]:
+                        - link "WhatDidntDiddyDo's profile" [ref=e1319] [cursor=pointer]:
+                          - /url: /user/WhatDidntDiddyDo/
+                          - text: WhatDidntDiddyDo
+                        - generic [ref=e1320]: •
+                        - link "3h ago" [ref=e1321] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odlhl5b/
+                          - time [ref=e1322]: 3h ago
+                    - generic [ref=e1324]:
+                      - paragraph [ref=e1333]: Elios for classic Southern Italian
+                      - button "Toggle Comment Thread" [expanded] [ref=e1336] [cursor=pointer]:
+                        - img [ref=e1339]
+                      - 'article "Comment thread level 1: Reply from nightkingscat 1 hour ago" [ref=e1347]':
+                        - generic "Metadata for nightkingscat's comment" [ref=e1348]:
+                          - link "nightkingscat's profile --- avatar" [ref=e1354] [cursor=pointer]:
+                            - /url: /user/nightkingscat/
+                            - img "u/nightkingscat avatar" [ref=e1357]
+                          - generic [ref=e1362]:
+                            - link "nightkingscat's profile" [ref=e1366] [cursor=pointer]:
+                              - /url: /user/nightkingscat/
+                              - text: nightkingscat
+                            - generic [ref=e1367]: •
+                            - link "1h ago" [ref=e1368] [cursor=pointer]:
+                              - /url: /r/FoodNYC/comments/1s930f6/comment/odm62s7/
+                              - time [ref=e1369]: 1h ago
+                        - paragraph [ref=e1378]: Gross
+                  - article "Comment from FramboiseDorleac 3 hours ago" [ref=e1384]:
+                    - generic "Metadata for FramboiseDorleac's comment" [ref=e1385]:
+                      - button [ref=e1387] [cursor=pointer]:
+                        - img [ref=e1390]
+                      - generic [ref=e1396]:
+                        - link "FramboiseDorleac's profile" [ref=e1400] [cursor=pointer]:
+                          - /url: /user/FramboiseDorleac/
+                          - text: FramboiseDorleac
+                        - generic [ref=e1401]: •
+                        - link "3h ago" [ref=e1402] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odliavl/
+                          - time [ref=e1403]: 3h ago
+                  - article "Comment from Bangkok_Dangeresque 4 hours ago" [ref=e1406]:
+                    - generic "Metadata for Bangkok_Dangeresque's comment" [ref=e1407]:
+                      - button [ref=e1409] [cursor=pointer]:
+                        - img [ref=e1412]
+                      - generic [ref=e1418]:
+                        - link "Bangkok_Dangeresque's profile" [ref=e1422] [cursor=pointer]:
+                          - /url: /user/Bangkok_Dangeresque/
+                          - text: Bangkok_Dangeresque
+                        - generic [ref=e1423]: •
+                        - link "4h ago" [ref=e1424] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odleos6/
+                          - time [ref=e1425]: 4h ago
+                  - article "Comment from Edgesam324 55 minutes ago" [ref=e1428]:
+                    - generic "Metadata for Edgesam324's comment" [ref=e1429]:
+                      - link "Edgesam324's profile --- avatar" [ref=e1435] [cursor=pointer]:
+                        - /url: /user/Edgesam324/
+                        - img [ref=e1440]
+                      - generic [ref=e1446]:
+                        - link "Edgesam324's profile" [ref=e1450] [cursor=pointer]:
+                          - /url: /user/Edgesam324/
+                          - text: Edgesam324
+                        - generic [ref=e1451]: •
+                        - link "55m ago" [ref=e1452] [cursor=pointer]:
+                          - /url: /r/FoodNYC/comments/1s930f6/comment/odm7c0z/
+                          - time [ref=e1453]: 55m ago
+                    - paragraph [ref=e1462]: Il Mulino, Veau D’Or, Primola, Cafe Commerce, Hoexter’s
+            - generic [ref=e1467]:
+              - generic [ref=e1470]:
+                - generic:
+                  - complementary "Community information" [ref=e1471]:
+                    - generic [ref=e1472]:
+                      - generic [ref=e1474]:
+                        - heading "Community Info Section" [level=1] [ref=e1475]
+                        - generic [ref=e1476]:
+                          - link "r/FoodNYC" [ref=e1478] [cursor=pointer]:
+                            - /url: /r/FoodNYC/
+                            - generic [ref=e1479]: r/FoodNYC
+                          - button "Joined" [ref=e1483] [cursor=pointer]
+                        - generic [ref=e1484]:
+                          - generic [ref=e1485]: FoodNYC
+                          - generic [ref=e1486]: FoodNYC is dedicated towards showcasing food from all over New York City! Share pictures, reviews, websites, etc. Not just limited to pictures of food, but anything food related in NYC.
+                          - button "Show more" [ref=e1487] [cursor=pointer]:
+                            - generic [ref=e1489]: Show more
+                          - generic [ref=e1490]:
+                            - generic [ref=e1492]:
+                              - img [ref=e1493]
+                              - text: Created Aug 7, 2014
+                            - generic [ref=e1496]:
+                              - img [ref=e1497]
+                              - text: Public
+                        - generic [ref=e1499]:
+                          - generic [ref=e1500]:
+                            - strong [ref=e1502]:
+                              - generic: 272K
+                            - generic [ref=e1503]: Weekly visitors
+                          - generic [ref=e1504]:
+                            - strong [ref=e1506]:
+                              - generic: 4.6K
+                            - generic [ref=e1507]: Weekly contributions
+                      - separator [ref=e1508]
+                      - generic [ref=e1509]:
+                        - heading "User flair" [level=2] [ref=e1511]:
+                          - generic [ref=e1512]: User flair
+                        - button "spicypunketh" [ref=e1514]:
+                          - generic [ref=e1516]:
+                            - img [ref=e1523]
+                            - generic [ref=e1526]: spicypunketh
+                      - generic [ref=e1528]:
+                        - separator [ref=e1529]
+                        - generic [ref=e1530]: community achievements
+                        - generic [ref=e1531]:
+                          - generic [ref=e1532]:
+                            - generic [ref=e1533]:
+                              - generic [ref=e1535] [cursor=pointer]:
+                                - img "Top 5% Poster" [ref=e1536]
+                                - img [ref=e1538]
+                              - generic [ref=e1541] [cursor=pointer]:
+                                - img "Picasso" [ref=e1542]
+                                - img [ref=e1544]
+                            - generic [ref=e1546]:
+                              - generic [ref=e1548] [cursor=pointer]: Top 5% Poster,
+                              - generic [ref=e1550] [cursor=pointer]: Picasso
+                          - generic [ref=e1551]:
+                            - generic [ref=e1552]: 2 unlocked
+                            - button "View All Achievements" [ref=e1553] [cursor=pointer]:
+                              - generic [ref=e1555]: View All
+                      - separator [ref=e1556]
+                      - generic [ref=e1557]:
+                        - heading "r/FoodNYC Rules" [level=2] [ref=e1559]:
+                          - generic [ref=e1560]: r/FoodNYC Rules
+                        - generic [ref=e1561]:
+                          - group [ref=e1563]:
+                            - generic "1 Must be related to NYC" [ref=e1564] [cursor=pointer]:
+                              - generic [ref=e1566]:
+                                - generic [ref=e1567]:
+                                  - generic [ref=e1569]: "1"
+                                  - heading "Must be related to NYC" [level=2] [ref=e1573]
+                                - img [ref=e1576]
+                          - group [ref=e1579]:
+                            - generic "2 On Topic" [ref=e1580] [cursor=pointer]:
+                              - generic [ref=e1582]:
+                                - generic [ref=e1583]:
+                                  - generic [ref=e1585]: "2"
+                                  - heading "On Topic" [level=2] [ref=e1589]
+                                - img [ref=e1592]
+                          - group [ref=e1595]:
+                            - generic "3 Civility" [ref=e1596] [cursor=pointer]:
+                              - generic [ref=e1598]:
+                                - generic [ref=e1599]:
+                                  - generic [ref=e1601]: "3"
+                                  - heading "Civility" [level=2] [ref=e1605]
+                                - img [ref=e1608]
+                          - group [ref=e1611]:
+                            - generic "4 No repetitive or low effort posts" [ref=e1612] [cursor=pointer]:
+                              - generic [ref=e1614]:
+                                - generic [ref=e1615]:
+                                  - generic [ref=e1617]: "4"
+                                  - heading "No repetitive or low effort posts" [level=2] [ref=e1621]
+                                - img [ref=e1624]
+                          - group [ref=e1627]:
+                            - generic "5 Photo-only posts require a link or description" [ref=e1628] [cursor=pointer]:
+                              - generic [ref=e1630]:
+                                - generic [ref=e1631]:
+                                  - generic [ref=e1633]: "5"
+                                  - heading "Photo-only posts require a link or description" [level=2] [ref=e1637]
+                                - img [ref=e1640]
+                          - group [ref=e1643]:
+                            - generic "6 Reservations" [ref=e1644] [cursor=pointer]:
+                              - generic [ref=e1646]:
+                                - generic [ref=e1647]:
+                                  - generic [ref=e1649]: "6"
+                                  - heading "Reservations" [level=2] [ref=e1653]
+                                - img [ref=e1656]
+                          - group [ref=e1659]:
+                            - generic "7 Self Promotion" [ref=e1660] [cursor=pointer]:
+                              - generic [ref=e1662]:
+                                - generic [ref=e1663]:
+                                  - generic [ref=e1665]: "7"
+                                  - heading "Self Promotion" [level=2] [ref=e1669]
+                                - img [ref=e1672]
+                          - group [ref=e1675]:
+                            - generic "8 Spam" [ref=e1676] [cursor=pointer]:
+                              - generic [ref=e1678]:
+                                - generic [ref=e1679]:
+                                  - generic [ref=e1681]: "8"
+                                  - heading "Spam" [level=2] [ref=e1685]
+                                - img [ref=e1688]
+                          - group [ref=e1691]:
+                            - generic "9 No AI" [ref=e1692] [cursor=pointer]:
+                              - generic [ref=e1694]:
+                                - generic [ref=e1695]:
+                                  - generic [ref=e1697]: "9"
+                                  - heading "No AI" [level=2] [ref=e1701]
+                                - img [ref=e1704]
+                          - group [ref=e1707]:
+                            - generic "10 No Politics" [ref=e1708] [cursor=pointer]:
+                              - generic [ref=e1710]:
+                                - generic [ref=e1711]:
+                                  - generic [ref=e1713]: "10"
+                                  - heading "No Politics" [level=2] [ref=e1717]
+                                - img [ref=e1720]
+                  - article [ref=e1724]:
+                    - generic [ref=e1725]:
+                      - generic [ref=e1726]: Promoted
+                      - button "Open user actions" [ref=e1732] [cursor=pointer]:
+                        - img [ref=e1735]
+                    - link "sidebar promoted post thumbnail" [ref=e1738] [cursor=pointer]:
+                      - /url: https://alb.reddit.com/cr?za=YnVZQEuINIkaTRag4h4_MhAvAHemf66ETWDf7sh0pEqgFPLV7a1IadwvGxELo2UO1rv513tZ714HJ31PrWXfDxwCdNzVF9UqzygB4Bzzy3hJiC9aCIKfHn6NAkwuOo7dtsilfcP1Sa-zVmBVRBODLRiLfug4o_vTKSIp11rATAjkVRQ4WrkrYkz8ltDHS_L3unyx4cNx_R1Ox_JEeYVjrG7eJRNTCpMaWy71Mf6CqOjdcU_nXILC9dStMAvb0lsjEcGufJpZOGrtPo0qhLkcSkxyL6SHpysYkM4Aeqka_Kmkcchi_pLgqM7ZQEWDhTqQXcIXzw8MkOthdBwl7F59fh9__J4UxDS9Gny061fGsmaCeM-nPZUBcmPCOfwGm28_7Capq1czggZRpvUZXigBuJ-nFQuQEhlPxe4ArNHkjsF1UDvmIUMHtYbvxvxe9oc-gTs-29RuHAtbXu5S-4UGKD7Sz7OM9GqRxKZsUcFUcwEUNPMXcwRlgPZkcUYfZLibqn64L627KwFty_Qc8dWvNYRcDQ_y1uD83jgC9-t22TxOPbKBhytQ2mSKvhh0B7N-dNuLahUnBtyadBQ11sWc9qTK2JbSYjsYPCc-y11SAjR2QY4CSB0CrjfPzvZjAa7_lafj1RvGM1XqKL90bdeqN-Niz38PYnA&zp=m26n4ozjixIkLeeCZg2U6RpBffgMpKVlknhsDm-IY4bKPcLa1aqHx6dbWiCMbEniJ7H65sOvTAmSdQBHro2IBt5C0Xw1LThLmTtj3n9oa_yniMl4whyrJr7RffOk4DpzrNvhp5NdUEPGT11IEL5rgE7l8DQUibNXi0fvDD3jdAqa74HpQH2h1giXEIYMj4tfz7QEaMExp5vMFlGokfaZwxw4JdAbHZXxY-7tPvcdZWtPKJ8H9i23y3LNrVazIbdWGMJAp-XEOZFLgnZ2510ShOPSCuOZEpIVXpxmCxBcFeg-s9oErXe73Abjf0DperkpP_VCuZUYyk68iz75kKQTOLdfEv8NETiuJh7PUdpmc4iWowEG_aFUEfqrnDG2fQLefGTqiLfz8ieCp5kd78D0g8rnRmoJn4N-YnJ-b5lK0F7baTz2K3XSYTQ8NK7-yqnIO5UI4OQ72pW3uOkG0clyI7bxkERrIfYVH9I
+                      - img "sidebar promoted post thumbnail" [ref=e1740]
+                  - separator [ref=e1741]
+                  - generic [ref=e1743]:
+                    - generic [ref=e1744]:
+                      - heading "Moderators" [level=2] [ref=e1746]:
+                        - generic [ref=e1747]: Moderators
+                      - link "Message Mods" [ref=e1749] [cursor=pointer]:
+                        - /url: https://www.reddit.com/message/compose?to=r/FoodNYC
+                        - generic [ref=e1750]:
+                          - img [ref=e1752]
+                          - generic [ref=e1754]: Message Mods
+                      - generic [ref=e1756]:
+                        - img [ref=e1763]
+                        - link "u/shamam" [ref=e1768] [cursor=pointer]:
+                          - /url: /user/shamam/
+                      - generic [ref=e1770]:
+                        - img "u/Marx0r avatar" [ref=e1775]
+                        - link "u/Marx0r" [ref=e1779] [cursor=pointer]:
+                          - /url: /user/Marx0r/
+                      - generic [ref=e1781]:
+                        - img [ref=e1788]
+                        - generic [ref=e1790]:
+                          - link "u/EagleFly_5" [ref=e1793] [cursor=pointer]:
+                            - /url: /user/EagleFly_5/
+                          - generic [ref=e1795]: 🦅🛫_🖐🏼
+                      - generic [ref=e1797]:
+                        - img "u/jaded_toast avatar" [ref=e1802]
+                        - link "u/jaded_toast" [ref=e1806] [cursor=pointer]:
+                          - /url: /user/jaded_toast/
+                      - generic [ref=e1808]:
+                        - img "u/purge-user avatar" [ref=e1813]
+                        - link "u/purge-user" [ref=e1817] [cursor=pointer]:
+                          - /url: /user/purge-user/
+                      - generic [ref=e1819]:
+                        - img "u/flairassistant avatar" [ref=e1824]
+                        - link "u/flairassistant" [ref=e1828] [cursor=pointer]:
+                          - /url: /user/flairassistant/
+                      - generic [ref=e1830]:
+                        - img "u/comment-nuke avatar" [ref=e1835]
+                        - link "u/comment-nuke" [ref=e1839] [cursor=pointer]:
+                          - /url: /user/comment-nuke/
+                      - generic [ref=e1841]:
+                        - img "u/admin-tattler avatar" [ref=e1846]
+                        - link "u/admin-tattler" [ref=e1850] [cursor=pointer]:
+                          - /url: /user/admin-tattler/
+                      - generic [ref=e1852]:
+                        - img "u/sub-stats-bot avatar" [ref=e1857]
+                        - link "u/sub-stats-bot" [ref=e1861] [cursor=pointer]:
+                          - /url: /user/sub-stats-bot/
+                      - generic [ref=e1863]:
+                        - img "u/spotlight-app avatar" [ref=e1868]
+                        - generic [ref=e1871]:
+                          - link "u/spotlight-app" [ref=e1872] [cursor=pointer]:
+                            - /url: /user/spotlight-app/
+                          - 'generic "Flair: Mod Bot 🤖" [ref=e1874]': Mod Bot 🤖
+                      - link "View all moderators" [ref=e1875] [cursor=pointer]:
+                        - /url: /mod/FoodNYC/moderators/
+                        - generic [ref=e1877]: View all moderators
+                    - separator [ref=e1878]
+                    - generic [ref=e1879]:
+                      - heading "Installed Apps" [level=2] [ref=e1881]:
+                        - generic [ref=e1882]: Installed Apps
+                      - link "Remove Macro" [ref=e1883] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/purge-user
+                        - generic [ref=e1886]: Remove Macro
+                        - img [ref=e1889]
+                      - link "Subreddit Statistics" [ref=e1891] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/sub-stats-bot
+                        - generic [ref=e1894]: Subreddit Statistics
+                        - img [ref=e1897]
+                      - link "Flair Assistant" [ref=e1899] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/flairassistant
+                        - generic [ref=e1902]: Flair Assistant
+                        - img [ref=e1905]
+                      - link "Modmail Quick User Summary" [ref=e1907] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/modmail-userinfo
+                        - generic [ref=e1910]: Modmail Quick User Summary
+                        - img [ref=e1913]
+                      - link "Banhammer" [ref=e1915] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/banhammerapp
+                        - generic [ref=e1918]: Banhammer
+                        - img [ref=e1921]
+                      - link "Moderator Mentions" [ref=e1923] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/mod-mentions
+                        - generic [ref=e1926]: Moderator Mentions
+                        - img [ref=e1929]
+                      - link "Comment Mop" [ref=e1931] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/comment-nuke
+                        - generic [ref=e1934]: Comment Mop
+                        - img [ref=e1937]
+                      - link "Admin Tattler" [ref=e1939] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/admin-tattler
+                        - generic [ref=e1942]: Admin Tattler
+                        - img [ref=e1945]
+                      - link "Modqueue Tools" [ref=e1947] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/modqueue-tools
+                        - generic [ref=e1950]: Modqueue Tools
+                        - img [ref=e1953]
+                      - link "Mobile Automod" [ref=e1955] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/automod-app
+                        - generic [ref=e1958]: Mobile Automod
+                        - img [ref=e1961]
+                      - link "Spotlight" [ref=e1963] [cursor=pointer]:
+                        - /url: https://developers.reddit.com/apps/spotlight-app
+                        - generic [ref=e1966]: Spotlight
+                        - img [ref=e1969]
+                  - separator [ref=e1971]
+                  - article [ref=e1974]:
+                    - generic [ref=e1975]:
+                      - generic [ref=e1976]: Promoted
+                      - button "Open user actions" [ref=e1982] [cursor=pointer]:
+                        - img [ref=e1985]
+                    - link "sidebar promoted post thumbnail" [ref=e1988] [cursor=pointer]:
+                      - /url: https://alb.reddit.com/cr?za=sQ0VpJCd5XCEVfSPIVa-m8GJWi69Ff60Y8vYX7_4OJzVetxavuBBmLr4DqCl4SVGIUAoVa7wjde-nUvzkhtED1xD_5PdQVPBEtadwxnoXCSmtl4eRijNDtgMhl3Po9ym7MYvwmLagP4dnzHu6_6L0RzEAYoC3Iu1cO8Y55NSAemd3EN46FCmwnC80iL8r-wer7WQx-NtAk4FfAvUS9Z8LERLnko_if2Xsw0YypjQGc7lU-XBvTLReYK4j_Sf1b223G_JzJKbpSn-UftW7dJnOXVstTq6ILQ5Spgr8w-7EOEkh8X1cJnhrGO0o2GUxAGI5FfynARYONxbON3NjELGZm0hppDj4BwzyQc01Ou47dcdX2gvvZvpHs6GVroc1THr8U2MngE8368-Ey1CbB0nVTafd5fX9ZwLuMagduIzl93PqmgxVojgB6VfF5YrwUyXPbMr6q_VXIofDwFSAo7yYfAATVAnFZT29cZr57SINpcrXO-HEeoGEiUbRc9t8e1J82JoJHrW2nwJSuXAzL1Zw7-LejkyyKfKW9GlCgp72Wk9ctBfZNvIJhjwzmOkjy3oiMLkhiDyuS3oWRq41YnFrcpivuTvZPU8rxuTxHWq6MO876ffSTFPTsMkMrsF2rQkAxgxd-bjkQMwGOd-TNS-JDQ8VzvDSjU&zp=Gx_r3tC0OYmGAw6obO-l6-AVeaL0TUGjBLB-GMbAb_FcJu_f1mSMlumu32Y4sVCxvGjSXhiyq6DJDcpaSEnfuJ0tBisKLX8XKj-F3kb9oejIiA5cn_Sxq1m00f5e7XD_2AdE8okHpsBAH2OTZ1WvTrNOUGDsLz-615b_p2y5IGYxx5Z8-YT_5w78Y6_DPtrsbLsr6952g3VGMg_AgcoYJtLIaFSVyjLQ8HlWzGpt64bnRkLF9UzAxO4Y69qa9rBBjcSV4ChVjPPbnlMkhuBQBWCn8DJ-pA5ayXOeIDhDVwJpKIiYzV14uvUXJr61cQN0UCHFlH3eFRgsQhl67Rvwsb0Ts-24haTPCyNhbDhHHtICP3V-lupT8qV8crAh5tKdpk6efYXDWOUtj3f_0uPo9OH-kXhznXXF-tvN3HtQTWRNJiFpFV7oXGcdaJn4p7kqECBD7ES5IFUDJa_-dl0dcs0OSRzOaHN4myDV
+                      - img "sidebar promoted post thumbnail" [ref=e1990]
+              - generic [ref=e1992]:
+                - link "Reddit Rules" [ref=e1995] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/content-policy
+                - link "Privacy Policy" [ref=e1998] [cursor=pointer]:
+                  - /url: https://www.reddit.com/policies/privacy-policy
+                - link "User Agreement" [ref=e2001] [cursor=pointer]:
+                  - /url: https://www.redditinc.com/policies/user-agreement
+                - link "Your Privacy Choices" [ref=e2004] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - link "Accessibility" [ref=e2007] [cursor=pointer]:
+                  - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - link "Reddit, Inc. © 2026. All rights reserved." [ref=e2009] [cursor=pointer]:
+                  - /url: https://redditinc.com
+        - generic [ref=e2011]:
+          - button "Collapse Navigation" [ref=e2014] [cursor=pointer]:
+            - img [ref=e2017]
+            - generic [ref=e2019]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e2024]:
+            - generic [ref=e2026]:
+              - link "Home" [ref=e2028] [cursor=pointer]:
+                - /url: /?feed=home
+                - generic [ref=e2029]:
+                  - img [ref=e2031]
+                  - generic [ref=e2034]: Home
+              - link "Popular" [ref=e2036] [cursor=pointer]:
+                - /url: /r/popular/
+                - generic [ref=e2037]:
+                  - img [ref=e2039]
+                  - generic [ref=e2042]: Popular
+              - link "News" [ref=e2043] [cursor=pointer]:
+                - /url: /news/
+                - generic [ref=e2044]:
+                  - img [ref=e2046]
+                  - generic [ref=e2050]: News
+              - link "Explore" [ref=e2052] [cursor=pointer]:
+                - /url: /explore/
+                - generic [ref=e2053]:
+                  - img [ref=e2055]
+                  - generic [ref=e2058]: Explore
+              - button "Start a community" [ref=e2059] [cursor=pointer]:
+                - generic [ref=e2060]:
+                  - img [ref=e2062]
+                  - generic [ref=e2065]: Start a community
+            - separator [ref=e2066]
+            - group [ref=e2070]:
+              - generic "GAMES ON REDDIT" [ref=e2071] [cursor=pointer]:
+                - generic [ref=e2072]:
+                  - generic [ref=e2077]:
+                    - generic: GAMES ON REDDIT
+                  - img [ref=e2080]
+            - separator [ref=e2082]
+            - group [ref=e2084]:
+              - generic "CUSTOM FEEDS" [ref=e2085] [cursor=pointer]:
+                - generic [ref=e2087]:
+                  - generic [ref=e2090]: CUSTOM FEEDS
+                  - img [ref=e2093]
+              - button "Create Custom Feed" [ref=e2099] [cursor=pointer]:
+                - generic [ref=e2100]:
+                  - img [ref=e2102]
+                  - generic [ref=e2105]: Create Custom Feed
+            - separator [ref=e2106]
+            - group [ref=e2108]:
+              - generic "COMMUNITIES" [ref=e2109] [cursor=pointer]:
+                - generic [ref=e2111]:
+                  - generic [ref=e2114]: COMMUNITIES
+                  - img [ref=e2117]
+              - generic [ref=e2120]:
+                - link "Manage Communities" [ref=e2121] [cursor=pointer]:
+                  - /url: /user/spicypunketh/communities
+                  - generic [ref=e2122]:
+                    - img [ref=e2124]
+                    - generic [ref=e2127]: Manage Communities
+                - generic [ref=e2129]:
+                  - link "r/BreakUps" [ref=e2131] [cursor=pointer]:
+                    - /url: /r/BreakUps/
+                    - generic [ref=e2132]:
+                      - img [ref=e2137]
+                      - generic [ref=e2140]: r/BreakUps
+                    - button "Remove community from favorites" [ref=e2143]:
+                      - img [ref=e2146]
+                  - link "r/ExNoContact" [ref=e2149] [cursor=pointer]:
+                    - /url: /r/ExNoContact/
+                    - generic [ref=e2150]:
+                      - img [ref=e2155]
+                      - generic [ref=e2158]: r/ExNoContact
+                    - button "Remove community from favorites" [ref=e2161]:
+                      - img [ref=e2164]
+                  - link "r/announcements" [ref=e2167] [cursor=pointer]:
+                    - /url: /r/announcements/
+                    - generic [ref=e2168]:
+                      - img [ref=e2173]
+                      - generic [ref=e2176]: r/announcements
+                    - button "Add community to favorites" [ref=e2179]:
+                      - img [ref=e2182]
+                  - link "r/books" [ref=e2185] [cursor=pointer]:
+                    - /url: /r/books/
+                    - generic [ref=e2186]:
+                      - img [ref=e2191]
+                      - generic [ref=e2194]: r/books
+                    - button "Add community to favorites" [ref=e2197]:
+                      - img [ref=e2200]
+                  - link "r/ChatGPT" [ref=e2203] [cursor=pointer]:
+                    - /url: /r/ChatGPT/
+                    - generic [ref=e2204]:
+                      - img [ref=e2209]
+                      - generic [ref=e2212]: r/ChatGPT
+                    - button "Add community to favorites" [ref=e2215]:
+                      - img [ref=e2218]
+                  - link "r/DecidingToBeBetter" [ref=e2221] [cursor=pointer]:
+                    - /url: /r/DecidingToBeBetter/
+                    - generic [ref=e2222]:
+                      - img [ref=e2227]
+                      - generic [ref=e2230]: r/DecidingToBeBetter
+                    - button "Add community to favorites" [ref=e2233]:
+                      - img [ref=e2236]
+                  - link "r/economy" [ref=e2239] [cursor=pointer]:
+                    - /url: /r/economy/
+                    - generic [ref=e2240]:
+                      - img [ref=e2245]
+                      - generic [ref=e2248]: r/economy
+                    - button "Add community to favorites" [ref=e2251]:
+                      - img [ref=e2254]
+                  - link "r/explainlikeimfive" [ref=e2257] [cursor=pointer]:
+                    - /url: /r/explainlikeimfive/
+                    - generic [ref=e2258]:
+                      - img [ref=e2263]
+                      - generic [ref=e2266]: r/explainlikeimfive
+                    - button "Add community to favorites" [ref=e2269]:
+                      - img [ref=e2272]
+                  - link "r/FoodNYC" [ref=e2275] [cursor=pointer]:
+                    - /url: /r/FoodNYC/
+                    - generic [ref=e2276]:
+                      - img [ref=e2281]
+                      - generic [ref=e2284]: r/FoodNYC
+                    - button "Add community to favorites" [ref=e2287]:
+                      - img [ref=e2290]
+                  - link "r/GAMETHEORY" [ref=e2293] [cursor=pointer]:
+                    - /url: /r/GAMETHEORY/
+                    - generic [ref=e2294]:
+                      - img [ref=e2300]
+                      - generic [ref=e2304]: r/GAMETHEORY
+                    - button "Add community to favorites" [ref=e2307]:
+                      - img [ref=e2310]
+                  - link "r/getdisciplined" [ref=e2313] [cursor=pointer]:
+                    - /url: /r/getdisciplined/
+                    - generic [ref=e2314]:
+                      - img [ref=e2319]
+                      - generic [ref=e2322]: r/getdisciplined
+                    - button "Add community to favorites" [ref=e2325]:
+                      - img [ref=e2328]
+                  - link "r/IAmA" [ref=e2331] [cursor=pointer]:
+                    - /url: /r/IAmA/
+                    - generic [ref=e2332]:
+                      - img [ref=e2337]
+                      - generic [ref=e2340]: r/IAmA
+                    - button "Add community to favorites" [ref=e2343]:
+                      - img [ref=e2346]
+                  - link "r/immigration" [ref=e2349] [cursor=pointer]:
+                    - /url: /r/immigration/
+                    - generic [ref=e2350]:
+                      - img [ref=e2356]
+                      - generic [ref=e2360]: r/immigration
+                    - button "Add community to favorites" [ref=e2363]:
+                      - img [ref=e2366]
+                  - link "r/INTP" [ref=e2369] [cursor=pointer]:
+                    - /url: /r/INTP/
+                    - generic [ref=e2370]:
+                      - img [ref=e2375]
+                      - generic [ref=e2378]: r/INTP
+                    - button "Add community to favorites" [ref=e2381]:
+                      - img [ref=e2384]
+                  - link "r/iOSProgramming" [ref=e2387] [cursor=pointer]:
+                    - /url: /r/iOSProgramming/
+                    - generic [ref=e2388]:
+                      - img [ref=e2393]
+                      - generic [ref=e2396]: r/iOSProgramming
+                    - button "Add community to favorites" [ref=e2399]:
+                      - img [ref=e2402]
+                  - link "r/Manifestation" [ref=e2405] [cursor=pointer]:
+                    - /url: /r/Manifestation/
+                    - generic [ref=e2406]:
+                      - img [ref=e2412]
+                      - generic [ref=e2416]: r/Manifestation
+                    - button "Add community to favorites" [ref=e2419]:
+                      - img [ref=e2422]
+                  - link "r/neoliberal" [ref=e2425] [cursor=pointer]:
+                    - /url: /r/neoliberal/
+                    - generic [ref=e2426]:
+                      - img [ref=e2431]
+                      - generic [ref=e2434]: r/neoliberal
+                    - button "Add community to favorites" [ref=e2437]:
+                      - img [ref=e2440]
+                  - link "r/nycmeetups" [ref=e2443] [cursor=pointer]:
+                    - /url: /r/nycmeetups/
+                    - generic [ref=e2444]:
+                      - img [ref=e2449]
+                      - generic [ref=e2452]: r/nycmeetups
+                    - button "Add community to favorites" [ref=e2455]:
+                      - img [ref=e2458]
+                  - link "r/Sauna" [ref=e2461] [cursor=pointer]:
+                    - /url: /r/Sauna/
+                    - generic [ref=e2462]:
+                      - img [ref=e2467]
+                      - generic [ref=e2470]: r/Sauna
+                    - button "Add community to favorites" [ref=e2473]:
+                      - img [ref=e2476]
+                  - link "r/selfimprovement" [ref=e2479] [cursor=pointer]:
+                    - /url: /r/selfimprovement/
+                    - generic [ref=e2480]:
+                      - img [ref=e2486]
+                      - generic [ref=e2490]: r/selfimprovement
+                    - button "Add community to favorites" [ref=e2493]:
+                      - img [ref=e2496]
+                  - link "r/SideProject" [ref=e2499] [cursor=pointer]:
+                    - /url: /r/SideProject/
+                    - generic [ref=e2500]:
+                      - img [ref=e2505]
+                      - generic [ref=e2508]: r/SideProject
+                    - button "Add community to favorites" [ref=e2511]:
+                      - img [ref=e2514]
+                  - link "r/skiing" [ref=e2517] [cursor=pointer]:
+                    - /url: /r/skiing/
+                    - generic [ref=e2518]:
+                      - img [ref=e2523]
+                      - generic [ref=e2526]: r/skiing
+                    - button "Add community to favorites" [ref=e2529]:
+                      - img [ref=e2532]
+                  - link "r/startups" [ref=e2535] [cursor=pointer]:
+                    - /url: /r/startups/
+                    - generic [ref=e2536]:
+                      - img [ref=e2541]
+                      - generic [ref=e2544]: r/startups
+                    - button "Add community to favorites" [ref=e2547]:
+                      - img [ref=e2550]
+                  - link "r/userexperience" [ref=e2553] [cursor=pointer]:
+                    - /url: /r/userexperience/
+                    - generic [ref=e2554]:
+                      - img [ref=e2559]
+                      - generic [ref=e2562]: r/userexperience
+                    - button "Add community to favorites" [ref=e2565]:
+                      - img [ref=e2568]
+            - separator [ref=e2570]
+            - navigation "Reddit resources" [ref=e2571]:
+              - group [ref=e2573]:
+                - generic "RESOURCES" [ref=e2574] [cursor=pointer]:
+                  - generic [ref=e2576]:
+                    - generic [ref=e2579]: RESOURCES
+                    - img [ref=e2582]
+                - generic [ref=e2585]:
+                  - link "About Reddit" [ref=e2587] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e2588]:
+                      - img [ref=e2590]
+                      - generic [ref=e2594]: About Reddit
+                  - link "Advertise" [ref=e2596] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e2597]:
+                      - img [ref=e2599]
+                      - generic [ref=e2603]: Advertise
+                  - link "Developer Platform" [ref=e2605] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e2606]:
+                      - img [ref=e2608]
+                      - generic [ref=e2612]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e2614] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e2615]:
+                      - img [ref=e2617]
+                      - generic [ref=e2621]:
+                        - generic [ref=e2622]: Reddit Pro
+                        - generic [ref=e2623]: BETA
+                  - link "Help" [ref=e2625] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e2626]:
+                      - img [ref=e2628]
+                      - generic [ref=e2632]: Help
+                  - link "Blog" [ref=e2634] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e2635]:
+                      - img [ref=e2637]
+                      - generic [ref=e2641]: Blog
+                  - link "Careers" [ref=e2643] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e2644]:
+                      - img [ref=e2646]
+                      - generic [ref=e2650]: Careers
+                  - link "Press" [ref=e2652] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e2653]:
+                      - img [ref=e2655]
+                      - generic [ref=e2659]: Press
+                  - separator [ref=e2660]
+                  - link "Best of Reddit" [ref=e2662] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e2663]:
+                      - img [ref=e2665]
+                      - generic [ref=e2670]: Best of Reddit
+                  - separator [ref=e2671]
+                  - link "Reddit Rules" [ref=e2673] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e2674]:
+                      - img [ref=e2676]
+                      - generic [ref=e2680]: Reddit Rules
+                  - link "Privacy Policy" [ref=e2682] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e2683]:
+                      - img [ref=e2685]
+                      - generic [ref=e2689]: Privacy Policy
+                  - link "User Agreement" [ref=e2691] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e2692]:
+                      - img [ref=e2694]
+                      - generic [ref=e2698]: User Agreement
+                  - link "Your Privacy Choices" [ref=e2700] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e2701]:
+                      - img [ref=e2703]
+                      - generic [ref=e2707]: Your Privacy Choices
+                  - link "Accessibility" [ref=e2709] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e2710]:
+                      - img [ref=e2712]
+                      - generic [ref=e2717]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e2719] [cursor=pointer]:
+              - /url: https://redditinc.com

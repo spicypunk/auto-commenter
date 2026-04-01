@@ -1,0 +1,14 @@
+[     282ms] [LOG] Navigation listeners online @ https://www.redditstatic.com/shreddit/en-US/CsVOCn4IxW.js:0
+[     535ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.reddit.com/login/:0
+[     537ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://www.reddit.com/login/:0
+[   11520ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reddit.com/svc/shreddit/account/login/check_is_oidc_required:0
+[   12378ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reddit.com/svc/shreddit/account/login/check_is_oidc_required:0
+[   14708ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://www.reddit.com/svc/shreddit/account/login/check_is_oidc_required:0
+[   47235ms] Error: Connection has been terminated.
+    at closed (https://www.redditstatic.com/shreddit/en-US/CsVOCn4IxW.js:1:245882)
+    at Object.emit (https://www.redditstatic.com/shreddit/en-US/CsVOCn4IxW.js:1:240729)
+    at n.onclose (https://www.redditstatic.com/shreddit/en-US/CsVOCn4IxW.js:1:241490)
+[   51300ms] Error: Connection has been terminated.
+    at closed (https://www.redditstatic.com/shreddit/en-US/CsVOCn4IxW.js:1:245882)
+    at Object.emit (https://www.redditstatic.com/shreddit/en-US/CsVOCn4IxW.js:1:240729)
+    at n.onclose (https://www.redditstatic.com/shreddit/en-US/CsVOCn4IxW.js:1:241490)

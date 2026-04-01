@@ -1,0 +1,1222 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - link "jump to content" [ref=e3] [cursor=pointer]:
+      - /url: "#content"
+    - generic [ref=e5]:
+      - button "GET NEW REDDIT" [ref=e6] [cursor=pointer]
+      - generic [ref=e8] [cursor=pointer]: my subreddits
+      - generic [ref=e9]:
+        - list [ref=e10]:
+          - listitem [ref=e11]:
+            - link "home" [ref=e12] [cursor=pointer]:
+              - /url: https://old.reddit.com/
+          - listitem [ref=e13]:
+            - text: "-"
+            - link "popular" [ref=e14] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/popular/
+          - listitem [ref=e15]:
+            - text: "-"
+            - link "all" [ref=e16] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/all/
+          - listitem [ref=e17]:
+            - text: "-"
+            - link "users" [ref=e18] [cursor=pointer]:
+              - /url: https://old.reddit.com/users/
+        - text: "|"
+        - list [ref=e19]:
+          - listitem [ref=e20]:
+            - link "explainlikeimfive" [ref=e21] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/explainlikeimfive/
+          - listitem [ref=e22]:
+            - text: "-"
+            - link "ChatGPT" [ref=e23] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/ChatGPT/
+          - listitem [ref=e24]:
+            - text: "-"
+            - link "books" [ref=e25] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/books/
+          - listitem [ref=e26]:
+            - text: "-"
+            - link "skiing" [ref=e27] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/skiing/
+          - listitem [ref=e28]:
+            - text: "-"
+            - link "IAmA" [ref=e29] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/IAmA/
+          - listitem [ref=e30]:
+            - text: "-"
+            - link "selfimprovement" [ref=e31] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/selfimprovement/
+          - listitem [ref=e32]:
+            - text: "-"
+            - link "neoliberal" [ref=e33] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/neoliberal/
+          - listitem [ref=e34]:
+            - text: "-"
+            - link "getdisciplined" [ref=e35] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/getdisciplined/
+          - listitem [ref=e36]:
+            - text: "-"
+            - link "immigration" [ref=e37] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/immigration/
+          - listitem [ref=e38]:
+            - text: "-"
+            - link "startups" [ref=e39] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/startups/
+          - listitem [ref=e40]:
+            - text: "-"
+            - link "BreakUps" [ref=e41] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/BreakUps/
+          - listitem [ref=e42]:
+            - text: "-"
+            - link "announcements" [ref=e43] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/announcements/
+          - listitem [ref=e44]:
+            - text: "-"
+            - link "DecidingToBeBetter" [ref=e45] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/DecidingToBeBetter/
+          - listitem [ref=e46]:
+            - text: "-"
+            - link "FoodNYC" [ref=e47] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/FoodNYC/
+          - listitem [ref=e48]:
+            - text: "-"
+            - link "ExNoContact" [ref=e49] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/ExNoContact/
+          - listitem [ref=e50]:
+            - text: "-"
+            - link "economy" [ref=e51] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/economy/
+          - listitem [ref=e52]:
+            - text: "-"
+            - link "SideProject" [ref=e53] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/SideProject/
+          - listitem [ref=e54]:
+            - text: "-"
+            - link "iOSProgramming" [ref=e55] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/iOSProgramming/
+          - listitem [ref=e56]:
+            - text: "-"
+            - link "Sauna" [ref=e57] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/Sauna/
+          - listitem [ref=e58]:
+            - text: "-"
+            - link "INTP" [ref=e59] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/INTP/
+          - listitem [ref=e60]:
+            - text: "-"
+            - link "userexperience" [ref=e61] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/userexperience/
+          - listitem [ref=e62]:
+            - text: "-"
+            - link "nycmeetups" [ref=e63] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/nycmeetups/
+          - listitem [ref=e64]:
+            - text: "-"
+            - link "GAMETHEORY" [ref=e65] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/GAMETHEORY/
+          - listitem [ref=e66]:
+            - text: "-"
+            - link "Manifestation" [ref=e67] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/Manifestation/
+      - link "edit »" [ref=e68] [cursor=pointer]:
+        - /url: https://old.reddit.com/subreddits/
+    - generic [ref=e69]:
+      - link "reddit.com" [ref=e70] [cursor=pointer]:
+        - /url: /
+      - link "FoodNYC" [ref=e72] [cursor=pointer]:
+        - /url: https://old.reddit.com/r/FoodNYC/
+      - list [ref=e73]:
+        - listitem [ref=e74]:
+          - link "comments" [ref=e75] [cursor=pointer]:
+            - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/
+    - generic [ref=e76]:
+      - generic [ref=e77]:
+        - link "spicypunketh" [ref=e78] [cursor=pointer]:
+          - /url: https://old.reddit.com/user/spicypunketh/
+        - text: (372)
+      - text: "|"
+      - link "messages" [ref=e79] [cursor=pointer]:
+        - /url: https://old.reddit.com/message/unread/
+      - link "181" [ref=e80] [cursor=pointer]:
+        - /url: https://old.reddit.com/message/unread/
+      - text: "|"
+      - link "notifications" [ref=e81] [cursor=pointer]:
+        - /url: https://reddit.com/notifications
+      - text: "|"
+      - link "chat messages" [ref=e82] [cursor=pointer]:
+        - /url: https://chat.reddit.com
+      - text: "|"
+      - list [ref=e83]:
+        - listitem [ref=e84]:
+          - link "preferences" [ref=e85] [cursor=pointer]:
+            - /url: https://old.reddit.com/prefs/
+      - text: "|"
+      - link "logout" [ref=e87] [cursor=pointer]:
+        - /url: javascript:void(0)
+  - generic [ref=e88]:
+    - search [ref=e90]:
+      - textbox "search" [ref=e91]
+      - button "Submit" [ref=e92] [cursor=pointer]
+    - generic [ref=e94]:
+      - generic [ref=e95]:
+        - text: this post was submitted on
+        - time [ref=e96]: 31 Mar 2026
+      - generic [ref=e97]: 11 points (93% upvoted)
+      - generic [ref=e98]:
+        - text: "shortlink:"
+        - textbox [ref=e99]: https://redd.it/1s930f6
+    - link "Submit a new link" [ref=e103] [cursor=pointer]:
+      - /url: https://old.reddit.com/r/FoodNYC/submit
+    - link "Submit a new text post" [ref=e108] [cursor=pointer]:
+      - /url: https://old.reddit.com/r/FoodNYC/submit?selftext=true
+    - generic [ref=e111]:
+      - heading "FoodNYC" [level=1] [ref=e112]:
+        - link "FoodNYC" [ref=e113] [cursor=pointer]:
+          - /url: https://old.reddit.com/r/FoodNYC/
+      - link "leave" [ref=e115] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e116]:
+        - checkbox "Show my flair on this subreddit. It looks like:" [checked] [ref=e117]
+        - text: "Show my flair on this subreddit. It looks like:"
+      - generic [ref=e118]:
+        - link "spicypunketh" [ref=e119] [cursor=pointer]:
+          - /url: https://old.reddit.com/user/spicypunketh
+        - text: (
+        - link "edit" [ref=e120] [cursor=pointer]:
+          - /url: javascript://void(0)
+        - text: )
+      - generic [ref=e123]:
+        - paragraph [ref=e124]: FoodNYC is dedicated towards showcasing food from all over New York City! Share pictures, reviews, websites, etc. Not just limited to pictures of food, but anything food related in NYC.
+        - paragraph [ref=e125]:
+          - text: "NYC Restaurant leaderboard:"
+          - link "King of the Hill" [ref=e126] [cursor=pointer]:
+            - /url: https://www.kinghill.nyc/
+        - paragraph [ref=e127]:
+          - strong [ref=e128]: Rules
+        - paragraph [ref=e129]:
+          - strong [ref=e130]: NO POLITICS
+        - list [ref=e131]:
+          - listitem [ref=e132]:
+            - paragraph [ref=e133]: Please add venue's website or social media (IG, 4SQ, Yelp) links if you're only posting a photo.
+          - listitem [ref=e134]:
+            - paragraph [ref=e135]: Be friendly
+          - listitem [ref=e136]:
+            - paragraph [ref=e137]:
+              - text: Try to specify
+              - strong [ref=e138]: where
+              - text: the food is from in the comments or title
+          - listitem [ref=e139]:
+            - paragraph [ref=e140]:
+              - text: Try to specify the
+              - strong [ref=e141]: price
+              - text: in the comments or title
+          - listitem [ref=e142]:
+            - paragraph [ref=e143]:
+              - text: Don't post food you did
+              - strong [ref=e144]: not
+              - text: like
+          - listitem [ref=e145]:
+            - paragraph [ref=e146]: No hate, flamewars, rude comments, etc
+          - listitem [ref=e147]:
+            - paragraph [ref=e148]:
+              - text: Food must be either a product, dish served by restaurant, or any other food facility. All homemade cooking posts belong in
+              - link "/r/Food" [ref=e149] [cursor=pointer]:
+                - /url: /r/Food
+              - text: or
+              - link "/r/Cooking" [ref=e150] [cursor=pointer]:
+                - /url: /r/Cooking
+        - paragraph [ref=e151]:
+          - strong [ref=e152]: Related Subs
+        - list [ref=e153]:
+          - listitem [ref=e154]:
+            - paragraph [ref=e155]:
+              - link "/r/CheapEatsNYC" [ref=e156] [cursor=pointer]:
+                - /url: /r/CheapEatsNYC
+          - listitem [ref=e157]:
+            - paragraph [ref=e158]:
+              - link "/r/nyctakeout" [ref=e159] [cursor=pointer]:
+                - /url: /r/nyctakeout
+          - listitem [ref=e160]:
+            - paragraph [ref=e161]:
+              - link "/r/nycbakery" [ref=e162] [cursor=pointer]:
+                - /url: /r/nycbakery
+        - paragraph [ref=e163]:
+          - strong [ref=e164]: The Food Network
+        - list [ref=e165]:
+          - listitem [ref=e166]:
+            - paragraph [ref=e167]:
+              - link "/r/FoodNJ" [ref=e168] [cursor=pointer]:
+                - /url: /r/FoodNJ
+          - listitem [ref=e169]:
+            - paragraph [ref=e170]:
+              - link "/r/FoodLosAngeles" [ref=e171] [cursor=pointer]:
+                - /url: /r/FoodLosAngeles
+          - listitem [ref=e172]:
+            - paragraph [ref=e173]:
+              - link "/r/FoodToronto" [ref=e174] [cursor=pointer]:
+                - /url: /r/FoodToronto
+          - listitem [ref=e175]:
+            - paragraph [ref=e176]:
+              - link "/r/FoodPortland" [ref=e177] [cursor=pointer]:
+                - /url: /r/FoodPortland
+          - listitem [ref=e178]:
+            - paragraph [ref=e179]:
+              - link "/r/FoodVancouver" [ref=e180] [cursor=pointer]:
+                - /url: /r/FoodVancouver
+          - listitem [ref=e181]:
+            - paragraph [ref=e182]:
+              - link "/r/FoodSanDiego" [ref=e183] [cursor=pointer]:
+                - /url: /r/FoodSanDiego
+          - listitem [ref=e184]:
+            - paragraph [ref=e185]:
+              - link "/r/ChicagoFood" [ref=e186] [cursor=pointer]:
+                - /url: /r/ChicagoFood
+          - listitem [ref=e187]:
+            - paragraph [ref=e188]:
+              - link "/r/ColumbusFood" [ref=e189] [cursor=pointer]:
+                - /url: /r/ColumbusFood
+          - listitem [ref=e190]:
+            - paragraph [ref=e191]:
+              - link "/r/FoodSoCal" [ref=e192] [cursor=pointer]:
+                - /url: /r/FoodSoCal
+          - listitem [ref=e193]:
+            - paragraph [ref=e194]:
+              - link "/r/FoodSanFrancisco" [ref=e195] [cursor=pointer]:
+                - /url: /r/FoodSanFrancisco
+          - listitem [ref=e196]:
+            - paragraph [ref=e197]:
+              - link "/r/FoodNewOrleans" [ref=e198] [cursor=pointer]:
+                - /url: /r/FoodNewOrleans
+      - generic [ref=e199]:
+        - text: created by
+        - link "AOL_" [ref=e200] [cursor=pointer]:
+          - /url: https://old.reddit.com/user/AOL_
+        - generic [ref=e201]:
+          - text: a community for
+          - time [ref=e202]: 11 years
+    - generic [ref=e204]:
+      - heading "MODERATORS" [level=1] [ref=e206]
+      - list [ref=e207]:
+        - listitem [ref=e208]:
+          - link "message the mods" [ref=e209] [cursor=pointer]:
+            - /url: /message/compose/?to=/r/FoodNYC
+        - listitem [ref=e210]:
+          - link "shamam" [ref=e211] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/shamam
+        - listitem [ref=e212]:
+          - link "Marx0r" [ref=e213] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/Marx0r
+        - listitem [ref=e214]:
+          - link "EagleFly_5" [ref=e215] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/EagleFly_5
+        - listitem [ref=e216]:
+          - link "jaded_toast" [ref=e217] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/jaded_toast
+        - listitem [ref=e218]:
+          - link "purge-user" [ref=e219] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/purge-user
+        - listitem [ref=e220]:
+          - link "flairassistant" [ref=e221] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/flairassistant
+        - listitem [ref=e222]:
+          - link "comment-nuke" [ref=e223] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/comment-nuke
+        - listitem [ref=e224]:
+          - link "admin-tattler" [ref=e225] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/admin-tattler
+        - listitem [ref=e226]:
+          - link "sub-stats-bot" [ref=e227] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/sub-stats-bot
+        - listitem [ref=e228]:
+          - link "spotlight-app" [ref=e229] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/spotlight-app
+          - generic "Mod Bot 🤖" [ref=e230]
+        - listitem [ref=e231]:
+          - link "...and 6 more »" [ref=e232] [cursor=pointer]:
+            - /url: /r/FoodNYC/about/moderators
+    - paragraph [ref=e235]:
+      - link "account activity" [ref=e236] [cursor=pointer]:
+        - /url: /account-activity
+  - main [ref=e237]:
+    - generic [ref=e239]:
+      - paragraph
+      - generic [ref=e240]:
+        - button "upvote" [ref=e241] [cursor=pointer]
+        - generic "11" [ref=e242]
+        - button "downvote" [ref=e243] [cursor=pointer]
+      - link [ref=e244] [cursor=pointer]:
+        - /url: /r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/
+      - generic [ref=e245]:
+        - generic [ref=e246]:
+          - paragraph [ref=e247]:
+            - link "What is your top 3 restaurants in the UES?" [ref=e248] [cursor=pointer]:
+              - /url: /r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/
+            - generic "Question" [ref=e249]
+            - generic [ref=e250]:
+              - text: (
+              - link "self.FoodNYC" [ref=e251] [cursor=pointer]:
+                - /url: /r/FoodNYC/
+              - text: )
+          - paragraph [ref=e252]:
+            - text: submitted
+            - time [ref=e253]: 3 hours ago
+            - time [ref=e254]: "*"
+            - text: by
+            - link "mendy_br" [ref=e255] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/mendy_br
+        - paragraph [ref=e260]: Title says it all! Rank more if you want, please. Think fancy dinner with your partner, like we are going for the very best here but capping budget at $150 per person.
+        - list [ref=e261]:
+          - listitem [ref=e262]:
+            - link "26 comments" [ref=e263] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/
+          - listitem [ref=e264]:
+            - link "share" [ref=e265] [cursor=pointer]:
+              - /url: "javascript: void 0;"
+          - listitem [ref=e266]:
+            - link "save" [ref=e267] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e268]:
+            - link "hide" [ref=e271] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - listitem [ref=e272]:
+            - link "report" [ref=e273] [cursor=pointer]:
+              - /url: javascript:void(0)
+          - listitem [ref=e274]:
+            - link "crosspost" [ref=e275] [cursor=pointer]:
+              - /url: "javascript: void 0;"
+    - generic [ref=e276]:
+      - generic [ref=e277]: all 26 comments
+      - generic [ref=e279]:
+        - text: "sorted by:"
+        - generic [ref=e280]: best
+      - generic [ref=e282]:
+        - textbox [ref=e284]
+        - generic [ref=e285]:
+          - link "formatting help" [ref=e287] [cursor=pointer]:
+            - /url: "#"
+          - link "content policy" [ref=e288] [cursor=pointer]:
+            - /url: /help/contentpolicy
+          - button "save" [active] [ref=e290] [cursor=pointer]
+      - generic [ref=e291]:
+        - generic [ref=e931]:
+          - paragraph
+          - generic [ref=e932]:
+            - button "upvote" [ref=e933] [cursor=pointer]
+            - button "downvote" [ref=e934] [cursor=pointer]
+          - generic [ref=e935]:
+            - paragraph [ref=e936]:
+              - link "[–]" [ref=e937] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - link "spicypunketh" [ref=e938] [cursor=pointer]:
+                - /url: https://old.reddit.com/user/spicypunketh
+              - text: 1 point
+              - time [ref=e939]: just now
+            - paragraph [ref=e943]: Up Thai is hard to beat for the price. Sfoglia if you want something more intimate, the pasta is genuinely great. and honestly Cafe d'Alsace doesn't get mentioned enough, solid French bistro food without the fuss.
+            - list [ref=e944]:
+              - listitem [ref=e945]:
+                - link "permalink" [ref=e946] [cursor=pointer]:
+                  - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odmhdpv/
+              - listitem [ref=e947]:
+                - link "save" [ref=e948] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e949]:
+                - link "edit" [ref=e950] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e951]:
+                - link "disable inbox replies" [ref=e954] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e955]:
+                - link "delete" [ref=e958] [cursor=pointer]:
+                  - /url: "#"
+              - listitem [ref=e959]:
+                - link "reply" [ref=e960] [cursor=pointer]:
+                  - /url: javascript:void(0)
+        - generic [ref=e292]:
+          - paragraph
+          - generic [ref=e293]:
+            - button "upvote" [ref=e294] [cursor=pointer]
+            - button "downvote" [ref=e295] [cursor=pointer]
+          - generic [ref=e296]:
+            - paragraph [ref=e297]:
+              - link "[–]" [ref=e298] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - link "heywhatsuphello29" [ref=e299] [cursor=pointer]:
+                - /url: https://old.reddit.com/user/heywhatsuphello29
+              - text: 6 points
+              - time [ref=e300]: 2 hours ago
+            - paragraph [ref=e304]: Tanoshi sushi
+            - list [ref=e305]:
+              - listitem [ref=e306]:
+                - link "permalink" [ref=e307] [cursor=pointer]:
+                  - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odlol9t/
+              - listitem [ref=e308]:
+                - link "embed" [ref=e309] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e310]:
+                - link "save" [ref=e311] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e312]:
+                - link "report" [ref=e313] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e314]:
+                - link "reply" [ref=e315] [cursor=pointer]:
+                  - /url: javascript:void(0)
+        - generic [ref=e316]:
+          - paragraph
+          - generic [ref=e317]:
+            - button "upvote" [ref=e318] [cursor=pointer]
+            - button "downvote" [ref=e319] [cursor=pointer]
+          - generic [ref=e320]:
+            - paragraph [ref=e321]:
+              - link "[–]" [ref=e322] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - link "maxmilder" [ref=e323] [cursor=pointer]:
+                - /url: https://old.reddit.com/user/maxmilder
+              - text: 4 points
+              - time [ref=e324]: an hour ago
+            - paragraph [ref=e328]: Throwing L’Incontro into the mix - I also agree with others that Up Thai and Tanoshi are top tier
+            - list [ref=e329]:
+              - listitem [ref=e330]:
+                - link "permalink" [ref=e331] [cursor=pointer]:
+                  - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm36i8/
+              - listitem [ref=e332]:
+                - link "embed" [ref=e333] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e334]:
+                - link "save" [ref=e335] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e336]:
+                - link "report" [ref=e337] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e338]:
+                - link "reply" [ref=e339] [cursor=pointer]:
+                  - /url: javascript:void(0)
+          - generic [ref=e342]:
+            - paragraph
+            - generic [ref=e343]:
+              - button "upvote" [ref=e344] [cursor=pointer]
+              - button "downvote" [ref=e345] [cursor=pointer]
+            - generic [ref=e346]:
+              - paragraph [ref=e347]:
+                - link "[–]" [ref=e348] [cursor=pointer]:
+                  - /url: javascript:void(0)
+                - link "Calm_Machine7634" [ref=e349] [cursor=pointer]:
+                  - /url: https://old.reddit.com/user/Calm_Machine7634
+                - text: 2 points
+                - time [ref=e350]: 50 minutes ago
+              - paragraph [ref=e354]: Tanoshi sushi or Tanoshi Tei? Tanoshi Tei currently has a C rating according to ABCEats
+              - list [ref=e355]:
+                - listitem [ref=e356]:
+                  - link "permalink" [ref=e357] [cursor=pointer]:
+                    - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm8itz/
+                - listitem [ref=e358]:
+                  - link "embed" [ref=e359] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e360]:
+                  - link "save" [ref=e361] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e362]:
+                  - link "parent" [ref=e363] [cursor=pointer]:
+                    - /url: "#odm36i8"
+                - listitem [ref=e364]:
+                  - link "report" [ref=e365] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e366]:
+                  - link "reply" [ref=e367] [cursor=pointer]:
+                    - /url: javascript:void(0)
+            - generic [ref=e370]:
+              - paragraph
+              - generic [ref=e371]:
+                - button "upvote" [ref=e372] [cursor=pointer]
+                - button "downvote" [ref=e373] [cursor=pointer]
+              - generic [ref=e374]:
+                - paragraph [ref=e375]:
+                  - link "[–]" [ref=e376] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                  - link "maxmilder" [ref=e377] [cursor=pointer]:
+                    - /url: https://old.reddit.com/user/maxmilder
+                  - text: 1 point
+                  - time [ref=e378]: 49 minutes ago
+                - paragraph [ref=e382]: Tanoshi Sushi. Small omakase spot on York/73rd
+                - list [ref=e383]:
+                  - listitem [ref=e384]:
+                    - link "permalink" [ref=e385] [cursor=pointer]:
+                      - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm8qgk/
+                  - listitem [ref=e386]:
+                    - link "embed" [ref=e387] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e388]:
+                    - link "save" [ref=e389] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e390]:
+                    - link "parent" [ref=e391] [cursor=pointer]:
+                      - /url: "#odm8itz"
+                  - listitem [ref=e392]:
+                    - link "report" [ref=e393] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e394]:
+                    - link "reply" [ref=e395] [cursor=pointer]:
+                      - /url: javascript:void(0)
+              - generic [ref=e398]:
+                - paragraph
+                - generic [ref=e399]:
+                  - button "upvote" [ref=e400] [cursor=pointer]
+                  - button "downvote" [ref=e401] [cursor=pointer]
+                - generic [ref=e402]:
+                  - paragraph [ref=e403]:
+                    - link "[–]" [ref=e404] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                    - link "Calm_Machine7634" [ref=e405] [cursor=pointer]:
+                      - /url: https://old.reddit.com/user/Calm_Machine7634
+                    - text: 2 points
+                    - time [ref=e406]: 46 minutes ago
+                  - paragraph [ref=e410]: Ah ok they have an A but Tanoshi Tei nextdoor seemingly related appears to have a C
+                  - list [ref=e411]:
+                    - listitem [ref=e412]:
+                      - link "permalink" [ref=e413] [cursor=pointer]:
+                        - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm979c/
+                    - listitem [ref=e414]:
+                      - link "embed" [ref=e415] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                    - listitem [ref=e416]:
+                      - link "save" [ref=e417] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                    - listitem [ref=e418]:
+                      - link "parent" [ref=e419] [cursor=pointer]:
+                        - /url: "#odm8qgk"
+                    - listitem [ref=e420]:
+                      - link "report" [ref=e421] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                    - listitem [ref=e422]:
+                      - link "reply" [ref=e423] [cursor=pointer]:
+                        - /url: javascript:void(0)
+        - generic [ref=e424]:
+          - paragraph
+          - generic [ref=e425]:
+            - button "upvote" [ref=e426] [cursor=pointer]
+            - button "downvote" [ref=e427] [cursor=pointer]
+          - generic [ref=e428]:
+            - paragraph [ref=e429]:
+              - link "[–]" [ref=e430] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - link "historyfirst" [ref=e431] [cursor=pointer]:
+                - /url: https://old.reddit.com/user/historyfirst
+              - text: 3 points
+              - time [ref=e432]: an hour ago
+            - paragraph [ref=e436]: NR
+            - list [ref=e437]:
+              - listitem [ref=e438]:
+                - link "permalink" [ref=e439] [cursor=pointer]:
+                  - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odlyezf/
+              - listitem [ref=e440]:
+                - link "embed" [ref=e441] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e442]:
+                - link "save" [ref=e443] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e444]:
+                - link "report" [ref=e445] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e446]:
+                - link "reply" [ref=e447] [cursor=pointer]:
+                  - /url: javascript:void(0)
+        - generic [ref=e448]:
+          - paragraph
+          - generic [ref=e449]:
+            - button "upvote" [ref=e450] [cursor=pointer]
+            - button "downvote" [ref=e451] [cursor=pointer]
+          - generic [ref=e452]:
+            - paragraph [ref=e453]:
+              - link "[–]" [ref=e454] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - link "matan11m" [ref=e455] [cursor=pointer]:
+                - /url: https://old.reddit.com/user/matan11m
+              - generic [ref=e456]:
+                - text: "["
+                - link "🍰" [ref=e457] [cursor=pointer]:
+                  - /url: /user/matan11m
+                - text: "]"
+              - text: 3 points
+              - time [ref=e458]: an hour ago
+            - paragraph [ref=e462]: Sushi Jin
+            - list [ref=e463]:
+              - listitem [ref=e464]:
+                - link "permalink" [ref=e465] [cursor=pointer]:
+                  - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm1j32/
+              - listitem [ref=e466]:
+                - link "embed" [ref=e467] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e468]:
+                - link "save" [ref=e469] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e470]:
+                - link "report" [ref=e471] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e472]:
+                - link "reply" [ref=e473] [cursor=pointer]:
+                  - /url: javascript:void(0)
+        - generic [ref=e474]:
+          - paragraph
+          - generic [ref=e475]:
+            - button "upvote" [ref=e476] [cursor=pointer]
+            - button "downvote" [ref=e477] [cursor=pointer]
+          - generic [ref=e478]:
+            - paragraph [ref=e479]:
+              - link "[–]" [ref=e480] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - link "M4xw3ll" [ref=e481] [cursor=pointer]:
+                - /url: https://old.reddit.com/user/M4xw3ll
+              - text: 7 points
+              - time [ref=e482]: 3 hours ago
+            - paragraph [ref=e486]: Tha Phraya, Bayon
+            - list [ref=e487]:
+              - listitem [ref=e488]:
+                - link "permalink" [ref=e489] [cursor=pointer]:
+                  - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odli54n/
+              - listitem [ref=e490]:
+                - link "embed" [ref=e491] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e492]:
+                - link "save" [ref=e493] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e494]:
+                - link "report" [ref=e495] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e496]:
+                - link "reply" [ref=e497] [cursor=pointer]:
+                  - /url: javascript:void(0)
+          - generic [ref=e499]:
+            - generic [ref=e500]:
+              - paragraph
+              - generic [ref=e501]:
+                - button "upvote" [ref=e502] [cursor=pointer]
+                - button "downvote" [ref=e503] [cursor=pointer]
+              - generic [ref=e504]:
+                - paragraph [ref=e505]:
+                  - link "[–]" [ref=e506] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                  - link "tpc0121" [ref=e507] [cursor=pointer]:
+                    - /url: https://old.reddit.com/user/tpc0121
+                  - text: 6 points
+                  - time [ref=e508]: 3 hours ago
+                - paragraph [ref=e512]: tha phraya is very easily the best thai restaurant in the UES
+                - list [ref=e513]:
+                  - listitem [ref=e514]:
+                    - link "permalink" [ref=e515] [cursor=pointer]:
+                      - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odlihrg/
+                  - listitem [ref=e516]:
+                    - link "embed" [ref=e517] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e518]:
+                    - link "save" [ref=e519] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e520]:
+                    - link "parent" [ref=e521] [cursor=pointer]:
+                      - /url: "#odli54n"
+                  - listitem [ref=e522]:
+                    - link "report" [ref=e523] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e524]:
+                    - link "reply" [ref=e525] [cursor=pointer]:
+                      - /url: javascript:void(0)
+              - generic [ref=e528]:
+                - paragraph
+                - generic [ref=e529]:
+                  - button "upvote" [ref=e530] [cursor=pointer]
+                  - button "downvote" [ref=e531] [cursor=pointer]
+                - generic [ref=e532]:
+                  - paragraph [ref=e533]:
+                    - link "[–]" [ref=e534] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                    - link "Calm_Machine7634" [ref=e535] [cursor=pointer]:
+                      - /url: https://old.reddit.com/user/Calm_Machine7634
+                    - text: 1 point
+                    - time [ref=e536]: 48 minutes ago
+                  - paragraph [ref=e540]: Personally I prefer Up Thai, I was not very impressed with Tha Phraya but maybe we ordered wrong
+                  - list [ref=e541]:
+                    - listitem [ref=e542]:
+                      - link "permalink" [ref=e543] [cursor=pointer]:
+                        - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm8yp4/
+                    - listitem [ref=e544]:
+                      - link "embed" [ref=e545] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                    - listitem [ref=e546]:
+                      - link "save" [ref=e547] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                    - listitem [ref=e548]:
+                      - link "parent" [ref=e549] [cursor=pointer]:
+                        - /url: "#odlihrg"
+                    - listitem [ref=e550]:
+                      - link "report" [ref=e551] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                    - listitem [ref=e552]:
+                      - link "reply" [ref=e553] [cursor=pointer]:
+                        - /url: javascript:void(0)
+            - generic [ref=e554]:
+              - paragraph
+              - generic [ref=e555]:
+                - button "upvote" [ref=e556] [cursor=pointer]
+                - button "downvote" [ref=e557] [cursor=pointer]
+              - generic [ref=e558]:
+                - paragraph [ref=e559]:
+                  - link "[–]" [ref=e560] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                  - link "hotsauce_X" [ref=e561] [cursor=pointer]:
+                    - /url: https://old.reddit.com/user/hotsauce_X
+                  - text: 2 points
+                  - time [ref=e562]: an hour ago
+                - paragraph [ref=e566]: Bayon has a recent C sanitary grading btw….it’s a no for me dawg
+                - list [ref=e567]:
+                  - listitem [ref=e568]:
+                    - link "permalink" [ref=e569] [cursor=pointer]:
+                      - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm6c20/
+                  - listitem [ref=e570]:
+                    - link "embed" [ref=e571] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e572]:
+                    - link "save" [ref=e573] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e574]:
+                    - link "parent" [ref=e575] [cursor=pointer]:
+                      - /url: "#odli54n"
+                  - listitem [ref=e576]:
+                    - link "report" [ref=e577] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e578]:
+                    - link "reply" [ref=e579] [cursor=pointer]:
+                      - /url: javascript:void(0)
+              - generic [ref=e582]:
+                - paragraph
+                - generic [ref=e583]:
+                  - button "upvote" [ref=e584] [cursor=pointer]
+                  - button "downvote" [ref=e585] [cursor=pointer]
+                - generic [ref=e586]:
+                  - paragraph [ref=e587]:
+                    - link "[–]" [ref=e588] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                    - link "Calm_Machine7634" [ref=e589] [cursor=pointer]:
+                      - /url: https://old.reddit.com/user/Calm_Machine7634
+                    - text: 2 points
+                    - time [ref=e590]: 48 minutes ago
+                  - paragraph [ref=e594]: Whoa yikes did not know that, thanks for the heads up
+                  - list [ref=e595]:
+                    - listitem [ref=e596]:
+                      - link "permalink" [ref=e597] [cursor=pointer]:
+                        - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm8tfg/
+                    - listitem [ref=e598]:
+                      - link "embed" [ref=e599] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                    - listitem [ref=e600]:
+                      - link "save" [ref=e601] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                    - listitem [ref=e602]:
+                      - link "parent" [ref=e603] [cursor=pointer]:
+                        - /url: "#odm6c20"
+                    - listitem [ref=e604]:
+                      - link "report" [ref=e605] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                    - listitem [ref=e606]:
+                      - link "reply" [ref=e607] [cursor=pointer]:
+                        - /url: javascript:void(0)
+        - generic [ref=e608]:
+          - paragraph
+          - generic [ref=e609]:
+            - button "upvote" [ref=e610] [cursor=pointer]
+            - button "downvote" [ref=e611] [cursor=pointer]
+          - generic [ref=e612]:
+            - paragraph [ref=e613]:
+              - link "[–]" [ref=e614] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - link "Calm_Machine7634" [ref=e615] [cursor=pointer]:
+                - /url: https://old.reddit.com/user/Calm_Machine7634
+              - text: 4 points
+              - time [ref=e616]: 2 hours ago
+              - time [ref=e617]: "*"
+            - generic [ref=e620]:
+              - paragraph [ref=e621]: Chez Fifi, Cafe Commerce, haven’t been but Le Veau d'Or is supposed to be good, Sfoglia, Felice 83
+              - paragraph [ref=e622]: "ETA: Chez Fifi and Felice 83 have romantical vibes if that’s what you’re looking for."
+            - list [ref=e623]:
+              - listitem [ref=e624]:
+                - link "permalink" [ref=e625] [cursor=pointer]:
+                  - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odllsyc/
+              - listitem [ref=e626]:
+                - link "embed" [ref=e627] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e628]:
+                - link "save" [ref=e629] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e630]:
+                - link "report" [ref=e631] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e632]:
+                - link "reply" [ref=e633] [cursor=pointer]:
+                  - /url: javascript:void(0)
+          - generic [ref=e636]:
+            - paragraph
+            - generic [ref=e637]:
+              - button "upvote" [ref=e638] [cursor=pointer]
+              - button "downvote" [ref=e639] [cursor=pointer]
+            - generic [ref=e640]:
+              - paragraph [ref=e641]:
+                - link "[–]" [ref=e642] [cursor=pointer]:
+                  - /url: javascript:void(0)
+                - link "buckeye2114" [ref=e643] [cursor=pointer]:
+                  - /url: https://old.reddit.com/user/buckeye2114
+                - text: 1 point
+                - time [ref=e644]: 1 hour ago
+              - paragraph [ref=e648]: Le Veau d’Or is amazing
+              - list [ref=e649]:
+                - listitem [ref=e650]:
+                  - link "permalink" [ref=e651] [cursor=pointer]:
+                    - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm6a0w/
+                - listitem [ref=e652]:
+                  - link "embed" [ref=e653] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e654]:
+                  - link "save" [ref=e655] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e656]:
+                  - link "parent" [ref=e657] [cursor=pointer]:
+                    - /url: "#odllsyc"
+                - listitem [ref=e658]:
+                  - link "report" [ref=e659] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e660]:
+                  - link "reply" [ref=e661] [cursor=pointer]:
+                    - /url: javascript:void(0)
+            - generic [ref=e664]:
+              - paragraph
+              - generic [ref=e665]:
+                - button "upvote" [ref=e666] [cursor=pointer]
+                - button "downvote" [ref=e667] [cursor=pointer]
+              - generic [ref=e668]:
+                - paragraph [ref=e669]:
+                  - link "[–]" [ref=e670] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                  - link "Calm_Machine7634" [ref=e671] [cursor=pointer]:
+                    - /url: https://old.reddit.com/user/Calm_Machine7634
+                  - text: 2 points
+                  - time [ref=e672]: 51 minutes ago
+                - paragraph [ref=e676]: Been trying to go but it’s impossible to get a res!
+                - list [ref=e677]:
+                  - listitem [ref=e678]:
+                    - link "permalink" [ref=e679] [cursor=pointer]:
+                      - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm85nw/
+                  - listitem [ref=e680]:
+                    - link "embed" [ref=e681] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e682]:
+                    - link "save" [ref=e683] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e684]:
+                    - link "parent" [ref=e685] [cursor=pointer]:
+                      - /url: "#odm6a0w"
+                  - listitem [ref=e686]:
+                    - link "report" [ref=e687] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e688]:
+                    - link "reply" [ref=e689] [cursor=pointer]:
+                      - /url: javascript:void(0)
+        - generic [ref=e690]:
+          - paragraph
+          - generic [ref=e691]:
+            - button "upvote" [ref=e692] [cursor=pointer]
+            - button "downvote" [ref=e693] [cursor=pointer]
+          - generic [ref=e694]:
+            - paragraph [ref=e695]:
+              - link "[–]" [ref=e696] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - link "nyc2everywhere" [ref=e697] [cursor=pointer]:
+                - /url: https://old.reddit.com/user/nyc2everywhere
+              - text: 1 point
+              - time [ref=e698]: 1 hour ago
+            - paragraph [ref=e702]: Ishikawa omakase is FANTASTIC. Campagnola and Elio's are classics. Soledad is excellent. Lyly, while less expensive than the others, is a favorite. Love Tino's and Flex Mussels too!!
+            - list [ref=e703]:
+              - listitem [ref=e704]:
+                - link "permalink" [ref=e705] [cursor=pointer]:
+                  - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm2h74/
+              - listitem [ref=e706]:
+                - link "embed" [ref=e707] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e708]:
+                - link "save" [ref=e709] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e710]:
+                - link "report" [ref=e711] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e712]:
+                - link "reply" [ref=e713] [cursor=pointer]:
+                  - /url: javascript:void(0)
+        - generic [ref=e714]:
+          - paragraph
+          - generic [ref=e715]:
+            - button "upvote" [ref=e716] [cursor=pointer]
+            - button "downvote" [ref=e717] [cursor=pointer]
+          - generic [ref=e718]:
+            - paragraph [ref=e719]:
+              - link "[–]" [ref=e720] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - link "Edgesam324" [ref=e721] [cursor=pointer]:
+                - /url: https://old.reddit.com/user/Edgesam324
+              - text: 1 point
+              - time [ref=e722]: 56 minutes ago
+            - paragraph [ref=e726]: Il Mulino, Veau D’Or, Primola, Cafe Commerce, Hoexter’s
+            - list [ref=e727]:
+              - listitem [ref=e728]:
+                - link "permalink" [ref=e729] [cursor=pointer]:
+                  - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm7c0z/
+              - listitem [ref=e730]:
+                - link "embed" [ref=e731] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e732]:
+                - link "save" [ref=e733] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e734]:
+                - link "report" [ref=e735] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e736]:
+                - link "reply" [ref=e737] [cursor=pointer]:
+                  - /url: javascript:void(0)
+        - generic [ref=e738]:
+          - paragraph
+          - generic [ref=e739]:
+            - button "upvote" [ref=e740] [cursor=pointer]
+            - button "downvote" [ref=e741] [cursor=pointer]
+          - generic [ref=e742]:
+            - paragraph [ref=e743]:
+              - link "[–]" [ref=e744] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - link "WhatDidntDiddyDo" [ref=e745] [cursor=pointer]:
+                - /url: https://old.reddit.com/user/WhatDidntDiddyDo
+              - text: 1 point
+              - time [ref=e746]: 3 hours ago
+            - paragraph [ref=e750]: Elios for classic Southern Italian
+            - list [ref=e751]:
+              - listitem [ref=e752]:
+                - link "permalink" [ref=e753] [cursor=pointer]:
+                  - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odlhl5b/
+              - listitem [ref=e754]:
+                - link "embed" [ref=e755] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e756]:
+                - link "save" [ref=e757] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e758]:
+                - link "report" [ref=e759] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e760]:
+                - link "reply" [ref=e761] [cursor=pointer]:
+                  - /url: javascript:void(0)
+          - generic [ref=e764]:
+            - paragraph
+            - generic [ref=e765]:
+              - button "upvote" [ref=e766] [cursor=pointer]
+              - button "downvote" [ref=e767] [cursor=pointer]
+            - generic [ref=e768]:
+              - paragraph [ref=e769]:
+                - link "[–]" [ref=e770] [cursor=pointer]:
+                  - /url: javascript:void(0)
+                - link "nightkingscat" [ref=e771] [cursor=pointer]:
+                  - /url: https://old.reddit.com/user/nightkingscat
+                - text: 0 points
+                - time [ref=e772]: 1 hour ago
+              - paragraph [ref=e776]: Gross
+              - list [ref=e777]:
+                - listitem [ref=e778]:
+                  - link "permalink" [ref=e779] [cursor=pointer]:
+                    - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm62s7/
+                - listitem [ref=e780]:
+                  - link "embed" [ref=e781] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e782]:
+                  - link "save" [ref=e783] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e784]:
+                  - link "parent" [ref=e785] [cursor=pointer]:
+                    - /url: "#odlhl5b"
+                - listitem [ref=e786]:
+                  - link "report" [ref=e787] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e788]:
+                  - link "reply" [ref=e789] [cursor=pointer]:
+                    - /url: javascript:void(0)
+        - generic [ref=e790]:
+          - paragraph
+          - generic [ref=e791]:
+            - button "upvote" [ref=e792] [cursor=pointer]
+            - button "downvote" [ref=e793] [cursor=pointer]
+          - generic [ref=e794]:
+            - paragraph [ref=e795]:
+              - link "[–]" [ref=e796] [cursor=pointer]:
+                - /url: javascript:void(0)
+              - link "butter718" [ref=e797] [cursor=pointer]:
+                - /url: https://old.reddit.com/user/butter718
+              - text: 1 point
+              - time [ref=e798]: 1 hour ago
+            - list [ref=e802]:
+              - listitem [ref=e803]: Lincontro by Rocco
+              - listitem [ref=e804]: Sandro’s
+              - listitem [ref=e805]: Mission Ceviche
+            - list [ref=e806]:
+              - listitem [ref=e807]:
+                - link "permalink" [ref=e808] [cursor=pointer]:
+                  - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm6hc9/
+              - listitem [ref=e809]:
+                - link "embed" [ref=e810] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e811]:
+                - link "save" [ref=e812] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e813]:
+                - link "report" [ref=e814] [cursor=pointer]:
+                  - /url: javascript:void(0)
+              - listitem [ref=e815]:
+                - link "reply" [ref=e816] [cursor=pointer]:
+                  - /url: javascript:void(0)
+          - generic [ref=e819]:
+            - paragraph
+            - generic [ref=e820]:
+              - button "upvote" [ref=e821] [cursor=pointer]
+              - button "downvote" [ref=e822] [cursor=pointer]
+            - generic [ref=e823]:
+              - paragraph [ref=e824]:
+                - link "[–]" [ref=e825] [cursor=pointer]:
+                  - /url: javascript:void(0)
+                - link "butter718" [ref=e826] [cursor=pointer]:
+                  - /url: https://old.reddit.com/user/butter718
+                - text: 0 points
+                - time [ref=e827]: 59 minutes ago
+              - paragraph [ref=e831]: Adding in Hoexters as well
+              - list [ref=e832]:
+                - listitem [ref=e833]:
+                  - link "permalink" [ref=e834] [cursor=pointer]:
+                    - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odm6r3b/
+                - listitem [ref=e835]:
+                  - link "embed" [ref=e836] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e837]:
+                  - link "save" [ref=e838] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e839]:
+                  - link "parent" [ref=e840] [cursor=pointer]:
+                    - /url: "#odm6hc9"
+                - listitem [ref=e841]:
+                  - link "report" [ref=e842] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                - listitem [ref=e843]:
+                  - link "reply" [ref=e844] [cursor=pointer]:
+                    - /url: javascript:void(0)
+            - generic [ref=e847]:
+              - paragraph
+              - generic [ref=e848]:
+                - button "upvote" [ref=e849] [cursor=pointer]
+                - button "downvote" [ref=e850] [cursor=pointer]
+              - generic [ref=e851]:
+                - paragraph [ref=e852]:
+                  - link "[–]" [ref=e853] [cursor=pointer]:
+                    - /url: javascript:void(0)
+                  - link "York_Villain" [ref=e854] [cursor=pointer]:
+                    - /url: https://old.reddit.com/user/York_Villain
+                  - text: 1 point
+                  - time [ref=e855]: 39 minutes ago
+                - paragraph [ref=e859]: This place always has a crowd.
+                - list [ref=e860]:
+                  - listitem [ref=e861]:
+                    - link "permalink" [ref=e862] [cursor=pointer]:
+                      - /url: https://old.reddit.com/r/FoodNYC/comments/1s930f6/what_is_your_top_3_restaurants_in_the_ues/odmae0w/
+                  - listitem [ref=e863]:
+                    - link "embed" [ref=e864] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e865]:
+                    - link "save" [ref=e866] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e867]:
+                    - link "parent" [ref=e868] [cursor=pointer]:
+                      - /url: "#odm6r3b"
+                  - listitem [ref=e869]:
+                    - link "report" [ref=e870] [cursor=pointer]:
+                      - /url: javascript:void(0)
+                  - listitem [ref=e871]:
+                    - link "reply" [ref=e872] [cursor=pointer]:
+                      - /url: javascript:void(0)
+        - generic [ref=e873]:
+          - paragraph
+          - paragraph [ref=e875]:
+            - link "[+]" [ref=e876] [cursor=pointer]:
+              - /url: javascript:void(0)
+            - link "FramboiseDorleac" [ref=e877] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/FramboiseDorleac
+            - text: comment score below threshold
+            - link "(1 child)" [ref=e878] [cursor=pointer]:
+              - /url: javascript:void(0)
+        - generic [ref=e879]:
+          - paragraph
+          - paragraph [ref=e881]:
+            - link "[+]" [ref=e882] [cursor=pointer]:
+              - /url: javascript:void(0)
+            - link "Bangkok_Dangeresque" [ref=e883] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Bangkok_Dangeresque
+            - text: comment score below threshold
+            - link "(1 child)" [ref=e884] [cursor=pointer]:
+              - /url: javascript:void(0)
+  - generic [ref=e885]:
+    - generic [ref=e886]:
+      - list [ref=e888]:
+        - listitem [ref=e889]: about
+        - listitem [ref=e890]:
+          - link "blog" [ref=e891] [cursor=pointer]:
+            - /url: https://redditblog.com
+        - listitem [ref=e892]:
+          - link "about" [ref=e893] [cursor=pointer]:
+            - /url: https://www.redditinc.com
+        - listitem [ref=e894]:
+          - link "advertising" [ref=e895] [cursor=pointer]:
+            - /url: https://www.redditinc.com/advertising
+        - listitem [ref=e896]:
+          - link "careers" [ref=e897] [cursor=pointer]:
+            - /url: https://www.redditinc.com/careers
+      - list [ref=e899]:
+        - listitem [ref=e900]: help
+        - listitem [ref=e901]:
+          - link "site rules" [ref=e902] [cursor=pointer]:
+            - /url: https://old.reddit.com/rules/
+        - listitem [ref=e903]:
+          - link "Reddit help center" [ref=e904] [cursor=pointer]:
+            - /url: https://www.reddithelp.com
+        - listitem [ref=e905]:
+          - link "reddiquette" [ref=e906] [cursor=pointer]:
+            - /url: https://old.reddit.com/wiki/reddiquette/
+        - listitem [ref=e907]:
+          - link "mod guidelines" [ref=e908] [cursor=pointer]:
+            - /url: https://old.reddit.com/help/healthycommunities/
+        - listitem [ref=e909]:
+          - link "contact us" [ref=e910] [cursor=pointer]:
+            - /url: https://old.reddit.com/contact/
+      - list [ref=e912]:
+        - listitem [ref=e913]: apps & tools
+        - listitem [ref=e914]:
+          - link "Reddit for iPhone" [ref=e915] [cursor=pointer]:
+            - /url: https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8
+        - listitem [ref=e916]:
+          - link "Reddit for Android" [ref=e917] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.reddit.frontpage
+        - listitem [ref=e918]:
+          - link "mobile website" [ref=e919] [cursor=pointer]:
+            - /url: "#"
+      - list [ref=e921]:
+        - listitem [ref=e922]: <3
+        - listitem [ref=e923]:
+          - link "reddit premium" [ref=e924] [cursor=pointer]:
+            - /url: https://old.reddit.com/premium/
+    - paragraph [ref=e925]:
+      - text: Use of this site constitutes acceptance of our
+      - link "User Agreement" [ref=e926] [cursor=pointer]:
+        - /url: https://old.reddit.com/help/useragreement
+      - text: and
+      - link "Privacy Policy" [ref=e927] [cursor=pointer]:
+        - /url: https://old.reddit.com/help/privacypolicy
+      - text: . © 2026 reddit inc. All rights reserved.
+    - paragraph [ref=e928]: REDDIT and the ALIEN Logo are registered trademarks of reddit inc.
+  - img [ref=e929]
+  - paragraph [ref=e930]: π

@@ -237,3 +237,5 @@ PASS → Post / FAIL → Revise and re-review
 - [ ] Does it overall look like one person wrote it?
 
 **If any is NO, adjust variety**
+
+
