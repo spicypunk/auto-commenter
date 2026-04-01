@@ -8,26 +8,33 @@
 
 | Subreddit | Subscribers | Daily Limit |
 |-----------|-------------|-------------|
-| r/WebDev | ~2.8M | 3 |
+| r/getdisciplined | ~1.6M | 3 |
+| r/INTP | ~190K | 3 |
 | r/ClaudeAI | ~180K | 3 |
-| r/Cursor | ~30K | 3 |
-| r/LocalLLaMA | ~450K | 3 |
 | r/ChatGPT | ~6.9M | 3 |
-| r/SideProject | ~330K | 3 |
-| r/Obsidian | ~190K | 3 |
-| r/Rag | ~15K | 3 |
+| r/FoodNYC | ~130K | 3 |
 
 ---
 
 ## Subreddit-Specific Guides
 
-### r/WebDev
+### r/getdisciplined
 
 | Item | Content |
 |------|---------|
-| **Core Community Rules** | • No spam/self-promotion<br>• Professional tone<br>• "Showoff Saturday" only for project sharing |
-| **Community Nature** | • Professional developer-focused<br>• Technical discussion, best practices sharing<br>• Technical, Professional |
-| **Good Topics to Answer** | • AI integration in web apps<br>• Developer productivity tools<br>• Context management in development |
+| **Core Community Rules** | • Help others attain self-discipline<br>• Share what helps you<br>• Be supportive, no judgment |
+| **Community Nature** | • Supportive, goal-oriented community<br>• Focus on accountability and real progress<br>• Values practical advice over theory |
+| **Good Topics to Answer** | • Procrastination and perfectionism<br>• Building habits and routines<br>• Productivity systems (Pomodoro, time-blocking)<br>• Sleep, minimalism, and lifestyle optimization |
+
+---
+
+### r/INTP
+
+| Item | Content |
+|------|---------|
+| **Core Community Rules** | • For and maintained by INTPs<br>• All MBTI types welcome<br>• Add MBTI type to flair |
+| **Community Nature** | • Analytical, introspective community<br>• Discussion-focused (mostly self-posts)<br>• Values abstract thinking and deep analysis |
+| **Good Topics to Answer** | • Cognitive patterns and overanalyzing<br>• Productivity struggles specific to INTPs<br>• Existential/philosophical discussions<br>• Introversion and social dynamics |
 
 ---
 
@@ -41,26 +48,6 @@
 
 ---
 
-### r/Cursor
-
-| Item | Content |
-|------|---------|
-| **Core Community Rules** | • Cursor-related content only<br>• Share tips and workflows<br>• Be helpful to newcomers |
-| **Community Nature** | • AI coding tool early adopters<br>• Interested in workflow optimization<br>• Active practical tips sharing |
-| **Good Topics to Answer** | • Context switching between tools<br>• Maintaining project context<br>• AI coding workflow optimization |
-
----
-
-### r/LocalLLaMA
-
-| Item | Content |
-|------|---------|
-| **Core Community Rules** | • **No commercial spam (very strict)**<br>• Technical depth required<br>• Open source preferred |
-| **Community Nature** | • Most demanding technical community<br>• Very negative toward commercial promotion<br>• Values open source contribution |
-| **Good Topics to Answer** | • Memory architecture for LLMs<br>• Context window optimization<br>• RAG vs semantic memory<br>• **Pure technical discussion only** |
-
----
-
 ### r/ChatGPT
 
 | Item | Content |
@@ -71,32 +58,12 @@
 
 ---
 
-### r/SideProject
+### r/FoodNYC
 
 | Item | Content |
 |------|---------|
-| **Core Community Rules** | • Share with context and story<br>• "Show and Tell" welcomed<br>• Engage with other builders |
-| **Community Nature** | • Most promotion-friendly<br>• Culture of builders supporting each other<br>• Values sharing development process/lessons learned |
-| **Good Topics to Answer** | • Building with MCP<br>• Hackathon to product journey<br>• Early stage startup challenges<br>• **Beta tester recruitment possible** |
-
----
-
-### r/Obsidian
-
-| Item | Content |
-|------|---------|
-| **Core Community Rules** | • Obsidian-related content only<br>• "Community Showcase" for tools<br>• No spam, useful tools welcomed |
-| **Community Nature** | • Serious about building Second Brain<br>• Active in adopting plugins/tools<br>• High willingness to pay for useful tools |
-| **Good Topics to Answer** | • Obsidian + AI integration<br>• Vault as AI context source<br>• PKM workflow optimization<br>• MCP server for Obsidian |
-
----
-
-### r/Rag
-
-| Item | Content |
-|------|---------|
-| **Core Community Rules** | • RAG technical content only<br>• Research papers welcome<br>• Quality over quantity |
-| **Community Nature** | • RAG specialist community<br>• Architecture discussion, paper reviews<br>• Values implementation experience sharing |
-| **Good Topics to Answer** | • Hybrid RAG architecture (Graph + Vector)<br>• Personal context vs enterprise RAG<br>• Multi-hop retrieval<br>• Semantic cache implementation |
+| **Core Community Rules** | • NYC food-related content only<br>• No spam or excessive self-promotion<br>• Be respectful and helpful |
+| **Community Nature** | • Local food enthusiasts in New York City<br>• Mix of residents, tourists, and foodies<br>• Values personal experience and honest recommendations |
+| **Good Topics to Answer** | • Restaurant recommendations by neighborhood or cuisine<br>• Hidden gems and underrated spots<br>• Best value meals and deals<br>• Food event and pop-up recommendations |
 
 ---
